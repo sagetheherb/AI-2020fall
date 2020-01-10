@@ -8,7 +8,7 @@
 ## About the Instructor
 * Name: Badri Adhikari
 * Email: adhikarib@umsl.edu (Please use your university email account to send me emails)
-* Office Hours: Mondays 1 PM to 4:15 PM
+* Office Hours: Mondays 1 PM to 4 PM
 * Office Location: 312 ESH
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
@@ -67,35 +67,36 @@ This schedule will be updated as the class progresses.
 
 | `Week` | `Date` | `Topic` | 
 | --- | --- | --- | 
-| 01 | Aug 19, Mon | Syllabus + Python Tutorial |
-| 01 | Aug 21, Wed | Numpy Tutorial |
-| 02 | Aug 26, Mon | Matplotlib + Chapter 18 |
-| 02 | Aug 28, Wed | Chapter 18 |
-| - | - | Labor Day | 
-| 03 | Sep 04, Wed | Chapter 18 |
-| 04 | Sep 09, Mon | NN Examples - Binary Classification and Regression |
-| 04 | Sep 11, Wed | Project Discussion |
-| 05 | Sep 16, Mon | Revision for Test 1 |
-| 05 | Sep 18, Wed | **Test 1** (Covers Chapter 18) |
-| 06 | Sep 23, Mon | Chapter 1 |
-| 06 | Sep 25, Wed | Chapter 2 + Chapter 3 |
-| 07 | Sep 30, Mon | Chapter 3 |
-| 07 | Oct 02, Wed | Chapter 3 |
-| 08 | Oct 07, Mon | Chapter 3 + Chapter 5 |
-| 08 | Oct 09, Wed | Chapter 5 |
-| 09 | Oct 14, Mon | Chapter 5 + Chapter 6 |
-| 09 | Oct 16, Wed | Chapter 6 |
-| 10 | Oct 21, Mon | Chapter 7 |
-| 10 | Oct 23, Wed | Chapter 7 |
-| 11 | Oct 28, Mon | Chapter 7 + Chapter 22 |
-| 11 | Oct 30, Wed | Chapter 22 |
-| 12 | Nov 04, Mon | Chapter 22 + Chapter 24 |
-| 12 | Nov 06, Wed | Chapter 24 + Chapter 25 |
-| 13 | Nov 11, Mon | Chapter 25 + Discuss Test2 Questions |
-| 13 | Nov 13, Wed | - |
-| 14 | Nov 18, Mon | - |
-| 14 | Nov 20, Wed | **Test 2** (Covers all remaining chapters) |
-| - | - | Thanksgiving holiday |
+| 01 | Jan 22, Wed | Syllabus + Python Tutorial |
+| 02 | Jan 27, Mon |  |
+| 02 | Jan 29, Wed |  |
+| 03 | Feb 03, Mon |  |
+| 03 | Feb 05, Wed |  |
+| 04 | Feb 10, Mon |  |
+| 04 | Feb 12, Wed |  |
+| 05 | Feb 17, Mon |  |
+| 05 | Feb 19, Wed |  |
+| 06 | Feb 24, Mon |  |
+| 06 | Feb 26, Wed |  |
+| 07 | Mar 02, Mon |  |
+| 07 | Mar 04, Wed |  |
+| 08 | Mar 09, Mon |  |
+| 08 | Mar 11, Wed |  |
+| 09 | Mar 16, Mon |  |
+| 09 | Mar 18, Wed |  |
+| - | - | Spring break |
+| 11 | Mar 30, Mon |  |
+| 11 | Apr 01, Wed |  |
+| 12 | Apr 06, Mon |  |
+| 12 | Apr 08, Wed |  |
+| 13 | Apr 13, Mon |  |
+| 13 | Apr 15, Wed |  |
+| 14 | Apr 20, Mon |  |
+| 14 | Apr 22, Wed |  |
+| 15 | Apr 27, Mon |  |
+| 15 | Apr 29, Wed |  |
+| 16 | May 04, Mon |  |
+| 16 | May 06, Wed |  |
 | - | Dec 02, Mon | Cancelled |
 | - | Dec 04, Wed | Cancelled |
 | - | Dec 09, Mon | **Poster Presentations - 10 AM to Noon at SSB 218** |  
