@@ -147,6 +147,3 @@ Please see the 'homeworks' folder.
 | B+ | <90% to 87% | | C | <77% to 74% | | D- | <64% to 61% |
 | B | <87% to 84% | | C- | <74% to 70% | | F | <61% to 0% |
 
----------------
-## Students' Projects
-Will be updated towards the end!
