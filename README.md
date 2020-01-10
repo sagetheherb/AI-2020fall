@@ -8,7 +8,7 @@
 ## About the Instructor
 * Name: Badri Adhikari
 * Email: adhikarib@umsl.edu (Please use your university email account to send me emails)
-* Office Hours: Mondays and Wednesdays from 12:30 PM to 2 PM (after the class)
+* Office Hours: Mondays 1 PM to 4:15 PM
 * Office Location: 312 ESH
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
@@ -28,8 +28,7 @@
 * Implement various AI algorithms such as DFS, BFS, etc.
 
 ### Class meets  
-* MW 11:00 AM - 12:15 PM at SSB 218
-* Lectures will also be delivered "live" accessible via Zoom (see Canvas page for the link)
+* MW 4:00 AM - 5:15 PM at Clark Hall 307
 
 ### Course Materials  
 Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
