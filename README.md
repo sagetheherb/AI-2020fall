@@ -97,9 +97,7 @@ This schedule will be updated as the class progresses.
 | 15 | Apr 29, Wed |  |
 | 16 | May 04, Mon |  |
 | 16 | May 06, Wed |  |
-| - | Dec 02, Mon | Cancelled |
-| - | Dec 04, Wed | Cancelled |
-| - | Dec 09, Mon | **Poster Presentations - 10 AM to Noon at SSB 218** |  
+| - | May 11, Mon | **Final Exam - 2:45 PM to 4:45 PM at Clark Hall 307** |  
 
 ## Course Policies
 
