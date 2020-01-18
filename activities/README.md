@@ -2,6 +2,22 @@
 
 --------------  
 
+Syllabus, Kaggle, Colab, Python
+Practice Python, Numpy, Pandas
+Practice Python, Numpy, Pandas
+Univariate linear regression
+Linear regression with two input variables
+Logistic regression
+Basics of Neural Networks
+
+
+Implement Breadth-first search
+
+Alpha-beta pruning
+
+Implement BM25
+
+
 1. Syllabus Review
 1. Introduction to [Google Colab](https://colab.research.google.com)
 1. Get started with Google Colaboratory - [3 minute video](https://www.youtube.com/watch?v=inN8seMm7UI)
