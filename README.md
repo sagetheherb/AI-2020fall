@@ -85,6 +85,7 @@ This schedule will be updated as the class progresses.
 | 09 | M/03/16 | `Activity:` Evaluating real-valued predictions |
 | 09 | W/03/18 | **`Test06`** Ch06 - Constraint satisfaction problems |
 | - | - | Spring break |
+| - | - | Spring break |
 | 11 | M/03/30 | Discussion: Peer-review of project notebooks |
 | 11 | W/04/01 | Activity: Decision tress and XGBoost |
 | 12 | M/04/06 | **`Test07`** Ch07 - Logical agents + Activity: Feature Importance using XGBoost + Activity: Overfitting vs generalization using decision trees |
