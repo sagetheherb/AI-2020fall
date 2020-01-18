@@ -78,7 +78,7 @@ Please see the 'project' folder.
 Besides the main course project milestones, there will be no other homeworks.
 
 ## Tests 
-* There will be short tests almost every week (see the course schedule)
+* There will be short tests almost every week on Wednesdays (see the course schedule)
 * Tests will be CLOSED book, CLOSED notes, and CLOSED electronics
 * Use of any type of electronics is strictly forbidden during tests
 
