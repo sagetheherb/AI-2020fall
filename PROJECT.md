@@ -31,6 +31,8 @@ b) A PDF report describing your findings
     - Document your performance comparison
 1. Study performance difference when linear activation is used instead of sigmoid (and vice versa)
    - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons?
+1. Discuss what architecture (how big) you need to overfit the data
+1. Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
 1. Evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
 1. Code a function that represents your model
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
