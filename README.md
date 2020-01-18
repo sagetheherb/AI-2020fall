@@ -87,8 +87,8 @@ This schedule will be updated as the class progresses.
 | - | - | Spring break |
 | 11 | Mar 30, Mon | Activity: Decision tress and XGBoost |
 | 11 | Apr 01, Wed | **`Test07`** Ch07 - Logical agents + Activity: Feature Importance using XGBoost|
-| 12 | Apr 06, Mon | Activity: Overfitting vs generalization |
-| 12 | Apr 08, Wed | **`Test08:`** Ch22 - NLP |
+| 12 | Apr 06, Mon | Activity: Overfitting vs generalization using decision trees |
+| 12 | Apr 08, Wed | **`Test08:`** Ch22 - NLP + Activity: Ov vs Ge using NN |
 | 13 | Apr 13, Mon |  |
 | 13 | Apr 15, Wed | **`Test09:`** Ch24 - Perception + Activity: Implement BM25 |
 | 14 | Apr 20, Mon |  |
