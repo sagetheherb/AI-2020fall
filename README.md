@@ -88,15 +88,17 @@ Besides the main course project milestones, there will be no other homeworks.
 * More than 5 uninformed absenses may lead to failing the course
 
 ## Grade Composition  
-* 5 * 10 points = 10 Tests
-* 30 points = Test 1 and Test 2
-* 10 points = Project Proposal (with review comments)
-* 10 points = Initial Report (with review comments)
-* 5 points = Peer-review of proposals
-* 5 points = Peer-review of initial reports
-* 10 points = Project Poster Presentation
-* 20 points = Final Report  
+* 10 * 4 points = 10 Tests
+* 20 * 1 points = 20 Activities
+* 40     points = Project
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
+
+#### Project (40 points)
+* 10  points = Data analysis & preparation
+* 10  points = Model selection & evaluation
+* 5  points = Feature importance and reduction
+* 5  points = At least two peer-reviews
+* 10 points = Poster presentation (score from external judges, peers, and instructor)
 
 ## Grading Scheme  
 | Grade | Points |  | Grade | Points |   | Grade | Points | 
