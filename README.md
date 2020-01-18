@@ -72,7 +72,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 * Once you use your late days, late submissions will get no points.
 
 ## Projects
-Please see the 'project' folder.
+See the [PROJECT.md](PROJECT.md).
 
 ## Homeworks
 Besides the main course project milestones, there will be no other homeworks.
