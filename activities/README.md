@@ -14,13 +14,19 @@
 * Practice [univariate_linear_regression.ipynb](univariate_linear_regression.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select two variables (one input and one output) and perform univariate linear regression
+  - Check that the variables you select are continuous
 
 ## Ch18: Linear regression with two input variables
 * Practice [Linear_Regression_with_Two_Input_Variables.ipynb](Linear_Regression_with_Two_Input_Variables.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select three variables (two input and one output) and perform regression
+  - Check that the variables you select are continuous
 
 ## Ch18: Logistic regression
+* Practice [Logistic_Regression_Example.ipynb](Logistic_Regression_Example.ipynb)
+* Find a classification dataset of your choice at [kaggle.com](https://kaggle.com/)
+* From this dataset, select three variables (two input and one output) and perform regression
+  - Check that the output variable is binary
 
 ## Discussion: Basics of neural networks
 
