@@ -1,7 +1,6 @@
 <img src="supporting_files/umsl.png" align="middle" width="400"/>
 
-## Artificial Intelligence - CMP SCI 4300/5300
-## Syllabus - 2020 Spring
+## Syllabus of Artificial Intelligence (CMP SCI 4300/5300) - 2020 Spring
 
 [Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
 
@@ -42,18 +41,17 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
   - Chapter 1 - Introduction 
   - Chapter 2 - Intelligent Agents
   - Chapter 3 - Solving Problems by Searching 
-**Chapter 5 - Adversarial Search**  
-**Chapter 6 - Constraint Satisfaction Problems**
-**Chapter 7 - Logical Agents**  
-**Chapter 22 - Natural Language Processing**  
-**Chapter 24 - Perception**  
-**Chapter 25 - Robotics**  
-**Chapter 26 - Philosophical Foundations**  
-### Machine learning using Keras  
-**Basics of Python, Numpy and Keras**  
-**Design, train, and evaluate basic feed-forward neural networks**  
-**Study feature importance and feature reduction**  
-
+  - Chapter 5 - Adversarial Search
+  - Chapter 6 - Constraint Satisfaction Problems
+  - Chapter 7 - Logical Agents 
+  - Chapter 22 - Natural Language Processing
+  - Chapter 24 - Perception 
+  - Chapter 25 - Robotics 
+  - Chapter 26 - Philosophical Foundations  
+- Machine learning using Keras  
+  - Basics of Python, Numpy and Keras
+  - Design, train, and evaluate basic feed-forward neural networks
+  - Study feature importance and feature reduction
 
 ## ➛Course Schedule
 | `Week` | `Date` | `Topic` | 
