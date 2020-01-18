@@ -1,6 +1,6 @@
 # Project Expectations
 * You will work on your projects individually (i.e. group submissions are not allowed).
-* Proposal and Final Report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a> or any other LaTeX editor.
+* All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
 * Each of you will review at least two reports of the peers in your group.
 * Poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
 
