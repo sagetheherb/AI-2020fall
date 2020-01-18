@@ -33,10 +33,16 @@
 * Groups ask questions to each other
 
 ## Binary classification using NN
-
+* Practice the first part of [Binary_Classification.ipynb](Binary_Classification.ipynb), i.e. only upto `model.fit()`
+* Find a classification dataset of your choice at [kaggle.com](https://kaggle.com/)
+  - Check that the output variable is binary
+* Build a binary NN classifier for your dataset
+* Build a logistic regression model and observe the accuracy
 
 ## Evaluating a binary classifier
-
+* Practice the second part of [Binary_Classification.ipynb](Binary_Classification.ipynb), i.e. after `model.fit()`
+* Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
+* What is the baseline accuracy?
 
 ## Ch03: Implement Breadth-first search
 
