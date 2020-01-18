@@ -33,7 +33,7 @@
 All course materials are inside the relevant folders in Github location.
 
 ## Textbook  
-Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
+Artificial Intelligence: A Modern Approach (3rd Edition) at [Pearson](https://www.pearson.com/us/higher-education/product/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/9780136042594.html). 
 
 ## Course topics
 - **Book chapters**  
