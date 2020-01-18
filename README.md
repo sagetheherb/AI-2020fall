@@ -37,7 +37,7 @@ Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant fold
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
 
 ## Course Topics
-** Book chapters ** 
+**Book chapters** 
   **Chapter 18 - Learning From Examples**   
   **Chapter 1 - Introduction**  
   **Chapter 2 - Intelligent Agents**  
