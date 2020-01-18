@@ -87,7 +87,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 | 15 | W/04/29 | -             | - |
 | 16 | M/05/04 | -             | - |
 | 16 | W/05/06 | -             | - |
-| - | May 11, Mon | **`Final Exam` - 2:45 PM to 4:45 PM at Clark Hall 307** | - |
+| - | May 11, Mon | **`Final Exam`** | 2:45 PM to 4:45 PM |
 
 ## General Policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our 'turnitin' tool automatically checks for plagarism
