@@ -73,8 +73,8 @@ This schedule will be updated as the class progresses.
 | 03 | Feb 03, Mon | `Activity03:` Pandas |
 | 03 | Feb 05, Wed | `Test01:` - Python & Numpy |
 | 04 | Feb 10, Mon | `Activity04:` Univariate linear regression |
-| 04 | Feb 12, Wed | `Discussion01:` [Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/) |
-| 05 | Feb 17, Mon |  |
+| 04 | Feb 12, Wed | `Activity05:` Linear Regression with Two Input Variables |
+| 05 | Feb 17, Mon | `Discussion01:` [Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/) |
 | 05 | Feb 19, Wed | `Test02:` Ch18 - Learning from examples |
 | 06 | Feb 24, Mon |  |
 | 06 | Feb 26, Wed | `Test03:` Ch01 & Ch02 - Introduction to AI |
