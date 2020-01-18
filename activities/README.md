@@ -1,3 +1,5 @@
+# Classroom activities
+
 **Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
 --------------  
