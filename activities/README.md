@@ -2,12 +2,12 @@
 
 --------------  
 
-## 1. Python
+## Python
 * Practice [python.ipynb](python.ipynb)
 
-## 1. Numpy, Matplotlib, & Pandas
+## Numpy, Matplotlib, & Pandas
 
-## 1. Ch18: Univariate linear regression
+## Ch18: Univariate linear regression
 
 ## Ch18: Linear regression with two input variables
 
