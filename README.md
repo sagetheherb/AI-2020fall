@@ -85,8 +85,8 @@ This schedule will be updated as the class progresses.
 | 09 | Mar 16, Mon | `Activity:` Evaluating real-valued predictions |
 | 09 | Mar 18, Wed | **`Test06`** Ch06 - Constraint satisfaction problems |
 | - | - | Spring break |
-| 11 | Mar 30, Mon |  |
-| 11 | Apr 01, Wed | **`Test07`** Ch07 - Logical agents |
+| 11 | Mar 30, Mon | Activity: Decision tress and XGBoost |
+| 11 | Apr 01, Wed | **`Test07`** Ch07 - Logical agents + Activity: Feature Importance using XGBoost|
 | 12 | Apr 06, Mon |  |
 | 12 | Apr 08, Wed | **`Test08:`** Ch22 - NLP |
 | 13 | Apr 13, Mon |  |
