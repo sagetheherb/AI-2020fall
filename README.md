@@ -49,10 +49,10 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 **Chapter 24 - Perception**  
 **Chapter 25 - Robotics**  
 **Chapter 26 - Philosophical Foundations**  
-### Machine learning using Keras
-**Basics of Python, Numpy and Keras**
-**Design, train, and evaluate basic feed-forward neural networks**
-**Study feature importance and feature reduction**
+### Machine learning using Keras  
+**Basics of Python, Numpy and Keras**  
+**Design, train, and evaluate basic feed-forward neural networks**  
+**Study feature importance and feature reduction**  
 
 
 ## Course Schedule
