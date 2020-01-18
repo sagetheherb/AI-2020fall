@@ -54,7 +54,9 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
   - Study feature importance and feature reduction
 
 ## Course Schedule
+<figure class="video_container">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</figure>
 
 ## General Policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our 'turnitin' tool automatically checks for plagarism
