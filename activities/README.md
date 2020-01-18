@@ -2,29 +2,57 @@
 
 --------------  
 
-Practice Python, Numpy, Pandas
-Practice Python, Numpy, Pandas
-Ch18: Univariate linear regression
-Ch18: Linear regression with two input variables
-Ch18: Logistic regression
-Discussion: Basics of neural networks
-Binary classification using NN
-Evaluating a binary classifier
-Ch03: Implement Breadth-first search
-Regression using NN
-Ch05: Alpha-beta pruning
-Evaluating a regression model
-Overfitting vs generalization
-Learning curves
-Discussion: Evaluating & selecting models
-Ch22: Implement BM25
+## Python
+
+## Numpy
+
+## Ch18: Univariate linear regression
+
+## Ch18: Linear regression with two input variables
+
+## Ch18: Logistic regression
+
+## Discussion: Basics of neural networks
 
 
-Implement Breadth-first search
+## Binary classification using NN
 
-Alpha-beta pruning
 
-Implement BM25
+## Evaluating a binary classifier
+
+
+## Ch03: Implement Breadth-first search
+
+
+## Regression using NN
+
+
+## Ch05: Alpha-beta pruning
+
+
+## Evaluating a regression model
+
+
+## Overfitting vs generalization
+
+## Learning curves
+
+
+## Discussion: Evaluating & selecting models
+
+
+## Ch22: Implement BM25
+
+
+## Ch22: Implement PageRank
+## Iterative feature removal & selection
+## Ch24: Convolution operation
+## Learning with missing values & noisy data
+## Binary classification using XGBoost
+## Feature importance using XGBoost
+## Cross-validation
+## Discussion: Present & future of AI
+## Discussion: Peer-review of reports
 
 
 1. Syllabus Review
