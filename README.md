@@ -12,7 +12,7 @@
 * Office Location: 312 ESH
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
-## About the Course
+## ➛About the Course
 * This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
 
 ### Prerequisites  
@@ -36,7 +36,7 @@ Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant fold
 ### Textbook  
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
 
-## Course Topics
+## ➛Course Topics
 ### Book chapters
 **Chapter 18 - Learning From Examples**   
 **Chapter 1 - Introduction**  
@@ -55,7 +55,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 **Study feature importance and feature reduction**  
 
 
-## Course Schedule
+## ➛Course Schedule
 | `Week` | `Date` | `Topic` | 
 | --- | --- | --- | 
 | 01 | W/01/22 | Syllabus + Github + Kaggle + Colab |
@@ -91,7 +91,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 | 16 | W/05/06 |  |
 | - | May 11, Mon | **`Final Exam` - 2:45 PM to 4:45 PM at Clark Hall 307** |  
 
-## Course Policies
+## ➛Course Policies
 
 ### General Policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our 'turnitin' tool automatically checks for plagarism
@@ -118,7 +118,7 @@ Please see the 'homeworks' folder.
 * Attendance will be recorded in every class
 * More than 5 uninformed absenses will lead to failing the course
 
-## Assessment/Grading
+## ➛Assessment/Grading
 
 ### Grade Composition  
 * 10 points = Homeworks
