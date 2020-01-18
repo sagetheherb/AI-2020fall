@@ -96,4 +96,4 @@ Besides the main course project milestones, there will be no other homeworks.
 * 10 points = Poster presentation (score from external judges, peers, and instructor)
 
 ## Grading scheme  
-[](supporting_files/grades.png)
+<img src="supporting_files/grades.png" align="middle" width="600"/>
