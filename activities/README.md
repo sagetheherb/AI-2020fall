@@ -11,7 +11,9 @@
 * Practice [pandas.ipynb](pandas.ipynb)
 
 ## Ch18: Univariate linear regression
-* Practice [univariate_linear_regression.ipynb]
+* Practice [univariate_linear_regression.ipynb](univariate_linear_regression.ipynb)
+* Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
+* From this dataset, select two variables and perform univariate linear regression
 
 ## Ch18: Linear regression with two input variables
 
