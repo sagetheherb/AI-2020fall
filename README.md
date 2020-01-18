@@ -71,30 +71,30 @@ This schedule will be updated as the class progresses.
 | 02 | Jan 27, Mon |  |
 | 02 | Jan 29, Wed |  |
 | 03 | Feb 03, Mon |  |
-| 03 | Feb 05, Wed | Test01 (Python & Numpy) |
+| 03 | Feb 05, Wed | `Test01 (Python & Numpy)` |
 | 04 | Feb 10, Mon |  |
 | 04 | Feb 12, Wed |  |
 | 05 | Feb 17, Mon |  |
-| 05 | Feb 19, Wed | Test02 (Ch18) |
+| 05 | Feb 19, Wed | `Test02 (Ch18)` |
 | 06 | Feb 24, Mon |  |
-| 06 | Feb 26, Wed | Test03 (Ch01 & Ch02) |
+| 06 | Feb 26, Wed | `Test03 (Ch01 & Ch02)` |
 | 07 | Mar 02, Mon |  |
-| 07 | Mar 04, Wed | Test04 (Ch03) |
+| 07 | Mar 04, Wed | `Test04 (Ch03)` |
 | 08 | Mar 09, Mon |  |
-| 08 | Mar 11, Wed | Test05 (Ch05) |
+| 08 | Mar 11, Wed | `Test05 (Ch05)` |
 | 09 | Mar 16, Mon |  |
-| 09 | Mar 18, Wed | Test06 (Ch06) |
+| 09 | Mar 18, Wed | `Test06 (Ch06)` |
 | - | - | Spring break |
 | 11 | Mar 30, Mon |  |
-| 11 | Apr 01, Wed | Test07 (Ch07) |
+| 11 | Apr 01, Wed | `Test07 (Ch07)` |
 | 12 | Apr 06, Mon |  |
-| 12 | Apr 08, Wed | Test08 (Ch22) |
+| 12 | Apr 08, Wed | `Test08 (Ch22)` |
 | 13 | Apr 13, Mon |  |
-| 13 | Apr 15, Wed | Test09 (Ch24) |
+| 13 | Apr 15, Wed | `Test09 (Ch24)` |
 | 14 | Apr 20, Mon |  |
-| 14 | Apr 22, Wed | Test10 (Ch25) |
+| 14 | Apr 22, Wed | `Test10 (Ch25)` |
 | 15 | Apr 27, Mon |  |
-| 15 | Apr 29, Wed | Test11 (Ch26) |
+| 15 | Apr 29, Wed | `Test11 (Ch26)` |
 | 16 | May 04, Mon |  |
 | 16 | May 06, Wed |  |
 | - | May 11, Mon | **Final Exam - 2:45 PM to 4:45 PM at Clark Hall 307** |  
