@@ -78,16 +78,17 @@ Please see the 'project' folder.
 Besides the main course project milestones, there will be no other homeworks.
 
 ## Tests 
-* There will be short tests almost every week on Wednesdays (see the course schedule)
-* Tests will be CLOSED book, CLOSED notes, and CLOSED electronics
-* Use of any type of electronics is strictly forbidden during tests
+* There will be short tests almost every week on Wednesdays (see the course schedule).
+* If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
+* Tests will be CLOSED book, CLOSED notes, and CLOSED electronics.
+* Use of any type of electronics is strictly forbidden during tests.
 
 ## Attendance  
 * Attendance will be recorded frequently
 * More than 5 uninformed absenses may lead to failing the course
 
 ## Grade Composition  
-* 10 points = Homeworks
+* 5 * 10 points = 10 Tests
 * 30 points = Test 1 and Test 2
 * 10 points = Project Proposal (with review comments)
 * 10 points = Initial Report (with review comments)
