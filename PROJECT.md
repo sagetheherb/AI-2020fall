@@ -57,6 +57,7 @@ b) A PDF report describing your findings
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
 * Poster and final report will be evaluated based on all the criteria above.
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
+* See sample-reports folder and sample-posters folder for samples
 
 **What to bring?**  
 a) A printed copy of your final report   
