@@ -4,20 +4,20 @@
 
 [Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
 
-## About the Instructor
+## About the instructor
 * Name: Badri Adhikari
 * Email: adhikarib@umsl.edu
 * Office Hours: Mondays 1 PM to 4 PM
 * Office Location: 312 ESH
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
-## About the Course
+## About the course
 * This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
 
 ## Prerequisites  
 * CMP SCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
-## Learning Outcomes  
+## Learning outcomes  
 * Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 * Learn an overview of artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
@@ -29,13 +29,13 @@
 ## Class meets  
 * MW 4:00 AM - 5:15 PM at ESH 103
 
-## Course Materials  
+## Course materials  
 All course materials are inside the relevant folders in Github location.
 
 ## Textbook  
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
 
-## Course Topics
+## Course topics
 - **Book chapters**  
   - Chapter 18 - Learning From Examples 
   - Chapter 1 - Introduction 
@@ -53,11 +53,11 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
   - Design, train, and evaluate basic feed-forward neural networks
   - Study feature importance and feature reduction
 
-## Course Schedule
+## Course schedule
 
 * Course schedule at [gsheet](https://docs.google.com/spreadsheets/d/1Ptg43VLyei4-31yoKsPjQmOK-wa2zoccSDa-9uUY1Vs/edit?usp=sharing)
 
-## General Policies
+## General policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism
   <img src="supporting_files/turn-it-in.png" align="middle" width="200" border="2"/>  
 * Lecture recordings, audio or video, are not permitted
@@ -67,12 +67,12 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 * Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
 * You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
 
-## Late Policy  
+## Late policy  
 * You have a total of 5 late days.
 * Once you use your late days, late submissions will get no points.
 
-## Projects
-See the [PROJECT.md](PROJECT.md).
+## Course project
+See [PROJECT.md](PROJECT.md).
 
 ## Homeworks
 Besides the main course project milestones, there will be no other homeworks.
@@ -87,7 +87,7 @@ Besides the main course project milestones, there will be no other homeworks.
 * Attendance will be recorded frequently
 * More than 5 uninformed absenses may lead to failing the course
 
-## Grade Composition  
+## Grade composition  
 * 10 * 4 points = 10 Tests
 * 20 * 1 points = 20 Activities
 * 40     points = Project
@@ -100,7 +100,7 @@ Besides the main course project milestones, there will be no other homeworks.
 * 5  points = Addressing peer-reviews
 * 10 points = Poster presentation (score from external judges, peers, and instructor)
 
-## Grading Scheme  
+## Grading scheme  
 | Grade | Points |  | Grade | Points |   | Grade | Points | 
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | A | 100% to 94% | | B- | <84% to 80% | | D+ | <70% to 67% |
