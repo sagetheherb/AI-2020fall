@@ -13,9 +13,12 @@
 ## Ch18: Univariate linear regression
 * Practice [univariate_linear_regression.ipynb](univariate_linear_regression.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
-* From this dataset, select two variables and perform univariate linear regression
+* From this dataset, select two variables (one input and one output) and perform univariate linear regression
 
 ## Ch18: Linear regression with two input variables
+* Practice [Linear_Regression_with_Two_Input_Variables.ipynb](Linear_Regression_with_Two_Input_Variables.ipynb)
+* Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
+* From this dataset, select three variables (two input and one output) and perform regression
 
 ## Ch18: Logistic regression
 
