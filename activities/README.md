@@ -47,7 +47,7 @@
 * What is the baseline accuracy?
 
 ## Ch03: Implement Breadth-first search
-With your choice of programming language, implement the Breadth First Search algorithm, to find solution for the Romania route finding problem, i.e. find the shortest path to reach Bucharest from Arad.  
+Implement the Breadth First Search algorithm to find the shortest path from Sibiu to Bucharest.  
 <img src="map-romania-trimmed.png" align="middle" width="250"/> 
 
 ## Regression using NN
