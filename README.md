@@ -97,7 +97,7 @@ This schedule will be updated as the class progresses.
 | 15 | Apr 29, Wed | `Test11 (Ch26)` |
 | 16 | May 04, Mon |  |
 | 16 | May 06, Wed |  |
-| - | May 11, Mon | **Final Exam - 2:45 PM to 4:45 PM at Clark Hall 307** |  
+| - | May 11, Mon | **`Final Exam` - 2:45 PM to 4:45 PM at Clark Hall 307** |  
 
 ## Course Policies
 
