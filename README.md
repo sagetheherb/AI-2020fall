@@ -27,7 +27,7 @@
 * Implement various AI algorithms such as DFS, BFS, etc.
 
 ## Class meets  
-* MW 4:00 AM - 5:15 PM at Clark Hall 307
+* MW 4:00 AM - 5:15 PM at ESH 103
 
 ## Course Materials  
 All course materials are inside the relevant folders in Github location.
