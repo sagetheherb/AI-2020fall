@@ -21,6 +21,10 @@
 1. Data normalization
 1. Data spliting into training, and validation sets
 
+**What to submit?**
+a) A link to your Colab notebook (make sure that anyone with the link can view)
+b) A PDF report describing your findings
+
 ## 2. Model selection & evaluation
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
@@ -33,14 +37,30 @@
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
    - Verify that predictions you obtain are same as the one you obtained using your trained model
 
+**What to submit?**
+a) A link to your Colab notebook (make sure that anyone with the link can view)
+b) A PDF report describing your findings
+
 ## 3. Feature importance and reduction
-1. Study feature importance
-1. Reduce input features
+1. Study feature importance by iteratively removing input features
+1. Identify non-informative input features and remove them
+1. Compare your feature-reduced model with the original model with all input features
+
+**What to submit?**
+a) A link to your Colab notebook (make sure that anyone with the link can view)
+b) A PDF report describing your findings
 
 ## 4. Address peer-review comments
 
-## 5. Poster presentation
+
+
+## 5. Poster presentation (final exam)
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
-* Bring a printed copy of your final report and your poster to the final exam
 * Poster and final report will be evaluated based on all the criteria above.
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
+
+**What to bring?**
+a) A printed copy of your final report
+b) Your poster
+c) A laptop for demonstration (if needed)
+
