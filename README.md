@@ -1,6 +1,6 @@
 <img src="supporting_files/umsl.png" align="middle" width="400"/>
 
-## Syllabus of Artificial Intelligence (CMP SCI 4300/5300) - 2020 Spring
+## Syllabus of Artificial Intelligence (CMPSCI 4300/5300) - 2020 Spring
 
 [Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
 
