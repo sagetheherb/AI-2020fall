@@ -85,15 +85,15 @@ This schedule will be updated as the class progresses.
 | 09 | Mar 16, Mon | `Activity:` Evaluating real-valued predictions |
 | 09 | Mar 18, Wed | **`Test06`** Ch06 - Constraint satisfaction problems |
 | - | - | Spring break |
-| 11 | Mar 30, Mon | Activity: Decision tress and XGBoost |
-| 11 | Apr 01, Wed | **`Test07`** Ch07 - Logical agents + Activity: Feature Importance using XGBoost|
-| 12 | Apr 06, Mon | Activity: Overfitting vs generalization using decision trees |
+| 11 | Mar 30, Mon | Discussion: Peer-review of project notebooks |
+| 11 | Apr 01, Wed | Activity: Decision tress and XGBoost |
+| 12 | Apr 06, Mon | **`Test07`** Ch07 - Logical agents + Activity: Feature Importance using XGBoost + Activity: Overfitting vs generalization using decision trees |
 | 12 | Apr 08, Wed | **`Test08:`** Ch22 - NLP + Activity: Ov vs Ge using NN |
-| 13 | Apr 13, Mon |  |
+| 13 | Apr 13, Mon | Activity: Peer-review of proposals |
 | 13 | Apr 15, Wed | **`Test09:`** Ch24 - Perception + Activity: Implement BM25 |
-| 14 | Apr 20, Mon |  |
+| 14 | Apr 20, Mon | Activity: Feature importance and reduction |
 | 14 | Apr 22, Wed | **`Test10:`** Ch25 - Robotics + Activity: Implement Pagerank |
-| 15 | Apr 27, Mon |  |
+| 15 | Apr 27, Mon | Activity: Code a function of NN model |
 | 15 | Apr 29, Wed | **`Test11:`** Ch26 - Philosophical foundations + Activity: Implement convolution |
 | 16 | May 04, Mon |  |
 | 16 | May 06, Wed |  |
