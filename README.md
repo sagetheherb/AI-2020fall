@@ -66,7 +66,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) at [Pearson](https://ww
 * Once you use your late days, late submissions will get no points.
 
 ## Course project
-See [PROJECT.md](PROJECT.md).
+See [PROJECT](PROJECT.md).
 
 ## Homeworks
 Besides the main course project milestones, there will be no other homeworks.
