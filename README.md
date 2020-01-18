@@ -68,21 +68,21 @@ This schedule will be updated as the class progresses.
 | `Week` | `Date` | `Topic` | 
 | --- | --- | --- | 
 | 01 | Jan 22, Wed | Syllabus + Github + Kaggle + Colab |
-| 02 | Jan 27, Mon | `Activity01:` Python |
-| 02 | Jan 29, Wed | `Activity02:` Numpy |
-| 03 | Feb 03, Mon | `Activity03:` Pandas |
+| 02 | Jan 27, Mon | `Activity:` Python |
+| 02 | Jan 29, Wed | `Activity:` Numpy |
+| 03 | Feb 03, Mon | `Activity:` Pandas |
 | 03 | Feb 05, Wed | **`Test01:`** - Python & Numpy |
-| 04 | Feb 10, Mon | `Activity04:` Univariate linear regression |
-| 04 | Feb 12, Wed | `Activity05:` Linear Regression with Two Input Variables |
-| 05 | Feb 17, Mon | `Activity06:` Logistic Regression |
-| 05 | Feb 19, Wed | **`Test02:`** Ch18 - Learning from examples + `Discussion01:` [Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/) |
+| 04 | Feb 10, Mon | `Activity:` Univariate linear regression |
+| 04 | Feb 12, Wed | `Activity:` Linear Regression with Two Input Variables |
+| 05 | Feb 17, Mon | `Activity:` Logistic Regression |
+| 05 | Feb 19, Wed | **`Test02:`** Ch18 - Learning from examples + `Discussion:` [Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/) |
 | 06 | Feb 24, Mon | `Activity:` Binary classification using Keras |
-| 06 | Feb 26, Wed | **`Test03:`** Ch01 & Ch02 - Introduction to AI + `Activity:` Evaluating binary classifier |
+| 06 | Feb 26, Wed | **`Test03:`** Ch01 & Ch02 - Introduction to AI + `Discussion:` Evaluating binary classifier |
 | 07 | Mar 02, Mon | `Activity:` Implement BFS |
-| 07 | Mar 04, Wed | **`Test04:`** Ch03 - Problem solving + `Activity:` Regression using Keras |
+| 07 | Mar 04, Wed | **`Test04:`** Ch03 - Problem solving + `Discussion:` Project proposal |
 | 08 | Mar 09, Mon | `Activity:` Practice alpha-beta pruning algorithm |
-| 08 | Mar 11, Wed | **`Test05:`** Ch05 - Adverserial search + `Activity:` Evaluating real-valued predictions |
-| 09 | Mar 16, Mon | `Activity:` Practice the cutset conditioning algorithm |
+| 08 | Mar 11, Wed | **`Test05:`** Ch05 - Adverserial search + `Activity:` Regression using Keras  |
+| 09 | Mar 16, Mon | `Activity:` Evaluating real-valued predictions |
 | 09 | Mar 18, Wed | **`Test06`** Ch06 - Constraint satisfaction problems |
 | - | - | Spring break |
 | 11 | Mar 30, Mon |  |
