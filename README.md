@@ -30,7 +30,7 @@
 * MW 4:00 AM - 5:15 PM at Clark Hall 307
 
 ## Course Materials  
-Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
+All course materials are inside the relevant folders in Github location.
 
 ## Textbook  
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
