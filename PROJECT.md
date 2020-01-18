@@ -22,8 +22,8 @@
 1. Data spliting into training, and validation sets
 
 **What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)
-b) A PDF report describing your findings
+a) A link to your Colab notebook (make sure that anyone with the link can view)  
+b) A PDF report describing your findings  
 
 ## 2. Model selection & evaluation
 1. Compare the results of the neural network with a linear regression or logistic regression model
@@ -38,8 +38,8 @@ b) A PDF report describing your findings
    - Verify that predictions you obtain are same as the one you obtained using your trained model
 
 **What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)
-b) A PDF report describing your findings
+a) A link to your Colab notebook (make sure that anyone with the link can view)  
+b) A PDF report describing your findings  
 
 ## 3. Feature importance and reduction
 1. Study feature importance by iteratively removing input features
@@ -47,8 +47,8 @@ b) A PDF report describing your findings
 1. Compare your feature-reduced model with the original model with all input features
 
 **What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)
-b) A PDF report describing your findings
+a) A link to your Colab notebook (make sure that anyone with the link can view)  
+b) A PDF report describing your findings  
 
 ## 4. Address peer-review comments
 
@@ -60,7 +60,7 @@ b) A PDF report describing your findings
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
 
 **What to bring?**  
-a) A printed copy of your final report
-b) Your poster
-c) A laptop for demonstration (if needed)
+a) A printed copy of your final report   
+b) Your poster  
+c) A laptop for demonstration (if needed)  
 
