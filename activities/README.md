@@ -11,6 +11,7 @@
 * Practice [pandas.ipynb](pandas.ipynb)
 
 ## Ch18: Univariate linear regression
+* Practice [univariate_linear_regression.ipynb]
 
 ## Ch18: Linear regression with two input variables
 
