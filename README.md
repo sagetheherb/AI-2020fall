@@ -5,20 +5,20 @@
 
 [Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
 
-## ➛About the Instructor
+## About the Instructor
 * Name: Badri Adhikari
 * Email: adhikarib@umsl.edu
 * Office Hours: Mondays 1 PM to 4 PM
 * Office Location: 312 ESH
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
-## ➛About the Course
+## About the Course
 * This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
 
-### Prerequisites  
+## Prerequisites  
 * CMP SCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
-### Learning Outcomes  
+## Learning Outcomes  
 * Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 * Learn an overview of artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
@@ -27,21 +27,21 @@
 * Learn the philosophical foundations of AI and the future of AI
 * Implement various AI algorithms such as DFS, BFS, etc.
 
-### Class meets  
+## Class meets  
 * MW 4:00 AM - 5:15 PM at Clark Hall 307
 
-### Course Materials  
+## Course Materials  
 Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Fall-AI/
 
-### Textbook  
+## Textbook  
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
 
-## ➛Course Topics
-### Book chapters
-**Chapter 18 - Learning From Examples**   
-**Chapter 1 - Introduction**  
-**Chapter 2 - Intelligent Agents**  
-**Chapter 3 - Solving Problems by Searching**  
+## Course Topics
+** Book chapters ** 
+  **Chapter 18 - Learning From Examples**   
+  **Chapter 1 - Introduction**  
+  **Chapter 2 - Intelligent Agents**  
+  **Chapter 3 - Solving Problems by Searching**  
 **Chapter 5 - Adversarial Search**  
 **Chapter 6 - Constraint Satisfaction Problems**
 **Chapter 7 - Logical Agents**  
