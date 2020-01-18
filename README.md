@@ -54,40 +54,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
   - Study feature importance and feature reduction
 
 ## Course Schedule
-| `Week` | `Date` | `Test` | `Activity` | 
-| --- | --- | --- | --- |  
-| 01 | W/01/22 |              | Syllabus + Github + Kaggle + Colab |
-| 02 | M/01/27 |              | Python |
-| 02 | W/01/29 | Python       | Numpy |
-| 03 | M/02/03 |              | Numpy |
-| 03 | W/02/05 | Numpy        | Linear Regression with Two Input Variables |
-| 04 | M/02/10 |              | Logistic Regression |
-| 04 | W/02/12 | Ch18 - Learning from examples | Basics of Neural Networks |
-| 05 | M/02/17 |              | - |
-| 05 | W/02/19 | Ch01 & Ch02 - Introduction to AI | - |
-| 06 | M/02/24 |              | Implement BFS |
-| 06 | W/02/26 | Ch03 - Problem solving | - |
-| 07 | M/03/02 |              | Alpha-beta pruning |
-| 07 | W/03/04 | Ch05 - Adverserial search | - |
-| 08 | M/03/09 |              | - |
-| 08 | W/03/11 | Ch06 - Constraint satisfaction problems | - |
-| 09 | M/03/16 |              | - |
-| 09 | W/03/18 | Ch07 - Logical agents | Implement BM25 |
-| - | - |  | Spring break |
-| - | - |  | Spring break |
-| 11 | M/03/30 |              | Implement PageRank |
-| 11 | W/04/01 | Ch22 - NLP   | - |
-| 12 | M/04/06 |              | Implement convolution |
-| 12 | W/04/08 | Ch24 - Perception | - |
-| 13 | M/04/13 |              | - |
-| 13 | W/04/15 | Ch25 - Robotics | - |
-| 14 | M/04/20 |              | - |
-| 14 | W/04/22 | Ch26 - Philosophical foundations | - |
-| 15 | M/04/27 |              | - |
-| 15 | W/04/29 |              | - |
-| 16 | M/05/04 |              | - |
-| 16 | W/05/06 |              | - |
-| - | - | **`Final Exam`** on 05/11, Monday | 2:45 PM to 4:45 PM |
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## General Policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our 'turnitin' tool automatically checks for plagarism
