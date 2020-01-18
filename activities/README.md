@@ -51,7 +51,11 @@ Implement the Breadth First Search algorithm to find the shortest path from Sibi
 <img src="map-romania-trimmed.png" align="middle" width="250"/> 
 
 ## Regression using NN
-
+* Practice the first part of [Example2_Regression.ipynb](Example2_Regression.ipynb), i.e. only upto `model.fit()`
+* Find a regression dataset of your choice at [kaggle.com](https://kaggle.com/)
+  - Check that the output variable is continuous
+* Build a regression NN classifier for your dataset
+* Build a linear regression model and observe the MAE
 
 ## Ch05: Alpha-beta pruning
 * This is not a programming activity; you will solve it in paper. 
@@ -60,18 +64,34 @@ Implement the Breadth First Search algorithm to find the shortest path from Sibi
 <img src="alpha-beta.png" align="middle" width="450"/>
 
 ## Evaluating a regression model
-
+* Practice the second part of [Example2_Regression.ipynb](Example2_Regression.ipynb), i.e. after `model.fit()`
+* Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
+* Is your model biased? Plot correct labels vs predicted values.
+* Which loss function is best suited for your problem?
+* How to control the influence of outliers (large values)?
 
 ## Overfitting vs generalization
+* Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
+* Split into training and validation set
+* Build a model to overfit the training set (to get 100% accuracy or 0 MAE)
+* Evalute on the test set
+* Can over-training be a problem?
 
 ## Learning curves
 
 
 ## Discussion: Evaluating & selecting models
-
+* Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
+* Split into training and validation set
+* Increasing the number of layers with the help of batch normalization
+* Increasing the number of neurons in each layer
+* How do #of layers and #of neurons in each layer affect the model's performance
 
 ## Ch22: Implement BM25
-A search query “Word1 Word2” is being scored against the following documents (see table). The document corpus (as shown in the table) only contains five documents. The number of times the words “Word1” and “Word2” appear in each of the documents is given in the table. The length of each document is also given. Assume k = 1.2 and b = 0.75. Write a (Python preferably) program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. Your program should read the table from a file, i.e. do not hardcode these values into your program. You may hardcode the values of k and b, but compute IDF, DF, TF, N, L, etc. using the data you read from the text file, at runtime. The scores you will obtain will range from -2.3 to -4.8. Note: You may get negative scores because of N being close to DF - you can read more [here](https://en.wikipedia.org/wiki/Okapi_BM25).  
+* A search query “Word1 Word2” is being scored against the following documents (see table). The document corpus (as shown in the table) only contains five documents.
+* The number of times the words “Word1” and “Word2” appear in each of the documents is given in the table. The length of each document is also given. Assume k = 1.2 and b = 0.75.
+* Write a program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. Your program should read the table from a file, i.e. do not hardcode these values into your program. You may hardcode the values of k and b, but compute IDF, DF, TF, N, L, etc. using the data you read from the text file, at runtime.
+* The scores you will obtain will range from -2.3 to -4.8. Note: You may get negative scores because of N being close to DF - you can read more [here](https://en.wikipedia.org/wiki/Okapi_BM25).  
 <img src="bm25.png" align="middle" width="450"/>
 
 ## Ch22: Implement PageRank
@@ -82,7 +102,10 @@ A search query “Word1 Word2” is being scored against the following documents
 
 ## Iterative feature removal & selection
 ## Ch24: Convolution operation
-The task here is to detect edges in an input image. The file `one-channel.csv` is one channel of the cat image we discussed in class. With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown. You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`. Submit the screenshot of your code and screenshots of your ouptputs.
+* The task here is to detect edges in an input image.
+* The file `one-channel.csv` is one channel of a cat image.
+* With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown.
+* You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
 
 ```python
 from google.colab import files
@@ -122,10 +145,15 @@ plt.show()
 ![](convolution3.png)
 
 ## Learning with missing values & noisy data
+
 ## Binary classification using XGBoost
+
 ## Feature importance using XGBoost
+
 ## Cross-validation
+
 ## Discussion: Present & future of AI
+
 ## Discussion: Peer-review of reports
 
 
