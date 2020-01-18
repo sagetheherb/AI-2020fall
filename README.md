@@ -71,11 +71,11 @@ This schedule will be updated as the class progresses.
 | 02 | Jan 27, Mon | `Activity01:` Python |
 | 02 | Jan 29, Wed | `Activity02:` Numpy |
 | 03 | Feb 03, Mon | `Activity03:` Pandas |
-| 03 | Feb 05, Wed | `Test01:` - Python & Numpy |
+| 03 | Feb 05, Wed | **`Test01:`** - Python & Numpy |
 | 04 | Feb 10, Mon | `Activity04:` Univariate linear regression |
 | 04 | Feb 12, Wed | `Activity05:` Linear Regression with Two Input Variables |
 | 05 | Feb 17, Mon | `Activity06:` Logistic Regression |
-| 05 | Feb 19, Wed | `Test02:` Ch18 - Learning from examples |
+| 05 | Feb 19, Wed | **`Test02:`** Ch18 - Learning from examples |
 | 06 | Feb 24, Mon | `Discussion01:` [Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)  |
 | 06 | Feb 26, Wed | `Test03:` Ch01 & Ch02 - Introduction to AI |
 | 07 | Mar 02, Mon | Activity: Implement BFS |
