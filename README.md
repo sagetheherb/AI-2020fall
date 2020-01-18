@@ -49,8 +49,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) at [Pearson](https://ww
   - Study feature importance and feature reduction
 
 ## Course schedule
-
-* Course schedule at [gsheet](https://docs.google.com/spreadsheets/d/1Ptg43VLyei4-31yoKsPjQmOK-wa2zoccSDa-9uUY1Vs/edit?usp=sharing)
+<img src="schedule.png" align="middle"/>
 
 ## General policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism
