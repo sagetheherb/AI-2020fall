@@ -54,7 +54,9 @@ Implement the Breadth First Search algorithm to find the shortest path from Sibi
 
 
 ## Ch05: Alpha-beta pruning
-For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm. Assume that the nodes are processed from left to right. Note that this is not a programming homework. You can solve it in paper, take a picture, and submit it at Canvas.  
+* This is not a programming activity; you will solve it in paper. 
+* For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm.
+* Assume that the nodes are processed from left to right. 
 <img src="alpha-beta.png" align="middle" width="450"/>
 
 ## Evaluating a regression model
@@ -73,7 +75,9 @@ A search query “Word1 Word2” is being scored against the following documents
 <img src="bm25.png" align="middle" width="450"/>
 
 ## Ch22: Implement PageRank
-Given the number of web pages N = 3, and the damping parameter d = 0.7. For the network shown below, calculate the PageRank of the pages A, B, and C. Links between the pages are shown in the graph itself. Write a program to iteratively obtain the final page ranks. Submit your code and screenshots of output.
+* For the network shown below, calculate the PageRank of the pages A, B, and C.
+* Links between the pages are shown in the graph itself. Write a program to iteratively obtain the final page ranks
+* Number of web pages N = 3, and the damping parameter d = 0.7. 
 <img src="pagerank.png" align="middle" width="300"/>
 
 ## Iterative feature removal & selection
