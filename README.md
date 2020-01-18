@@ -77,24 +77,24 @@ This schedule will be updated as the class progresses.
 | 05 | Feb 17, Mon | `Activity06:` Logistic Regression |
 | 05 | Feb 19, Wed | **`Test02:`** Ch18 - Learning from examples |
 | 06 | Feb 24, Mon | `Discussion01:` [Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)  |
-| 06 | Feb 26, Wed | `Test03:` Ch01 & Ch02 - Introduction to AI |
+| 06 | Feb 26, Wed | **`Test03:`** Ch01 & Ch02 - Introduction to AI |
 | 07 | Mar 02, Mon | Activity: Implement BFS |
-| 07 | Mar 04, Wed | `Test04 (Ch03 - Problem solving)` + Activity:  |
-| 08 | Mar 09, Mon | Activity: Practice alpha-beta pruning algorithm |
-| 08 | Mar 11, Wed | `Test05 (Ch05 - Adverserial search)` |
+| 07 | Mar 04, Wed | **`Test04:`** Ch03 - Problem solving + `Activity:`  |
+| 08 | Mar 09, Mon | `Activity:` Practice alpha-beta pruning algorithm |
+| 08 | Mar 11, Wed | **`Test05:`** Ch05 - Adverserial search +  |
 | 09 | Mar 16, Mon |  |
-| 09 | Mar 18, Wed | `Test06 (Ch06 - Constraint satisfaction problems)` |
+| 09 | Mar 18, Wed | **`Test06`** Ch06 - Constraint satisfaction problems |
 | - | - | Spring break |
 | 11 | Mar 30, Mon |  |
-| 11 | Apr 01, Wed | `Test07 (Ch07 - Logical agents)` |
+| 11 | Apr 01, Wed | **`Test07`** Ch07 - Logical agents |
 | 12 | Apr 06, Mon |  |
-| 12 | Apr 08, Wed | `Test08: Ch22 - NLP` |
+| 12 | Apr 08, Wed | **`Test08:`** Ch22 - NLP |
 | 13 | Apr 13, Mon |  |
-| 13 | Apr 15, Wed | `Test09: Ch24 - Perception` + Activity: Implement BM25 |
+| 13 | Apr 15, Wed | **`Test09:`** Ch24 - Perception + Activity: Implement BM25 |
 | 14 | Apr 20, Mon |  |
-| 14 | Apr 22, Wed | `Test10: Ch25 - Robotics` + Activity: Implement Pagerank |
+| 14 | Apr 22, Wed | **`Test10:`** Ch25 - Robotics + Activity: Implement Pagerank |
 | 15 | Apr 27, Mon |  |
-| 15 | Apr 29, Wed | `Test11: Ch26 - Philosophical foundations` + Activity: Implement convolution |
+| 15 | Apr 29, Wed | **`Test11:`** Ch26 - Philosophical foundations + Activity: Implement convolution |
 | 16 | May 04, Mon |  |
 | 16 | May 06, Wed |  |
 | - | May 11, Mon | **`Final Exam` - 2:45 PM to 4:45 PM at Clark Hall 307** |  
