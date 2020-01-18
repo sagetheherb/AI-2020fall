@@ -48,7 +48,7 @@
 
 ## Ch03: Implement Breadth-first search
 With your choice of programming language, implement the Breadth First Search algorithm, to find solution for the Romania route finding problem, i.e. find the shortest path to reach Bucharest from Arad.  
-<img src="map-romania.png" align="middle" width="450"/> 
+<img src="map-romania-trimmed.png" align="middle" width="250"/> 
 
 ## Regression using NN
 
@@ -74,7 +74,7 @@ A search query “Word1 Word2” is being scored against the following documents
 
 ## Ch22: Implement PageRank
 Given the number of web pages N = 3, and the damping parameter d = 0.7. For the network shown below, calculate the PageRank of the pages A, B, and C. Links between the pages are shown in the graph itself. Write a program to iteratively obtain the final page ranks. Submit your code and screenshots of output.
-<img src="pagerank.png" align="middle" width="450"/>
+<img src="pagerank.png" align="middle" width="300"/>
 
 ## Iterative feature removal & selection
 ## Ch24: Convolution operation
