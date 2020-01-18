@@ -30,6 +30,7 @@
 
 ## Discussion: Basics of neural networks
 * Group discussion of "[A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)"
+* Groups ask questions to each other
 
 ## Binary classification using NN
 
