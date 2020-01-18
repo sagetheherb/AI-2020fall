@@ -5,10 +5,9 @@
 [Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
 
 ## About the instructor
-* Name: Badri Adhikari
+* Name: Badri Adhikari 
 * Email: adhikarib@umsl.edu
-* Office Hours: Mondays 1 PM to 4 PM
-* Office Location: 312 ESH
+* Office Local and hours: 312 Express Scripts Hall, Mondays 1 PM to 4 PM
 * Homepage: [https://badriadhikari.github.io](https://badriadhikari.github.io)
 
 ## About the course
