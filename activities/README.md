@@ -4,7 +4,7 @@
 
 ## Python
 
-## Numpy
+## Numpy, Matplotlib, & Pandas
 
 ## Ch18: Univariate linear regression
 
