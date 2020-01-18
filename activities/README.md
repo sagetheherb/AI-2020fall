@@ -6,6 +6,9 @@
 * Practice [python.ipynb](python.ipynb)
 
 ## Numpy, Matplotlib, & Pandas
+* Practice [numpy.ipynb](numpy.ipynb)
+* Practice [matploblib.ipynb](matploblib.ipynb)
+* Practice [pandas.ipynb](pandas.ipynb)
 
 ## Ch18: Univariate linear regression
 
