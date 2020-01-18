@@ -97,7 +97,7 @@ Besides the main course project milestones, there will be no other homeworks.
 * 10  points = Data analysis & preparation
 * 10  points = Model selection & evaluation
 * 5  points = Feature importance and reduction
-* 5  points = At least two peer-reviews
+* 5  points = Addressing peer-reviews
 * 10 points = Poster presentation (score from external judges, peers, and instructor)
 
 ## Grading Scheme  
