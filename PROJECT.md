@@ -52,8 +52,10 @@ a) A link to your Colab notebook (make sure that anyone with the link can view)
 b) A PDF report describing your findings  
 
 ## 4. Address peer-review comments
+* You will receive comments/reviews from at least two peers in the classroom
 
-
+**What to submit?**  
+a) A PDF report describing the comments you received and how you addressed them  
 
 ## 5. Poster presentation (final exam)
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
