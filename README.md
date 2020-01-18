@@ -63,24 +63,28 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 * Lecture recordings, audio or video, are not permitted
 * You are welcome to bring your laptop in class
 
-## Late Homework/Project Submission  
-* You have a total of 5 late days
-* Once you use your late days, late submissions will get no points
+## Programming language
+* Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
+* You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
+
+## Late Policy  
+* You have a total of 5 late days.
+* Once you use your late days, late submissions will get no points.
 
 ## Projects
 Please see the 'project' folder.
 
 ## Homeworks
-Please see the 'homeworks' folder.
+Besides the main course project milestones, there will be no other homeworks.
 
 ## Tests 
-* There will be two tests including one final (see the schedule for dates)
-* Test will be CLOSED book, CLOSED notes, and CLOSED electronics
+* There will be short tests almost every week (see the course schedule)
+* Tests will be CLOSED book, CLOSED notes, and CLOSED electronics
 * Use of any type of electronics is strictly forbidden during tests
 
 ## Attendance  
-* Attendance will be recorded in every class
-* More than 5 uninformed absenses will lead to failing the course
+* Attendance will be recorded frequently
+* More than 5 uninformed absenses may lead to failing the course
 
 ## Grade Composition  
 * 10 points = Homeworks
