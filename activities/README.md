@@ -3,7 +3,7 @@
 # Classroom activities
 * There will be 25+ classroom activities for you to participate.
 * Each activity is worth 1 point.
-* You will need to complete at least 20 activities in order to receive full points.
+* You will need to complete at least 20 activities in order to receive full points. If you complete more than 20 activities, you will receive a bonus point for each activity you complete.
 * The only way to receive points on activities is to present your completed activity to the instructor during the class.
 
 --------------  
