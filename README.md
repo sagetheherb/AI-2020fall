@@ -52,8 +52,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) at [Pearson](https://ww
 <img src="schedule.png" align="middle"/>
 
 ## General policies
-* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism
-  <img src="supporting_files/turn-it-in.png" align="middle" width="200" border="2"/>  
+* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](supporting_files/turn-it-in.png) 
 * Lecture recordings, audio or video, are not permitted
 * You are welcome to bring your laptop in class
 
