@@ -152,6 +152,8 @@ plt.show()
 
 ## Cross-validation
 
+## Early stopping
+
 ## Discussion: Present & future of AI
 
 ## Discussion: Peer-review of reports
