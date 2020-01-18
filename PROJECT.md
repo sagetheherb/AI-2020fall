@@ -1,4 +1,28 @@
-#   1. Implement a Python function that serves as the model.
+# Project Expectations
+* You will work on your projects individually (i.e. group submissions are not allowed)
+* Proposal, Initial Report, and Final Report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a> or any other LaTeX editor.
+* Your peers (that you choose) who review your report should be different from the peers who review your proposal
+* Each student will review at least two and at most four proposals. Same for reports.
+* Grades of Poster presentation and Final report will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
+
+# Project Phases
+| `Phase` | `Description` | `What to Submit?` | `Submission Deadline` |
+| -- | -- | -- | -- |
+| Prepare Proposal | Prepare a proposal addressing the "proposal evaluation criterion" | N/A | N/A |
+| Find Peers | Find at least two peers to review your proposal and Send requests to review | N/A | N/A |
+| Obtain Peer Reviews | Review others' proposals referring to "proposal evaluation criterion" and Obtain peer reviews from others | N/A | N/A |
+| Submit Proposal (in Canvas)| Prepare proposal along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> | A PDF of your Overleaf proposal | Oct  2, 2019 |
+| Prepare Initial Report | Prepare a report addressing the "initial report evaluation criterion" | N/A | N/A |
+| Find Peers | Find at least two peers to review your proposal and Send requests to review | N/A | N/A |
+| Obtain Peer Reviews |Review others' proposals referring to "initial report evaluation criterion" and Obtain peer reviews from others | N/A | N/A |
+| Submit Initial Report (in Canvas) | Prepare initial report along with the following: <ol><li>two set of comments from peers</li><li>your plans to address the comments</li><li>two set of your comment to your peers</li></ol> | A PDF of your Overleaf report | Nov 6, 2019 |
+| Prepare and Submit Final Report (in Canvas) | A report (PDF) addressing all the comments received (along with rebuttals, if any) | N/A | Dec 8, 2019 (hard deadline, i.e. no extension allowed) |
+| Prepare Poster | A poster highlighting the problem, diagrams, your results, plots, etc. |  N/A | N/A | 
+| Present Poster and Report | Bring a printed copy of your Final Report and your Poster to the final exam | Prints | N/A | 
+
+# Project Objectives
+1. Develop a logistic regression model (for classification) or linear regression model (for regression) for a pre-cleaned tabular dataset with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
+   1. Implement a Python function that serves as the model.
 1. Entend the model to investigate the performance of various feedforward neural network architectures.
 1. Study, investigate and discuss "what", "how", and "why" your model makes predictions.
 
@@ -47,4 +71,3 @@ Heart disease prediction using the Heart Disease UCI dataset at https://www.kagg
 <img src="ai-project.png" align="middle" width="900"/>
 
 Note: This is a living document and will be updated (with more details) throughout the semester. 
-
