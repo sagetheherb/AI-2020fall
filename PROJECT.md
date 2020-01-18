@@ -5,6 +5,9 @@
 * Poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
 
 # Project Phases
+
+
+
 | `Phase` | `Description` | `What to Submit?` | `Submission Deadline` |
 | -- | -- | -- | -- |
 | Prepare Proposal | Prepare a proposal addressing the "proposal evaluation criterion" | N/A | N/A |
