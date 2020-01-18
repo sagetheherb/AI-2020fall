@@ -3,6 +3,7 @@
 --------------  
 
 ## Python
+* Practice [python.ipynb](python.ipynb)
 
 ## Numpy, Matplotlib, & Pandas
 
