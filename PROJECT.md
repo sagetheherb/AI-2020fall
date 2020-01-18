@@ -1,7 +1,6 @@
 # Project Objectives
-1. Develop a logistic regression model (for classification) or linear regression model (for regression) for a pre-cleaned tabular dataset with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
-1. Implement a Python function that serves as the model.
-1. Entend the model to investigate the performance of various feedforward neural network architectures.
+1. Develop a feedforward neural network architectures for a pre-cleaned tabular dataset with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
+1. Compare the performance with a logistic regression model (for classification) or linear regression model (for regression).
 1. Study, investigate and discuss "what", "how", and "why" your model makes predictions.
 
 # Project Expectations
