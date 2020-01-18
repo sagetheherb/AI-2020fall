@@ -96,10 +96,4 @@ Besides the main course project milestones, there will be no other homeworks.
 * 10 points = Poster presentation (score from external judges, peers, and instructor)
 
 ## Grading scheme  
-| Grade | Points |  | Grade | Points |   | Grade | Points | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
-| A | 100% to 94% | | B- | <84% to 80% | | D+ | <70% to 67% |
-| A- | <94% to 90% | | C+ | <80% to 77% | | D | <67% to 64% |
-| B+ | <90% to 87% | | C | <77% to 74% | | D- | <64% to 61% |
-| B | <87% to 84% | | C- | <74% to 70% | | F | <61% to 0% |
-
+[](supporting_files/grades.png)
