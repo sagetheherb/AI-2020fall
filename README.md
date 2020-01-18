@@ -58,7 +58,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 * Course schedule at [gsheet](https://docs.google.com/spreadsheets/d/1Ptg43VLyei4-31yoKsPjQmOK-wa2zoccSDa-9uUY1Vs/edit?usp=sharing)
 
 ## General Policies
-* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our 'turnitin' tool automatically checks for plagarism
+* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism
   <img src="supporting_files/turn-it-in.png" align="middle" width="200" border="2"/>  
 * Lecture recordings, audio or video, are not permitted
 * You are welcome to bring your laptop in class
