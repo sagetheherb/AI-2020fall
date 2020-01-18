@@ -1,14 +1,23 @@
-**Tip**: When opening .ipynb files if you get **`Sorry, something went wrong. Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
+**Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
 --------------  
 
-Syllabus, Kaggle, Colab, Python
 Practice Python, Numpy, Pandas
 Practice Python, Numpy, Pandas
-Univariate linear regression
-Linear regression with two input variables
-Logistic regression
-Basics of Neural Networks
+Ch18: Univariate linear regression
+Ch18: Linear regression with two input variables
+Ch18: Logistic regression
+Discussion: Basics of neural networks
+Binary classification using NN
+Evaluating a binary classifier
+Ch03: Implement Breadth-first search
+Regression using NN
+Ch05: Alpha-beta pruning
+Evaluating a regression model
+Overfitting vs generalization
+Learning curves
+Discussion: Evaluating & selecting models
+Ch22: Implement BM25
 
 
 Implement Breadth-first search
