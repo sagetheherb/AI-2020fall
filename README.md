@@ -36,7 +36,7 @@ Slides, Homeworks, Project, Tests, and Test Samples are inside the relevant fold
 Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="supporting_files/book.jpg" align="middle" width="150"/>  
 
 ## Course Topics
-- Book chapters 
+- **Book chapters**  
   - Chapter 18 - Learning From Examples 
   - Chapter 1 - Introduction 
   - Chapter 2 - Intelligent Agents
@@ -48,12 +48,12 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
   - Chapter 24 - Perception 
   - Chapter 25 - Robotics 
   - Chapter 26 - Philosophical Foundations  
-- Machine learning using Keras  
+- **Machine learning using Keras**   
   - Basics of Python, Numpy and Keras
   - Design, train, and evaluate basic feed-forward neural networks
   - Study feature importance and feature reduction
 
-## ➛Course Schedule
+## Course Schedule
 | `Week` | `Date` | `Topic` | 
 | --- | --- | --- | 
 | 01 | W/01/22 | Syllabus + Github + Kaggle + Colab |
@@ -89,36 +89,32 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
 | 16 | W/05/06 |  |
 | - | May 11, Mon | **`Final Exam` - 2:45 PM to 4:45 PM at Clark Hall 307** |  
 
-## ➛Course Policies
-
-### General Policies
+## General Policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our 'turnitin' tool automatically checks for plagarism
   <img src="supporting_files/turn-it-in.png" align="middle" width="200" border="2"/>  
 * Lecture recordings, audio or video, are not permitted
 * You are welcome to bring your laptop in class
 
-### Late Homework/Project Submission  
+## Late Homework/Project Submission  
 * You have a total of 5 late days
 * Once you use your late days, late submissions will get no points
 
-### Projects
+## Projects
 Please see the 'project' folder.
 
-### Homeworks
+## Homeworks
 Please see the 'homeworks' folder.
 
-### Tests 
+## Tests 
 * There will be two tests including one final (see the schedule for dates)
 * Test will be CLOSED book, CLOSED notes, and CLOSED electronics
 * Use of any type of electronics is strictly forbidden during tests
 
-### Attendance  
+## Attendance  
 * Attendance will be recorded in every class
 * More than 5 uninformed absenses will lead to failing the course
 
-## ➛Assessment/Grading
-
-### Grade Composition  
+## Grade Composition  
 * 10 points = Homeworks
 * 30 points = Test 1 and Test 2
 * 10 points = Project Proposal (with review comments)
@@ -129,7 +125,7 @@ Please see the 'homeworks' folder.
 * 20 points = Final Report  
 * 1 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
-### Grading Scheme  
+## Grading Scheme  
 | Grade | Points |  | Grade | Points |   | Grade | Points | 
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | A | 100% to 94% | | B- | <84% to 80% | | D+ | <70% to 67% |
