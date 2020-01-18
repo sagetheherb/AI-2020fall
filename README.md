@@ -54,13 +54,13 @@ Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="support
   - Study feature importance and feature reduction
 
 ## Course Schedule
-| `Week` | `Date` | `Topic` | 
+| `Week` | `Date` | `Test` | `Activity` | 
 | --- | --- | --- | 
-| 01 | W/01/22 | Syllabus + Github + Kaggle + Colab |
-| 02 | M/01/27 | `Activity:` Python |
-| 02 | W/01/29 | `Activity:` Numpy |
-| 03 | M/02/03 | `Activity:` Pandas |
-| 03 | W/02/05 | **`Test01:`** - Python & Numpy |
+| 01 | W/01/22 | - | `Activity:` Python |
+| 02 | M/01/27 | - | Syllabus + Github + Kaggle + Colab |
+| 02 | W/01/29 | Python basics | `Activity:` Numpy |
+| 03 | M/02/03 | - | `Activity:` Numpy |
+| 03 | W/02/05 | Numpy |  |
 | 04 | M/02/10 | `Activity:` Univariate linear regression |
 | 04 | W/02/12 | `Activity:` Linear Regression with Two Input Variables |
 | 05 | M/02/17 | `Activity:` Logistic Regression |
