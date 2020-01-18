@@ -76,13 +76,13 @@ This schedule will be updated as the class progresses.
 | 04 | Feb 12, Wed | `Activity05:` Linear Regression with Two Input Variables |
 | 05 | Feb 17, Mon | `Activity06:` Logistic Regression |
 | 05 | Feb 19, Wed | **`Test02:`** Ch18 - Learning from examples + `Discussion01:` [Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/) |
-| 06 | Feb 24, Mon |  |
-| 06 | Feb 26, Wed | **`Test03:`** Ch01 & Ch02 - Introduction to AI |
-| 07 | Mar 02, Mon | Activity: Implement BFS |
-| 07 | Mar 04, Wed | **`Test04:`** Ch03 - Problem solving + `Activity:`  |
+| 06 | Feb 24, Mon | `Activity:` Binary classification using Keras |
+| 06 | Feb 26, Wed | **`Test03:`** Ch01 & Ch02 - Introduction to AI + `Activity:` Evaluating binary classifier |
+| 07 | Mar 02, Mon | `Activity:` Implement BFS |
+| 07 | Mar 04, Wed | **`Test04:`** Ch03 - Problem solving + `Activity:` Regression using Keras |
 | 08 | Mar 09, Mon | `Activity:` Practice alpha-beta pruning algorithm |
-| 08 | Mar 11, Wed | **`Test05:`** Ch05 - Adverserial search +  |
-| 09 | Mar 16, Mon |  |
+| 08 | Mar 11, Wed | **`Test05:`** Ch05 - Adverserial search + `Activity:` Evaluating real-valued predictions |
+| 09 | Mar 16, Mon | `Activity:` Practice the cutset conditioning algorithm |
 | 09 | Mar 18, Wed | **`Test06`** Ch06 - Constraint satisfaction problems |
 | - | - | Spring break |
 | 11 | Mar 30, Mon |  |
