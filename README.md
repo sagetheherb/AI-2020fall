@@ -65,7 +65,7 @@ Course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jd
 * Once you use your late days, late submissions will get no points.
 
 ## Course project
-See [PROJECT](PROJECT.md).
+Project and requirements are described [here](PROJECT.md).
 
 ## Homeworks
 Besides the main course project milestones, there will be no other homeworks.
