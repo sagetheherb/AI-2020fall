@@ -161,6 +161,6 @@ plt.show()
 ## Discussion: Present & future of AI
 
 ## Discussion: Peer-review of reports
-
-
+* Form groups of three students, and interact to provide feedback to each other
+* Make notes of the feedbacks you receive and address them
 
