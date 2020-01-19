@@ -64,6 +64,9 @@ a) A PDF report describing the comments you received and how you addressed them
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
 * See sample-reports folder and sample-posters folder for samples
 
+**What to submit?**  
+a) A copy of your final report   
+
 **What to bring?**  
 a) A printed copy of your final report   
 b) Your poster  
