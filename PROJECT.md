@@ -1,5 +1,5 @@
 # Project Objectives
-1. Develop a feedforward neural network architectures for a pre-cleaned tabular dataset with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
+1. Develop a feedforward neural network architectures for a pre-cleaned tabular dataset (no time-series data, no image data, no text data) with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
 1. Compare the performance with a logistic regression model (for classification) or linear regression model (for regression).
 1. Study, investigate and discuss "what", "how", and "why" your model makes predictions.
 
