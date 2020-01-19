@@ -50,6 +50,8 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## Course schedule
 <img src="schedule.png" align="middle"/>  
+
+
 For the most up-to-date schedule [see11](https://owa.umsystem.edu).
 
 ## General policies
