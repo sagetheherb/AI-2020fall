@@ -50,6 +50,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## Course schedule
 <img src="schedule.png" align="middle"/>  
+
 For the most up-to-date schedule [see](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml).
 
 ## General policies
