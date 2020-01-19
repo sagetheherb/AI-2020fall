@@ -50,7 +50,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## Course schedule
 <img src="schedule.png" align="middle"/>  
-For the most up-to-date schedule [see](https://owa.umsystem.edu/owa/#path=/attachmentlightbox).
+For the most up-to-date schedule [see11](https://owa.umsystem.edu).
 
 ## General policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](supporting_files/turn-it-in.png) 
