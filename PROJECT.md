@@ -65,10 +65,12 @@ a) A PDF report describing the comments you received and how you addressed them
 * See sample-reports folder and sample-posters folder for samples
 
 **What to submit?**  
-a) A copy of your final report   
+a) A copy of your final report  
+b) A link to your final Notebook
 
 **What to bring?**  
-a) A printed copy of your final report   
-b) Your poster  
-c) A laptop for demonstration (if needed)  
+a) A printed copy of your final report  
+b) A link to your final Notebook
+c) Your poster  
+d) A laptop for demonstration (if needed)  
 
