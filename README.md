@@ -49,7 +49,9 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   - Study feature importance and feature reduction
 
 ## Course schedule
-Course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml).
+<img src="schedule.png" align="middle" width="600"/>
+
+Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml).
 
 ## General policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](supporting_files/turn-it-in.png) 
@@ -68,7 +70,8 @@ Course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jd
 Project and requirements are described [here](PROJECT.md).
 
 ## Homeworks
-Besides the main course project milestones, there will be no other homeworks.
+* There will be two kinds of homeworks: 1) writing chapter summaries, and 2) project milestones.
+* What to submit? One page summary (at least 500 words) of the chapter.
 
 ## Tests 
 * There will be short tests (maximum 30 minutes) almost every week on Wednesdays (see the course schedule).
@@ -81,7 +84,8 @@ Besides the main course project milestones, there will be no other homeworks.
 * More than 5 uninformed absenses may lead to failing the course
 
 ## Grade composition  
-* 10 * 4 points = 10 Tests
+* 10 * 3 points = 10 Tests
+* 10 * 1 points = 10 Homeworks
 * 20 * 1 points = 20 Activities
 * 40     points = Project
 * 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
