@@ -9,27 +9,27 @@
 --------------  
 
 ## Python
-* Practice [Python3](notebooks/python.ipynb)
+* Practice [Python3](../notebooks/python.ipynb)
 
 ## Numpy, Matplotlib, & Pandas
-* Practice [Numpy](notebooks/numpy.ipynb)
-* Practice [Matplolib & Plotly](notebooks/matploblib_plotly.ipynb)
-* Practice [Pandas](notebooks/pandas.ipynb)
+* Practice [Numpy](../notebooks/numpy.ipynb)
+* Practice [Matplolib & Plotly](../notebooks/matploblib_plotly.ipynb)
+* Practice [Pandas]
 
 ## Ch18: Univariate linear regression
-* Practice [univariate_linear_regression.ipynb](univariate_linear_regression.ipynb)
+* Practice [univariate_linear_regression.ipynb](
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select two variables (one input and one output) and perform univariate linear regression
   - Check that the variables you select are continuous
 
 ## Ch18: Linear regression with two input variables
-* Practice [Linear_Regression_with_Two_Input_Variables.ipynb](Linear_Regression_with_Two_Input_Variables.ipynb)
+* Practice [Linear_Regression_with_Two_Input_Variables.ipynb]
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the variables you select are continuous
 
 ## Ch18: Logistic regression
-* Practice [Logistic_Regression_Example.ipynb](Logistic_Regression_Example.ipynb)
+* Practice [Logistic_Regression_Example.ipynb]
 * Find a classification dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the output variable is binary
@@ -39,14 +39,14 @@
 * Groups ask questions to each other
 
 ## Binary classification using NN
-* Practice the first part of [Binary_Classification.ipynb](Binary_Classification.ipynb), i.e. only upto `model.fit()`
+* Practice the first part of [Binary_Classification.ipynb], i.e. only upto `model.fit()`
 * Find a classification dataset of your choice at [kaggle.com](https://kaggle.com/)
   - Check that the output variable is binary
 * Build a binary NN classifier for your dataset
 * Build a logistic regression model and observe the accuracy
 
 ## Evaluating a binary classifier
-* Practice the second part of [Binary_Classification.ipynb](Binary_Classification.ipynb), i.e. after `model.fit()`
+* Practice the second part of [Binary_Classification.ipynb], i.e. after `model.fit()`
 * Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
 * What is the baseline accuracy?
 
@@ -55,7 +55,7 @@ Implement the Breadth First Search algorithm to find the shortest path from Sibi
 <img src="map-romania-trimmed.png" align="middle" width="250"/> 
 
 ## Regression using NN
-* Practice the first part of [Example2_Regression.ipynb](Example2_Regression.ipynb), i.e. only upto `model.fit()`
+* Practice the first part of [Example2_Regression.ipynb], i.e. only upto `model.fit()`
 * Find a regression dataset of your choice at [kaggle.com](https://kaggle.com/)
   - Check that the output variable is continuous
 * Build a regression NN classifier for your dataset
@@ -68,7 +68,7 @@ Implement the Breadth First Search algorithm to find the shortest path from Sibi
 <img src="alpha-beta.png" align="middle" width="450"/>
 
 ## Evaluating a regression model
-* Practice the second part of [Example2_Regression.ipynb](Example2_Regression.ipynb), i.e. after `model.fit()`
+* Practice the second part of [Example2_Regression.ipynb], i.e. after `model.fit()`
 * Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
 * Is your model biased? Plot correct labels vs predicted values.
 * Which loss function is best suited for your problem?
