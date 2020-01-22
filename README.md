@@ -45,6 +45,8 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   - Chapter 26 - Philosophical Foundations  
 - **Machine learning using Keras**   
   - Basics of Python, Numpy and Keras
+    - Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb), [Pandas]
+    - Video lectures - [Python3], [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA), Pandas
   - Design, train, and evaluate basic feed-forward neural networks
   - Study feature importance and feature reduction
 
