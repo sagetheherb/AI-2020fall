@@ -74,3 +74,5 @@ b) A link to your final Notebook
 c) Your poster  
 d) A laptop for demonstration (if needed)  
 
+# Example posters and reports
+* See [here](example-posters/) for sample posters and [here](example-reports/) for sample reports.
