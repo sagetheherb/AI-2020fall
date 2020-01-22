@@ -9,7 +9,7 @@
 --------------  
 
 ## Python
-* Practice [python.ipynb](python.ipynb)
+* Practice [python.ipynb](../notebooks/python.ipynb)
 
 ## Numpy, Matplotlib, & Pandas
 * Practice [numpy.ipynb](numpy.ipynb)
