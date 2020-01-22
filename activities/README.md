@@ -9,12 +9,13 @@
 --------------  
 
 ## Python
-* Practice [Python3](../notebooks/python.ipynb) and watch [Python3]
+* Watch how to use [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
+* Practice Python3 - [notebook](../notebooks/python.ipynb) and watch [lecture]
 
 ## Numpy, Matplotlib, & Pandas
-* Practice [Numpy](../notebooks/numpy.ipynb) and watch [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY)
-* Practice [Matplolib & Plotly](../notebooks/matploblib_plotly.ipynb) and watch [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
-* Practice [Pandas]
+* Practice Numpy - [notebook](../notebooks/numpy.ipynb) and [lecture](https://www.youtube.com/watch?v=Omz8P8n-5gY)
+* Practice Matplolib & Plotly - [notebook](../notebooks/matploblib_plotly.ipynb) and [lecture](https://youtu.be/aIzkkjRzVdA)
+* Practice Pandas - [notebook]
 
 ## Ch18: Univariate linear regression
 * Practice [univariate_linear_regression.ipynb](
