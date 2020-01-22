@@ -9,12 +9,12 @@
 --------------  
 
 ## Python
-* Practice [python.ipynb](../notebooks/python.ipynb)
+* Practice [Python3](notebooks/python.ipynb)
 
 ## Numpy, Matplotlib, & Pandas
-* Practice [numpy.ipynb](numpy.ipynb)
-* Practice [matploblib.ipynb](matploblib.ipynb)
-* Practice [pandas.ipynb](pandas.ipynb)
+* Practice [Numpy](notebooks/numpy.ipynb)
+* Practice [Matplolib & Plotly](notebooks/matploblib_plotly.ipynb)
+* Practice [Pandas](notebooks/pandas.ipynb)
 
 ## Ch18: Univariate linear regression
 * Practice [univariate_linear_regression.ipynb](univariate_linear_regression.ipynb)
