@@ -9,11 +9,11 @@
 --------------  
 
 ## Python
-* Practice [Python3](../notebooks/python.ipynb)
+* Practice [Python3](../notebooks/python.ipynb) and watch [Python3]
 
 ## Numpy, Matplotlib, & Pandas
-* Practice [Numpy](../notebooks/numpy.ipynb)
-* Practice [Matplolib & Plotly](../notebooks/matploblib_plotly.ipynb)
+* Practice [Numpy](../notebooks/numpy.ipynb) and watch [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY)
+* Practice [Matplolib & Plotly](../notebooks/matploblib_plotly.ipynb) and watch [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
 * Practice [Pandas]
 
 ## Ch18: Univariate linear regression
