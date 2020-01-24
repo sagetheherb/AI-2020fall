@@ -5,7 +5,7 @@
 [UMSL Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
 
 ## Class and office hours
-* Instructor: [Badri Adhikari](https://badriadhikari.github.io) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
+* Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
 * Class meets: `MW 4PM to 5:15PM` at `ESH 103`
 * Office location and hours: `312 Express Scripts Hall`, `Mondays 1PM to 4PM` 
 
