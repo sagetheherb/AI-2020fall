@@ -25,7 +25,8 @@
 * Implement various AI algorithms such as DFS, BFS, etc.
 
 ## Course materials  
-All course materials are inside the relevant folders in Github location.
+* All course materials are inside the relevant folders in Github location.
+* Recorded lectures of the chapters are [here](https://www.youtube.com/watch?v=vr04Mp6QUeg&list=PLU2jxioSf5Rd65dkbaRs4vK0-G-CUBo7M) and the slides are [here](./chapter-slides/). 
 
 ## Textbook  
 Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://www.pearson.com/us/higher-education/product/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/9780136042594.html). 
