@@ -12,10 +12,13 @@
 * Watch how to use [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
 * Practice Python3 - [notebook](../notebooks/python.ipynb) and watch [lecture](https://www.youtube.com/watch?v=V42qfAPybp8)
 
-## Numpy, Matplotlib, & Pandas
+## Numpy, Matplotlib
 * Practice Numpy - [notebook](../notebooks/numpy.ipynb) and [lecture](https://www.youtube.com/watch?v=Omz8P8n-5gY)
 * Practice Matplolib & Plotly - [notebook](../notebooks/matploblib_plotly.ipynb) and [lecture](https://youtu.be/aIzkkjRzVdA)
-* Practice Pandas - [notebook]
+
+## Basic data analysis using Pandas
+* Practice Pandas - [notebook](../notebooks/pandas.ipynb)
+* Find a dataset of your choice at [kaggle.com](https://kaggle.com/) and repeat your analysis for the dataset you downloaded
 
 ## Ch18: Univariate linear regression
 * Practice [univariate_linear_regression.ipynb](
