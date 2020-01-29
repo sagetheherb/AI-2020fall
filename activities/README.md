@@ -14,7 +14,7 @@
 
 ## Numpy, Matplotlib
 * Practice Numpy - [notebook](../notebooks/numpy.ipynb) and [lecture](https://www.youtube.com/watch?v=Omz8P8n-5gY)
-* Practice Matplolib & Plotly - [notebook](../notebooks/matploblib_plotly.ipynb) and [lecture](https://youtu.be/aIzkkjRzVdA)
+* Practice Matplotlib & Plotly - [notebook](../notebooks/matplotlib_plotly.ipynb) and [lecture](https://youtu.be/aIzkkjRzVdA)
 
 ## Basic data analysis using Pandas
 * Practice Pandas - [notebook](../notebooks/pandas.ipynb)
