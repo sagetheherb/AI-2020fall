@@ -21,20 +21,20 @@
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/) and repeat your analysis for the dataset you downloaded
 
 ## Ch18: Univariate linear regression
-* Practice [univariate_linear_regression.ipynb](../notebooks/Univariate_linear_regression.ipynb)
+* Practice univariate linear regression - [notebook](../notebooks/Univariate_linear_regression.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select two variables (one input and one output) and perform univariate linear regression
   - Check that the variables you select are continuous
 
 ## Ch18: Linear regression with two input variables
 * Practice [Linear_Regression_with_Two_Input_Variables.ipynb]
-* Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
+* Find a dataset of your choice at Kaggle
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the variables you select are continuous
 
 ## Ch18: Logistic regression
 * Practice [Logistic_Regression_Example.ipynb]
-* Find a classification dataset of your choice at [kaggle.com](https://kaggle.com/)
+* Find a classification dataset of your choice at Kaggle
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the output variable is binary
 
@@ -44,7 +44,7 @@
 
 ## Binary classification using NN
 * Practice the first part of [Binary_Classification.ipynb], i.e. only upto `model.fit()`
-* Find a classification dataset of your choice at [kaggle.com](https://kaggle.com/)
+* Find a classification dataset of your choice at Kaggle
   - Check that the output variable is binary
 * Build a binary NN classifier for your dataset
 * Build a logistic regression model and observe the accuracy
