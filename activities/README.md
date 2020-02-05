@@ -21,7 +21,7 @@
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/) and repeat your analysis for the dataset you downloaded
 
 ## Ch18: Univariate linear regression
-* Practice [univariate_linear_regression.ipynb](
+* Practice [univariate_linear_regression.ipynb](../notebooks/Univariate_linear_regression.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select two variables (one input and one output) and perform univariate linear regression
   - Check that the variables you select are continuous
