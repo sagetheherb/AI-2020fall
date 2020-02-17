@@ -27,13 +27,13 @@
   - Check that the variables you select are continuous
 
 ## Ch18: Linear regression with two input variables
-* Practice [Linear_Regression_with_Two_Input_Variables.ipynb]
+* Practice linear regression with two input variables - [notebook](../notebooks/Linear_regression_2_inputs.ipynb)
 * Find a dataset of your choice at Kaggle
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the variables you select are continuous
 
 ## Ch18: Logistic regression
-* Practice [Logistic_Regression_Example.ipynb]
+* Practice logistic regression - [notebook](../notebooks/Logistic_regression.ipynb)
 * Find a classification dataset of your choice at Kaggle
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the output variable is binary
