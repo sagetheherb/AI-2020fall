@@ -19,6 +19,7 @@
 ## Basic data analysis using Pandas
 * Practice Pandas - [notebook](../notebooks/pandas.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/) and repeat your analysis for the dataset you downloaded
+* Learn to normalize the data
 
 ## Ch18: Univariate linear regression
 * Practice univariate linear regression - [notebook](../notebooks/Univariate_linear_regression.ipynb)
@@ -38,21 +39,15 @@
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the output variable is binary
 
-## Discussion: Basics of neural networks
-* Group discussion of "[A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)"
-* Groups ask questions to each other
-
 ## Binary classification using NN
-* Practice the first part of [Binary_Classification.ipynb], i.e. only upto `model.fit()`
+* Group discussion of "[A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)"
+* Practice binary classification - [notebook](../notebooks/Binary_classification.ipynb)
 * Find a classification dataset of your choice at Kaggle
   - Check that the output variable is binary
-* Build a binary NN classifier for your dataset
-* Build a logistic regression model and observe the accuracy
-
-## Evaluating a binary classifier
-* Practice the second part of [Binary_Classification.ipynb], i.e. after `model.fit()`
-* Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
-* What is the baseline accuracy?
+  - Evaluate your model using accuracy, precision, and recall
+  - Build a binary NN classifier for your dataset
+  - Build a logistic regression model and observe the accuracy, i.e. compare the performance of the neural network with a logistic regression model
+  - What is the baseline accuracy?
 
 ## Ch03: Implement Breadth-first search
 Implement the Breadth First Search algorithm to find the shortest path from Sibiu to Bucharest.  
