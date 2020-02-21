@@ -18,13 +18,13 @@
     - In case of classification, check if the data is imbalanced
     - In case of regression, check if the values are uniformly distributed or not
 1. Data normalization
-1. Data spliting into training, and validation sets
 
 **What to submit?**  
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
 ## 2. Model selection & evaluation
+1. Split the data into training, and validation sets
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
     - Discuss how neural network models will be selected
