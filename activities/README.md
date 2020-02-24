@@ -49,9 +49,10 @@
   - Build a logistic regression model and observe the accuracy, i.e. compare the performance of the neural network with a logistic regression model
   - What is the baseline accuracy?
 
-## Ch03: Implement Breadth-first search
-Implement the Breadth First Search algorithm to find the shortest path from Sibiu to Bucharest.  
-<img src="map-romania-trimmed.png" align="middle" width="250"/> 
+## Ch03: Implement breadth-first search (BFS) algorithm
+* Study and discuss the BFS algorithm [here](./bfs.png).
+* [Here](./iia.png) is a map of some international airports in India. Nick wants to go to Amritsar from Chennai (see the map). IN PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C). An example BFS tree is [here](./bfstree.png).
+* Implement the BFS algorithm (in Python) to find the shortest path from Sibiu to Bucharest in [this](./map-romania-trimmed.png) map.
 
 ## Regression using NN
 * Practice the first part of [Example2_Regression.ipynb], i.e. only upto `model.fit()`
