@@ -59,7 +59,23 @@
 
 ## Ch03: Implement the breadth-first search (BFS) algorithm
 * Implement the BFS algorithm (in Python) to find the shortest path from Sibiu to Bucharest in this map.  
-   <img src="map-romania-trimmed.png" align="middle" width="450"/>
+   <img src="map-romania-trimmed.png" align="middle" width="450"/>   
+* Queues in Python:
+  ```Python
+  # Initializing a queue 
+  queue = []  
+  # Adding elements to the queue 
+  queue.append('a') 
+  queue.append('b') 
+  queue.append('c') 
+  # Print
+  print(queue) 
+  # Removing elements from the queue 
+  print("\nElements dequeued from queue") 
+  print(queue.pop(0)) 
+  print(queue.pop(0)) 
+  print(queue) 
+  ```
 
 ## Regression using NN and evaluation
 * Practice the first part of [Example2_Regression.ipynb], i.e. only upto `model.fit()`
