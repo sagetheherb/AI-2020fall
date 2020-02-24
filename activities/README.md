@@ -50,7 +50,7 @@
   - What is the baseline accuracy?
 
 ## Ch03: Implement breadth-first search (BFS) algorithm
-* Study and discuss the BFS algorithm. 
+* Study and discuss the BFS algorithm.   
   <img src="bfs.png" align="middle" width="450"/>
 * [Here](./iia.png) is a map of some international airports in India. Nick wants to go to Amritsar from Chennai (see the map). IN PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C). An example BFS tree is [here](./bfstree.png).
 * Implement the BFS algorithm (in Python) to find the shortest path from Sibiu to Bucharest in [this](./map-romania-trimmed.png) map.
