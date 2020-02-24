@@ -59,25 +59,23 @@
 1. Implement the BFS algorithm (in Python) to find the shortest path from Sibiu to Bucharest in this map.  
    <img src="map-romania-trimmed.png" align="middle" width="450"/>
 
-## Regression using NN
+## Regression using NN and evaluation
 * Practice the first part of [Example2_Regression.ipynb], i.e. only upto `model.fit()`
 * Find a regression dataset of your choice at [kaggle.com](https://kaggle.com/)
   - Check that the output variable is continuous
 * Build a regression NN classifier for your dataset
 * Build a linear regression model and observe the MAE
+* Practice the second part of [Example2_Regression.ipynb], i.e. after `model.fit()`
+* Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
+* Is your model biased? Plot correct labels vs predicted values.
+* Which loss function is best suited for your problem?
+* How to control the influence of outliers (large values)?
 
 ## Ch05: Alpha-beta pruning
 * This is not a programming activity; you will solve it in paper. 
 * For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm.
 * Assume that the nodes are processed from left to right. 
 <img src="alpha-beta.png" align="middle" width="450"/>
-
-## Evaluating a regression model
-* Practice the second part of [Example2_Regression.ipynb], i.e. after `model.fit()`
-* Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
-* Is your model biased? Plot correct labels vs predicted values.
-* Which loss function is best suited for your problem?
-* How to control the influence of outliers (large values)?
 
 ## Overfitting vs generalization
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
