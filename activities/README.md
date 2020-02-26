@@ -90,7 +90,7 @@
   1. Train a regression neural neural network model
   1. Compare the MAE of your model with MAE of a linear regression model (only 1 layer)
   1. Is your model biased? i.e. in your true/prediction plot does your model predict smaller values more correctly or larger values more correctly?
-  1. How does your mae change when you replace the loss functions with mae, rmsle, and logcosh?
+  1. Which is the best loss function for your output variable? mae, mse, rmsle, or logcosh?
 
 ## Ch05: Alpha-beta pruning
 * This is not a programming activity; you will solve it in paper. 
