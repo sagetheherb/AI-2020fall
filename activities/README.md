@@ -84,16 +84,13 @@
   ```
 
 ## Regression using NN and evaluation
-* Practice the first part of [Example2_Regression.ipynb], i.e. only upto `model.fit()`
-* Find a regression dataset of your choice at [kaggle.com](https://kaggle.com/)
-  - Check that the output variable is continuous
-* Build a regression NN classifier for your dataset
-* Build a linear regression model and observe the MAE
-* Practice the second part of [Example2_Regression.ipynb], i.e. after `model.fit()`
-* Evaluate your model on your dataset and discuss which metrics are meaningful and which are not
-* Is your model biased? Plot correct labels vs predicted values.
-* Which loss function is best suited for your problem?
-* How to control the influence of outliers (large values)?
+* Practice regression using neural networks - [notebook](../notebooks/Regression_NN.ipynb)
+* Find a regression dataset of your choice at kaggle; make sure that the output variable is continuous real-valued
+* On your new dataset, do the following:
+  1. Train a regression neural neural network model
+  1. Compare the MAE of your model with MAE of a linear regression model (only 1 layer)
+  1. Is your model biased? i.e. in your true/prediction plot does your model predict smaller values more correctly or larger values more correctly?
+  1. How does your mae change when you replace the loss functions with mae, rmsle, and logcosh?
 
 ## Ch05: Alpha-beta pruning
 * This is not a programming activity; you will solve it in paper. 
