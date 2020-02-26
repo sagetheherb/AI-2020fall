@@ -50,8 +50,6 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   - Study feature importance and feature reduction
 
 ## Course schedule
-<img src="schedule.png" align="middle" width="600"/>
-
 * Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=0&single=true).
 
 ## General policies
