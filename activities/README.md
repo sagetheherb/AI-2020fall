@@ -76,6 +76,12 @@
   print(queue.pop(0)) 
   print(queue) 
   ```
+* Representing a graph using dictionary (values are lists of neighbors):
+  ```
+  graph = {} 
+  graph['A'] = ['B', 'C']
+  graph['B'] = ['A', 'D', 'E']
+  ```
 
 ## Regression using NN and evaluation
 * Practice the first part of [Example2_Regression.ipynb], i.e. only upto `model.fit()`
