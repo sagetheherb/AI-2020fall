@@ -155,7 +155,7 @@
    1. an overfitting model
    1. a model that clearly requires further training
    1. an underfit model that does not have sufficient capacity (also may imply that the data itself is difficult)
-1. Interpret the following learning curve:
+1. Interpret the following learning curve:   
    <img src="learningcurve.png" align="middle" width="450"/>
 
 ## Discussion: Evaluating & selecting models
