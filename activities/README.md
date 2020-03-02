@@ -93,14 +93,14 @@
   1. Which is the best loss function for your output variable? mae, mse, rmsle, or logcosh?
 
 ## Overfitting vs generalization
-1. Find a dataset of your choice at Kaggle. Either dataset is fine - classification or regression.
+1. Find a dataset of your choice at Kaggle. Classification or regression, any.
 1. Shuffle the rows
    ```python
    # Shuffle
    import random
    np.random.shuffle(dataset)
    ```
-1. Split into training and validation set
+1. Split into training and validation set. For small datasets, ~30% works. For larger datasets, smaller percents can be enough.
    ```python
    # Index for 30%
    index_30percent = int(0.3 * len(dataset[:, 0]))
