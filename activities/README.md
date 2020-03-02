@@ -116,7 +116,12 @@
 1. Compare the accuracy/MAE in the following two scenarios:
    1. Build a NN model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
       ```python
-      model.fit(XTRAIN, YTRAIN, validation_data=(XVALID, YVALID), ...)
+      # Learn the model from training set
+      model.fit(XTRAIN, YTRAIN, ...)
+      # Predict for validation set
+      P = model.predict(XVALID)
+      # Evaluate on validation set
+      MAE = abs(YALID - P)
       ```
    1. Build a NN model to underfit the training set (to get very low accuracy or high MAE) and then evalute on the validation set and observe the accuracy/MAE
 1. Answer the following questions:
@@ -136,7 +141,7 @@
 1. Find a dataset of your choice (regression or classification) at Kaggle. Shuffle it, split it, and train a model.
 1. Obtain learning curves for your dataset
    ```python
-   # Do the training
+   # Do the training (specify the validation set as well)
    history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALID, YVALID), ...)
    # Check what's in the history
    print(history.params)
