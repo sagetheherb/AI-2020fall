@@ -90,7 +90,7 @@
   1. Train a regression neural neural network model
   1. Compare the MAE of your model with MAE of a linear regression model (only 1 layer)
   1. Is your model biased? i.e. in your true/prediction plot does your model predict smaller values more correctly or larger values more correctly?
-  1. Which is the best loss function for your output variable? mae, mse, rmsle, or logcosh?
+  1. Which is the best loss function for your output variable? mae, mse, mean_squared_logarithmic_error, or logcosh?
 
 ## 11. Overfitting vs generalization
 1. Find a dataset of your choice at Kaggle. Classification or regression, any.
