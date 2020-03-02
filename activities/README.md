@@ -113,8 +113,8 @@
    ```
 1. If you are normalizing your data, only use the XTRAIN and YTRAIN to obtain the normalization parameters (mean/std). Do not use XVALID or YVALID.
 1. Compare the accuracy/MAE in the following two scenarios:
-   1. Build a model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
-   1. Build a model to underfit the training set (to get very low accuracy or high MAE) and then evalute on the validation set and observe the accuracy/MAE
+   1. Build a NN model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
+   1. Build a NN model to underfit the training set (to get very low accuracy or high MAE) and then evalute on the validation set and observe the accuracy/MAE
 1. Answer the following questions:
    1. Why can over-training be a problem?
    1. What is "generalization"?
