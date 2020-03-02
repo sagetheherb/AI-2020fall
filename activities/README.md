@@ -111,7 +111,7 @@
    XTRAIN = dataset[index_30percent:, "all input columns"]
    YTRAIN = dataset[index_30percent:, "output column"]
    ```
-    <img src="xysplit.png" align="middle" width="700"/>
+    <img src="xysplit.png" align="middle" width="800"/>
 1. If you are normalizing your data, only use the XTRAIN and YTRAIN to obtain the normalization parameters (mean/std). Do not use XVALID or YVALID.
 1. Compare the accuracy/MAE in the following two scenarios:
    1. Build a NN model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
