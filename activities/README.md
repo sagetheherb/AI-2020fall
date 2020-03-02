@@ -92,18 +92,40 @@
   1. Is your model biased? i.e. in your true/prediction plot does your model predict smaller values more correctly or larger values more correctly?
   1. Which is the best loss function for your output variable? mae, mse, rmsle, or logcosh?
 
+## Overfitting vs generalization
+1. Find a dataset of your choice at Kaggle. Either dataset is fine - classification or regression.
+1. Shuffle the rows
+   ```python
+   # Shuffle
+   import random
+   np.random.shuffle(dataset)
+   ```
+1. Split into training and validation set
+   ```python
+   # Index for 30%
+   index_30percent = int(0.3 * len(dataset[:, 0]))
+   print(index_30percent)
+   # Split into training and validation
+   XVALID = dataset[:index_30percent, "all input columns"]
+   YVALID = dataset[:index_30percent, "output column"]
+   XTRAIN = dataset[index_30percent:, "all input columns"]
+   YTRAIN = dataset[index_30percent:, "output column"]
+   ```
+1. If you are normalizing your data, only use the XTRAIN and YTRAIN to obtain the normalization parameters (mean/std). Do not use XVALID or YVALID.
+1. Compare the accuracy/MAE in the following two scenarios:
+   1. Build a model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
+   1. Build a model to underfit the training set (to get very low accuracy or high MAE) and then evalute on the validation set and observe the accuracy/MAE
+1. Answer the following questions:
+   1. Why can over-training be a problem?
+   1. What is "generalization"?
+   1. What is over-fitting?
+   1. Why should you not use XVALID/YVALID during normalization?
+
 ## Ch05: Alpha-beta pruning
 * This is not a programming activity; you will solve it in paper. 
 * For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm.
 * Assume that the nodes are processed from left to right. 
 <img src="alpha-beta.png" align="middle" width="450"/>
-
-## Overfitting vs generalization
-* Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
-* Split into training and validation set
-* Build a model to overfit the training set (to get 100% accuracy or 0 MAE)
-* Evalute on the test set
-* Can over-training be a problem?
 
 ## Learning curves
 
