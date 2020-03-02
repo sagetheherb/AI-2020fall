@@ -8,38 +8,38 @@
 
 --------------  
 
-## Python
+## 1. Python
 * Watch how to use [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
 * Practice Python3 - [notebook](../notebooks/python.ipynb) and watch [lecture](https://www.youtube.com/watch?v=V42qfAPybp8)
 
-## Numpy, Matplotlib
+## 2. Numpy, Matplotlib
 * Practice Numpy - [notebook](../notebooks/numpy.ipynb) and [lecture](https://www.youtube.com/watch?v=Omz8P8n-5gY)
 * Practice Matplotlib & Plotly - [notebook](../notebooks/matplotlib_plotly.ipynb) and [lecture](https://youtu.be/aIzkkjRzVdA)
 
-## Basic data analysis using Pandas
+## 3. Basic data analysis using Pandas
 * Practice Pandas - [notebook](../notebooks/pandas.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/) and repeat your analysis for the dataset you downloaded
 
-## Ch18: Univariate linear regression
+## 4. Univariate linear regression (Chapter 18)
 * Practice univariate linear regression - [notebook](../notebooks/Univariate_linear_regression.ipynb)
 * Learn to normalize data - [notebook](../notebooks/normalization_techniques.ipynb)
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
 * From this dataset, select two variables (one input and one output) and perform univariate linear regression
   - Check that the variables you select are continuous
 
-## Ch18: Linear regression with two input variables
+## 5. Linear regression with two input variables (Chapter 18)
 * Practice linear regression with two input variables - [notebook](../notebooks/Linear_regression_2_inputs.ipynb)
 * Find a dataset of your choice at Kaggle
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the variables you select are continuous
 
-## Ch18: Logistic regression
+## 6. Logistic regression (Chapter 18)
 * Practice logistic regression - [notebook](../notebooks/Logistic_regression.ipynb)
 * Find a classification dataset of your choice at Kaggle
 * From this dataset, select three variables (two input and one output) and perform regression
   - Check that the output variable is binary
 
-## Binary classification using NN
+## 7. Binary classification using NN
 * Group discussion of "[A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)"
 * Practice binary classification - [notebook](../notebooks/Binary_classification.ipynb)
 * Find a classification dataset of your choice at Kaggle
@@ -49,7 +49,7 @@
   - Build a logistic regression model and observe the accuracy, i.e. compare the performance of the neural network with a logistic regression model
   - What is the baseline accuracy?
 
-## Ch03: Breadth-first search (BFS) tree
+## 8. Breadth-first search (BFS) tree (Chapter 3)
 1. Study and discuss the BFS algorithm.   
    <img src="bfs.png" align="middle" width="450"/>
 1. Study and discuss the BFS tree below.   
@@ -57,7 +57,7 @@
 1. Here is a map of some international airports in India. Nick wants to go to Amritsar from Chennai (see the map). IN PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C).  
    <img src="iia.png" align="middle" width="450"/>
 
-## Ch03: Implement the breadth-first search (BFS) algorithm
+## 9. Implement the breadth-first search (BFS) algorithm (Chapter 3)
 * Implement the BFS algorithm (in Python) to find the shortest path from Sibiu to Bucharest in this map.  
    <img src="map-romania-trimmed.png" align="middle" width="450"/>   
 * Queues in Python:
@@ -83,7 +83,7 @@
   graph['B'] = ['A', 'D', 'E']
   ```
 
-## Regression using NN and evaluation
+## 10. Regression using NN and evaluation
 * Practice regression using neural networks - [notebook](../notebooks/Regression_NN.ipynb)
 * Find a regression dataset of your choice at kaggle; make sure that the output variable is continuous real-valued
 * On your new dataset, do the following:
@@ -92,7 +92,7 @@
   1. Is your model biased? i.e. in your true/prediction plot does your model predict smaller values more correctly or larger values more correctly?
   1. Which is the best loss function for your output variable? mae, mse, rmsle, or logcosh?
 
-## Overfitting vs generalization
+## 11. Overfitting vs generalization
 1. Find a dataset of your choice at Kaggle. Classification or regression, any.
 1. Shuffle the rows
    ```python
@@ -125,13 +125,13 @@
    1. What is over-fitting?
    1. Why should you not use XVALID/YVALID during normalization?
 
-## Ch05: Alpha-beta pruning
+## 12. Alpha-beta pruning (Chapter 5)
 * This is not a programming activity; you will solve it in paper. 
 * For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm.
 * Assume that the nodes are processed from left to right. 
 <img src="alpha-beta.png" align="middle" width="450"/>
 
-## Learning curves
+## 13. Learning curves
 1. Read [this](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) blog about learning curves.
 1. Find a dataset of your choice (regression or classification) at Kaggle. Shuffle it, split it, and train a model.
 1. Obtain learning curves for your dataset
