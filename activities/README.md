@@ -115,6 +115,9 @@
 1. If you are normalizing your data, only use the XTRAIN and YTRAIN to obtain the normalization parameters (mean/std). Do not use XVALID or YVALID.
 1. Compare the accuracy/MAE in the following two scenarios:
    1. Build a NN model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
+      ```python
+      model.fit(XTRAIN, YTRAIN, validation_data=(XVALID, YVALID), ...)
+      ```
    1. Build a NN model to underfit the training set (to get very low accuracy or high MAE) and then evalute on the validation set and observe the accuracy/MAE
 1. Answer the following questions:
    1. Why can over-training be a problem?
@@ -129,7 +132,29 @@
 <img src="alpha-beta.png" align="middle" width="450"/>
 
 ## Learning curves
-
+1. Read [this](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) blog about learning curves.
+1. Find a dataset of your choice (regression or classification) at Kaggle. Shuffle it, split it, and train a model.
+1. Obtain learning curves for your dataset
+   ```python
+   # Do the training
+   history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALID, YVALID), ...)
+   # Check what's in the history
+   print(history.params)
+   # Plot the learning curves (loss/accuracy/MAE)
+   plt.plot(history.history['loss']) # replace with accuracy/MAE
+   plt.plot(history.history['val_accuracy']) # replace with val_accuracy, etc.
+   plt.ylabel('Accuracy')
+   plt.xlabel('epoch')
+   plt.legend(['training data', 'validation data'], loc='lower right')
+   plt.show()
+   ```
+1. Using your dataset, produce the learning curves that represent the following cases:
+   1. too small validation dataset (relative to training set)
+   1. too small training set (relative to validation set)
+   1. a good learning curve (practically good)
+   1. an overfitting model
+   1. a model that clearly requires further training
+   1. an underfit model that does not have sufficient capacity (also may imply that the data itself is difficult)
 
 ## Discussion: Evaluating & selecting models
 * Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
