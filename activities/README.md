@@ -113,18 +113,25 @@
    ```
     <img src="xysplit.png" align="middle" width="800"/>
 1. If you are normalizing your data, only use the XTRAIN and YTRAIN to obtain the normalization parameters (mean/std). Do not use XVALID or YVALID.
-1. Compare the accuracy/MAE in the following two scenarios:
-   1. Build a NN model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
+1. Build a NN model to overfit the training set (to get 100% accuracy or 0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
+   1. Learn the model from training set
       ```python
-      # Learn the model from training set
       model.fit(XTRAIN, YTRAIN, ...)
-      # Predict for validation set
-      P = model.predict(XVALID)
-      # Evaluate on validation set
-      MAE = abs(YALID - P)
       ```
-   1. Build a NN model to underfit the training set (to get very low accuracy or high MAE) and then evalute on the validation set and observe the accuracy/MAE
+   1. Evaluate on XTRAIN
+      ```python
+      P = model.predict(XVALID)
+      MAE = abs(YTRAIN - P)
+      ```
+   1. Normalize XVALID and YVALID using the mean/std/Ymax obtained from XTRAIN/YTRAIN
+   1. Predict for validation set and evaluate
+      ```
+      P = model.predict(XVALID)
+      MAE = abs(YVALID - P)
+      ```
+   1. Plot true vs prediction plots for sets (training and validation) and compare the plots
 1. Answer the following questions:
+   1. Does your model perform better on the training set or validation set? Is this a problem? How to avoid this problem?
    1. Why can over-training be a problem?
    1. What is "generalization"?
    1. What is over-fitting?
