@@ -140,7 +140,7 @@
 ## 12. Alpha-beta pruning (Chapter 5)
 * This is not a programming activity; you will solve it in paper.
 * Here is the alpha-beta pruning algorithm:
-  <img src="alphabeta.png" align="middle" width="450"/>
+  <img src="alpha-beta-algo.png" align="middle" width="450"/>
 * For the following game tree, show which nodes/sub-tree will be pruned (i.e. not processed) by the Alpha-Beta pruning algorithm.
 * Assume that the nodes are processed from left to right.
 * Tip: Maintain alpha, beta, and v at each non-leaf node and update v step-by-step
