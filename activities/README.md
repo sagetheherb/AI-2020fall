@@ -138,10 +138,13 @@
    1. Why should you not use XVALID/YVALID during normalization?
 
 ## 12. Alpha-beta pruning (Chapter 5)
-* This is not a programming activity; you will solve it in paper. 
-* For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm.
-* Assume that the nodes are processed from left to right. 
-<img src="alpha-beta.png" align="middle" width="450"/>
+* This is not a programming activity; you will solve it in paper.
+* Here is the alpha-beta pruning algorithm:
+  <img src="alphabeta.png" align="middle" width="450"/>
+* For the following game tree, show which nodes/sub-tree will be pruned (i.e. not processed) by the Alpha-Beta pruning algorithm.
+* Assume that the nodes are processed from left to right.
+* Tip: Maintain alpha, beta, and v at each non-leaf node and update v step-by-step
+  <img src="alpha-beta.png" align="middle" width="450"/>
 
 ## 13. Learning curves
 1. Read [this](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) blog about learning curves.
