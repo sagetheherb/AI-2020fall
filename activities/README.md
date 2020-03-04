@@ -141,10 +141,12 @@
 * This is not a programming activity; you will solve it in paper.
 * Here is the alpha-beta pruning algorithm:   
   <img src="alpha-beta-algo.png" align="middle" width="450"/>
-* For the following game tree, show which nodes/sub-tree will be pruned (i.e. not processed) by the Alpha-Beta pruning algorithm.
-* Assume that the nodes are processed from left to right.
-* Tip: Maintain alpha, beta, and v at each non-leaf node and update v step-by-step
-  <img src="alpha-beta.png" align="middle" width="450"/>
+* For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm.
+* For the following game tree, calculate the minimax values for the non-leaf nodes. Also, identify the nodes (or sub-tree) that will be pruned (i.e. not processed)
+* Assume that MAX plays first at node A followed by MIN
+* Assume that the nodes are processed from left to right, i.e. actions are taken in alphabetical order.
+* TIP: Maintain alpha, beta, and v at each non-leaf node and update v step-by-step  
+  <img src="alpha-beta-problem.png" align="middle" width="450"/>
 
 ## 13. Learning curves
 1. Read [this](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) blog about learning curves.
