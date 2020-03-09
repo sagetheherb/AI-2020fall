@@ -86,7 +86,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## Attendance  
 * Attendance will be recorded frequently
-* More than 5 uninformed absenses may lead to failing the course
+* More than 5 uninformed absenses may lead to failing the course (This requirement is waived due to the COVID-19)
 
 ## Grade composition  
 * 10 * 3 points = 10 Tests
