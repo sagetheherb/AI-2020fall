@@ -140,7 +140,7 @@
 ## 12. Alpha-beta pruning (Chapter 5)
 * This is not a programming activity, you will solve it in paper.
 * For the following game tree, (a)show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm, and (b) calculate the minimax values (the output of MAX-VALUE or MIN-VALUE) for the non-leaf nodes. 
-  <img src="alpha-beta.png" align="middle" width="450"/>
+  <img src="alpha-beta.png" align="middle" width="800"/>
  
 ## 13. Learning curves
 1. Read [this](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) blog about learning curves.
