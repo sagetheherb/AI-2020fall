@@ -169,12 +169,19 @@
 1. Interpret the following learning curve:   
    <img src="learningcurve.png" align="middle" width="450"/>
 
-## Discussion: Evaluating & selecting models
-* Find a dataset of your choice at [kaggle.com](https://kaggle.com/)
+## 14. Fine-tuning hyper-parameters of your model
+* Find a dataset of your choice at Kaggle
+  * It can your project dataset
 * Split into training and validation set
-* Increasing the number of layers with the help of batch normalization
-* Increasing the number of neurons in each layer
-* How do #of layers and #of neurons in each layer affect the model's performance
+* Your goal is to find the optimal hyper-parameters that maximize the accuracy/MAE on the validation set
+  You can try the following:
+  * Increase the number of layers
+  * Increasing the number of neurons in each layer
+  * Study how the number of layers and number of neurons in each layer affect the model's performance on validation set
+* Verify that the number of parameters in your model is optimal
+  * Show that two different models with slightly smaller parameters do not perform as good
+  * Show that two different models with slightly larger parameters do not perform as good
+* Why are the parameters such as #of neurons, #of layers, #of epochs, batch size, activation functions, etc. call hyper-parameters and not just parameters?
 
 ## Ch22: Implement BM25
 * A search query “Word1 Word2” is being scored against the following documents (see table). The document corpus (as shown in the table) only contains five documents.
