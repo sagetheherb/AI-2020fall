@@ -173,7 +173,7 @@
 * Find a dataset of your choice at Kaggle
   * It can your project dataset
 * Split into training and validation set
-* Your goal is to find the optimal hyper-parameters that maximize the accuracy/MAE on the validation set
+* Your goal is to find the optimal hyper-parameters that maximize the accuracy (or minimize MAE) on the validation set
   You can try the following:
   * Increase the number of layers
   * Increasing the number of neurons in each layer
