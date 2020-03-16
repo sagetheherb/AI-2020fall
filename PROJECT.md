@@ -35,7 +35,7 @@ b) A PDF report describing your findings
 1. Discuss what architecture (how big) you need to overfit the data
 1. Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
 1. Evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
-1. Code a function that represents your model
+1. [OPTIONAL] Code a function that represents your model
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
    - Verify that predictions you obtain are same as the one you obtained using your trained model
 
