@@ -31,13 +31,13 @@ b) A PDF report describing your findings
     - Document your performance comparison
 1. Study performance difference when linear activation is used instead of sigmoid (and vice versa)
    - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons?
-   ```python
-   # Change 'relu' to 'linear' and 'sigmoid' in the layers below
-   model = Sequential()
-   model.add(Dense(9999, input_dim = len(X[0, :]), activation='relu'))
-   ...
-   model.add(Dense(9999, activation='relu'))
-   ```
+     ```python
+     # Change 'relu' to 'linear' and 'sigmoid' in the layers below
+     model = Sequential()
+     model.add(Dense(9999, input_dim = len(X[0, :]), activation='relu'))
+     ...
+     model.add(Dense(9999, activation='relu'))
+     ```
 1. Plot your learning curves and include them in your report
 1. Discuss what architecture (how big) you need to overfit the data
 1. Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
