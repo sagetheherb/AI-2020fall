@@ -202,20 +202,23 @@
 * There are two objectives in this activity:
   a. Implement automatic stopping of training if the accuracy does not improve for certain epochs
   b. Implement automatic saving of the best model (best on the validation set)
-* Define callbacks:
+* Define callbacks as follows
   ```python
   from keras.callbacks import EarlyStopping, ModelCheckpoint
-  callback_a = ModelCheckpoint(filepath = 'my_best_model.hdf5', monitor='val_loss', save_best_only = True, save_weights_only = True, verbose = 1)
-  callback_b = EarlyStopping(monitor='val_loss', mode='min', patience=20, verbose=1)
+  # File names must be in quotes
+  callback_a = ModelCheckpoint(filepath = your_model.hdf5, monitor='val_loss', save_best_only = True, save_weights_only = True, verbose = 1)
+  # The patience value can be 10, 20, 100, etc. depending on when your model starts to overfit
+  callback_b = EarlyStopping(monitor='val_loss', mode='min', patience=your_patience_value, verbose=1)
   ```
 * Update your `model.fit()` by adding the callbacks:
   ```python
   history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALIDATION, YVALIDATION), epochs=256, batch_size=10, callbacks = [callback_a, callback_b])
   ```
-
-```python
-model.load_weights('my_best_model.hdf5')
-```
+* Before you evaluate your model on the validation set, it is important to load the "checkpoint-ed" model:
+  ```python
+  model.load_weights('my_best_model.hdf5')
+  ```
+* Plot the learning curves and demonstrate that model checkpointing helps to obtain higher accuracy on the validation set
 
 ## 18. Implement convolution operation (Chapter 24)
 * The task here is to detect edges in an input image.
