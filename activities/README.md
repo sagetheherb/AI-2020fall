@@ -203,15 +203,15 @@
   a. Implement automatic stopping of training if the accuracy does not improve for certain epochs
   b. Implement automatic saving of the best model (best on the validation set)
 * Define callbacks:
-```python
-from keras.callbacks import EarlyStopping, ModelCheckpoint
-callback_a = ModelCheckpoint(filepath = 'my_best_model.hdf5', monitor='val_loss', save_best_only = True, save_weights_only = True, verbose = 1)
-callback_b = EarlyStopping(monitor='val_loss', mode='min', patience=20, verbose=1)
-```
-
-```python
-history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALIDATION, YVALIDATION), epochs=256, batch_size=10, callbacks = [callback_a, callback_b])
-```
+  ```python
+  from keras.callbacks import EarlyStopping, ModelCheckpoint
+  callback_a = ModelCheckpoint(filepath = 'my_best_model.hdf5', monitor='val_loss', save_best_only = True, save_weights_only = True, verbose = 1)
+  callback_b = EarlyStopping(monitor='val_loss', mode='min', patience=20, verbose=1)
+  ```
+* Update your `model.fit()` by adding the callbacks:
+  ```python
+  history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALIDATION, YVALIDATION), epochs=256, batch_size=10, callbacks = [callback_a, callback_b])
+  ```
 
 ```python
 model.load_weights('my_best_model.hdf5')
