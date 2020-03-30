@@ -61,9 +61,9 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 * Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
 * You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
 
-## Late policy  
+## ~~Late policy~~  
 * You have a total of 5 late days.
-* ~~Once you use your late days, late submissions will get no points.~~
+* Once you use your late days, late submissions will get no points.
 
 ## Course project
 * See [here](PROJECT.md).
