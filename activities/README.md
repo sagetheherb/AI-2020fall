@@ -272,9 +272,10 @@ plt.show()
   <img src="feature-importance.png" align="middle" width="600"/>
 * Rank the features by their importance
 * Iteratively remove one feature at a time (starting with the least significant feature) and repeat the training
-* Draw a plot to report your findings
-  a. X-axis represent feature removal
-  b. Y-axis is accuracy or MAE
+* Draw a plot to report your findings  
+  a. X-axis represent feature removal  
+  b. Y-axis is accuracy or MAE  
+  <img src="feature-removal.png" align="middle" width="600"/>  
 
 ## 20. Binary classification using XGBoost
 
