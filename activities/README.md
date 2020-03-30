@@ -212,7 +212,7 @@
   ```
 * Update your `model.fit()` by adding the callbacks:
   ```python
-  history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALIDATION, YVALIDATION), epochs=256, batch_size=10, callbacks = [callback_a, callback_b])
+  history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALID, YVALID), epochs=?, batch_size=?, callbacks = [callback_a, callback_b])
   ```
 * Before you evaluate your model on the validation set, it is important to load the "checkpoint-ed" model:
   ```python
