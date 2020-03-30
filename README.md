@@ -63,7 +63,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## Late policy  
 * You have a total of 5 late days.
-* Once you use your late days, late submissions will get no points.
+* ~~Once you use your late days, late submissions will get no points.~~
 
 ## Course project
 * See [here](PROJECT.md).
@@ -77,21 +77,22 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 * All text must be "in your own words" and anything copied must be quoted and cited appropriately.
 * For project homeworks, see the project section.
 
-## Tests 
+## ~~Tests~~
 * There will be short tests (maximum 30 minutes) almost every week on Wednesdays (see the course schedule).
 * If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
 * Tests will be CLOSED book, CLOSED notes, and CLOSED electronics.
 * Use of any type of electronics is strictly forbidden during tests.
 * It is your responsibility to contact the instructor if you miss a test. If you don't, a grade of zero points will be assgined for the test you miss.
 
-## Attendance  
+## ~~Attendance~~
 * Attendance will be recorded frequently
-* More than 5 uninformed absenses may lead to failing the course (This requirement is waived due to the COVID-19)
+* More than 5 uninformed absenses may lead to failing the course
 
 ## Grade composition  
-* 10 * 3 points = 10 Tests
+* ~~10 * 3 points = 10 Tests~~
+* 
 * 10 * 1 points = 10 Homeworks
-* 20 * 1 points = 20 Activities
+* ~~20 * 1 points = 20 Activities~~
 * 40     points = Project
 * 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
@@ -100,7 +101,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 * 10  points = Model selection & evaluation
 * 5  points = Feature importance and reduction
 * 5  points = Addressing peer-reviews
-* 10 points = Poster presentation (score from external judges, peers, and instructor)
+* 10 points = Final report ~~Poster presentation (score from external judges, peers, and instructor)~~
 
 ## Grading scheme  
 <img src="supporting_files/grades.png" align="middle" width="450"/>
