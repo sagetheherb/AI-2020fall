@@ -99,7 +99,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   * 10 points = Project (phase I)
 * After spring break:
   * 4 * 2 points = 4 Homeworks
-  * 10 * 3 points = Activites 13 through 24 [two optional activities for bonus]
+  * 10 * 2 points = Activites 13 through 24 [two optional activities for bonus]
   * 30 points = Project (remaining phases)
 * ~~1.5 bonus point to everyone who complete the course evaluation survey~~
 
