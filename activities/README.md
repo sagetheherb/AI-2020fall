@@ -183,21 +183,41 @@
   * Show that two different models with slightly larger parameters do not perform as good
 * Why are the parameters such as #of neurons, #of layers, #of epochs, batch size, activation functions, etc. call hyper-parameters and not just parameters?
 
-## Ch22: Implement BM25
+## 15. Implement BM25 algorithm (Chapter 22)
 * A search query “Word1 Word2” is being scored against the following documents (see table). The document corpus (as shown in the table) only contains five documents.
 * The number of times the words “Word1” and “Word2” appear in each of the documents is given in the table. The length of each document is also given. Assume k = 1.2 and b = 0.75.
 * Write a program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. Your program should read the table from a file, i.e. do not hardcode these values into your program. You may hardcode the values of k and b, but compute IDF, DF, TF, N, L, etc. using the data you read from the text file, at runtime.
 * The scores you will obtain will range from -2.3 to -4.8. Note: You may get negative scores because of N being close to DF - you can read more [here](https://en.wikipedia.org/wiki/Okapi_BM25).  
 <img src="bm25.png" align="middle" width="450"/>
 
-## Ch22: Implement PageRank
+## 16. Implement PageRank algorithm (Chapter 22)
 * For the network shown below, calculate the PageRank of the pages A, B, and C.
 * Links between the pages are shown in the graph itself. Write a program to iteratively obtain the final page ranks
 * Number of web pages N = 3, and the damping parameter d = 0.7. 
 <img src="pagerank.png" align="middle" width="300"/>
 
-## Iterative feature removal & selection
-## Ch24: Convolution operation
+## 17. Early stopping
+* Find a dataset of your choice at Kaggle (it can your project dataset) and split into training and validation set
+* Assumption: You already know (tentatively) what hyperparameters are good for your dataset
+* There are two objectives in this activity:
+  a. Implement automatic stopping of training if the accuracy does not improve for certain epochs
+  b. Implement automatic saving of the best model (best on the validation set)
+* Define callbacks:
+```python
+from keras.callbacks import EarlyStopping, ModelCheckpoint
+callback_a = ModelCheckpoint(filepath = 'my_best_model.hdf5', monitor='val_loss', save_best_only = True, save_weights_only = True, verbose = 1)
+callback_b = EarlyStopping(monitor='val_loss', mode='min', patience=20, verbose=1)
+```
+
+```python
+history = model.fit(XTRAIN, YTRAIN, validation_data=(XVALIDATION, YVALIDATION), epochs=256, batch_size=10, callbacks = [callback_a, callback_b])
+```
+
+```python
+model.load_weights('my_best_model.hdf5')
+```
+
+## 18. Implement convolution operation (Chapter 24)
 * The task here is to detect edges in an input image.
 * The file `one-channel.csv` is one channel of a cat image.
 * With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown.
@@ -240,6 +260,9 @@ plt.show()
 ![](convolution2.png)  
 ![](convolution3.png)
 
+## 19. Iterative feature removal & selection
+1. Train your model 
+
 ## Learning with missing values & noisy data
 
 ## Binary classification using XGBoost
@@ -247,8 +270,6 @@ plt.show()
 ## Feature importance using XGBoost
 
 ## Cross-validation
-
-## Early stopping
 
 ## Discussion: Present & future of AI
 
