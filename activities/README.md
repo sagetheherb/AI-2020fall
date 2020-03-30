@@ -202,10 +202,10 @@
 * There are two objectives in this activity:  
   a. Implement automatic stopping of training if the accuracy does not improve for certain epochs  
   b. Implement automatic saving of the best model (best on the validation set)  
-* Define callbacks as follows
+* Define callbacks as follows (and fix the obvious bugs):
   ```python
   from keras.callbacks import EarlyStopping, ModelCheckpoint
-  # File names must be in quotes
+  # File name must be in quotes
   callback_a = ModelCheckpoint(filepath = your_model.hdf5, monitor='val_loss', save_best_only = True, save_weights_only = True, verbose = 1)
   # The patience value can be 10, 20, 100, etc. depending on when your model starts to overfit
   callback_b = EarlyStopping(monitor='val_loss', mode='min', patience=your_patience_value, verbose=1)
@@ -216,7 +216,8 @@
   ```
 * Before you evaluate your model on the validation set, it is important to load the "checkpoint-ed" model:
   ```python
-  model.load_weights('my_best_model.hdf5')
+  # File name must be in quotes
+  model.load_weights(your_model.hdf5)
   ```
 * Plot the learning curves and demonstrate that model checkpointing helps to obtain higher accuracy on the validation set
   <img src="model-checkpoint.png" align="middle" width="600"/>
