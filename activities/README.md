@@ -219,6 +219,8 @@
   model.load_weights('my_best_model.hdf5')
   ```
 * Plot the learning curves and demonstrate that model checkpointing helps to obtain higher accuracy on the validation set
+  ![](model-checkpoint.png)
+
 
 ## 18. Implement convolution operation (Chapter 24)
 * The task here is to detect edges in an input image.
