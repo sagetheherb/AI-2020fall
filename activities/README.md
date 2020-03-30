@@ -199,9 +199,9 @@
 ## 17. Early stopping
 * Find a dataset of your choice at Kaggle (it can your project dataset) and split into training and validation set
 * Assumption: You already know (tentatively) what hyperparameters are good for your dataset
-* There are two objectives in this activity:
-  a. Implement automatic stopping of training if the accuracy does not improve for certain epochs
-  b. Implement automatic saving of the best model (best on the validation set)
+* There are two objectives in this activity:  
+  a. Implement automatic stopping of training if the accuracy does not improve for certain epochs  
+  b. Implement automatic saving of the best model (best on the validation set)  
 * Define callbacks as follows
   ```python
   from keras.callbacks import EarlyStopping, ModelCheckpoint
