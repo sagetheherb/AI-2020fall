@@ -269,13 +269,13 @@ plt.show()
 ## 19. Iterative feature removal & selection
 * In this activity we will manually implement a simple Recursive Feature Elimination (RFE) technique to remove redundant or insignificant input features
 * Train your model using one feature at a time and plot the significance (importance) of each feature
-  <img src="feature-importance.png" align="middle" width="600"/>
+  <img src="feature_importance.png" align="middle" width="600"/>
 * Rank the features by their importance
 * Iteratively remove one feature at a time (starting with the least significant feature) and repeat the training
 * Draw a plot to report your findings  
   a. X-axis represent feature removal  
   b. Y-axis is accuracy or MAE  
-  <img src="feature-removal.png" align="middle" width="600"/>  
+  <img src="feature_removal.png" align="middle" width="600"/>  
 
 ## 20. Binary classification using XGBoost
 
