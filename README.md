@@ -90,9 +90,9 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## Grade composition  
 * ~~10 * 3 points = 10 Tests~~
-* 
-* 10 * 1 points = 10 Homeworks
+* ~~10 * 1 points = 10 Homeworks~~
 * ~~20 * 1 points = 20 Activities~~
+* 3 * 3 points = 3 Tests
 * 40     points = Project
 * 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
 
