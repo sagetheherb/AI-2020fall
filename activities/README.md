@@ -223,7 +223,7 @@
   <img src="model-checkpoint.png" align="middle" width="600"/>
 
 ## 18. Implement convolution operation (Chapter 24)
-* Read what convolution is (just the basic concept) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
+* Read what convolution is (just the first four paragraphs) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
 * The task here is to detect edges in an input image.
 * The file `one-channel.csv` is one channel of a cat image.
 * With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown.
