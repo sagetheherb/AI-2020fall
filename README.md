@@ -6,8 +6,8 @@
 
 ## Class and office hours
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
-* Class meets: `MW 4PM to 5:15PM` at `ESH 103`
-* Office location and hours: `312 Express Scripts Hall`, `Mondays 1PM to 4PM` 
+* Class meets: `MW 4PM to 5:15PM` ~~at `ESH 103`~~
+* Office location and hours: By email ~~`312 Express Scripts Hall`, `Mondays 1PM to 4PM`~~
 
 ## About the course
 * This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
@@ -38,8 +38,8 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   - Chapter 2 - Intelligent Agents
   - Chapter 3 - Solving Problems by Searching 
   - Chapter 5 - Adversarial Search
-  - Chapter 6 - Constraint Satisfaction Problems
-  - Chapter 7 - Logical Agents 
+  - ~~Chapter 6 - Constraint Satisfaction Problems~~
+  - ~~Chapter 7 - Logical Agents~~
   - Chapter 22 - Natural Language Processing
   - Chapter 24 - Perception 
   - Chapter 25 - Robotics 
