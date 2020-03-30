@@ -267,19 +267,23 @@ plt.show()
 ![](convolution3.png)
 
 ## 19. Iterative feature removal & selection
-1. Train your model 
+* In this activity we will manually implement a simple Recursive Feature Elimination (RFE) technique to remove redundant or insignificant input features
+* Train your model using one feature at a time and plot the significance (importance) of each feature
+  <img src="feature-importance.png" align="middle" width="600"/>
+* Rank the features by their importance
+* Iteratively remove one feature at a time (starting with the least significant feature) and repeat the training
+* Draw a plot to report your findings
+  a. X-axis represent feature removal
+  b. Y-axis is accuracy or MAE
 
-## Learning with missing values & noisy data
+## 20. Binary classification using XGBoost
 
-## Binary classification using XGBoost
+## 21. Feature importance using XGBoost
 
-## Feature importance using XGBoost
+## 22. Learning with missing values & noisy data
 
-## Cross-validation
+## 23. Cross-validation
 
-## Discussion: Present & future of AI
-
-## Discussion: Peer-review of reports
-* Form groups of three students, and interact to provide feedback to each other
-* Make notes of the feedbacks you receive and address them
-
+## 24. Peer-review of reports
+* Review the reports of the first three phases of the project of a peer in the class
+* Submit your comments to your peer and to Canvas
