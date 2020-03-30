@@ -90,13 +90,18 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## Grade composition  
 * ~~10 * 3 points = 10 Tests~~
-* 10 * 1 points = 10 Homeworks
 * ~~20 * 1 points = 20 Activities~~
-* 3 * 3 points = 3 Tests
-* 10 * 1 points = Activities 1 through 12 (two optional activities for bonus)
-* 10 * 3 points = Activites 13 through 24 (two optional activities for bonus)
-* 40     points = Project
-* 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
+* Before spring break:
+  * 4 * 1 points = 4 Homeworks
+  * 1 * 3 points = 1 Homework (learning how to learn online)
+  * 3 * 3 points = 3 Tests
+  * 10 * 1 points = Activities 1 through 12 [two optional activities for bonus] (before spring break)
+  * 10 points = Project (phase I)
+* After spring break:
+  * 4 * 2 points = 4 Homeworks
+  * 10 * 3 points = Activites 13 through 24 [two optional activities for bonus]
+  * 30 points = Project (remaining phases)
+* ~~1.5 bonus point to everyone who complete the course evaluation survey~~
 
 #### Project (40 points)
 * 10  points = Data analysis & preparation
