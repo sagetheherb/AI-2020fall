@@ -188,6 +188,19 @@
   <img src="bm25.png" align="middle" width="800"/>
 * Problem: A search query “Word1 Word2” is being scored against 40 documents. The number of times the words “Word1” and “Word2” appear in each of the documents is given in the [table](./bm25.csv) (below is the preview). Write a Python program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. You will need to compute IDF, DF, TF, N, L, etc. by reading the table. Assume k = 1.2 and b = 0.75.  
   <img src="bm25-preview.png" align="middle" width="300"/>
+  ```python
+  # Step 1: for loops to calculate IDF
+  ...
+  # Step 2: for loop to calculate L
+  ...
+  # Step 3: create a dictionary/list to maintain BM25 for each document
+  bm25 = {}
+  # Step 4: for loop to calculate BM25 for each document
+  for each ...:
+    bm25[doci] = ...
+  # Step 5: display documents sorted by score 
+  ...
+  ```
 
 ## 16. Implement PageRank algorithm (Chapter 22)
 * For the network shown below, calculate the PageRank of the pages A, B, and C.
