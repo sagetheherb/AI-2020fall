@@ -186,8 +186,7 @@
 ## 15. Implement BM25 algorithm (Chapter 22)
 * The goal in this activity is to search for 'relevant' document/s in a document corpus (database) by implementing the BM25 scoring function. [This 15 minute youtube video](https://www.youtube.com/watch?v=a3sg6MH8m4k&t=7s) may be helpful to review the basic idea of the BM25 scoring function.
   <img src="bm25.png" align="middle" width="800"/>
-* Problem: A search query “Word1 Word2” is being scored against 40 documents. The number of times the words “Word1” and “Word2” appear in each of the documents is given in the [table](./bm25.csv) (below is the preview). Write a Python program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. You will need to compute IDF, DF, TF, N, L, etc. by reading the table. Assume k = 1.2 and b = 0.75.  
-  <img src="bm25-preview.png" align="middle" width="300"/>
+* Problem: A search query “Word1 Word2” is being scored against 40 documents. The number of times the words “Word1” and “Word2” appear in each of the documents is given in the [table](./bm25.csv). Write a Python program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. You will need to compute IDF, DF, TF, N, L, etc. by reading the table. Assume k = 1.2 and b = 0.75.  
   ```python
   # Step 1: for loops to calculate IDF for Word1 and Word2
   ...
