@@ -202,10 +202,16 @@
   ```
 
 ## 16. Implement PageRank algorithm (Chapter 22)
-* For the network shown below, calculate the PageRank of the pages A, B, and C.
-* Links between the pages are shown in the graph itself. Write a program to iteratively obtain the final page ranks
-* Number of web pages N = 3, and the damping parameter d = 0.7. 
-<img src="pagerank.png" align="middle" width="300"/>
+* For the network shown below, calculate the PageRank of the pages A, B, and C, and D by writing a Python program to iteratively obtain the final page ranks. Assume that the damping parameter d = 0.7. 
+  <img src="pagerankproblem.png" align="middle" width="400"/>
+  ```python
+  # Step1. Initialize the constants N and d
+  # Step2. Assume that all page ranks are 1.0 at the beginning
+  # Step3. In a for/while loop, iteratively update the page ranks of all the pages
+  for (many times):
+     prA = "expression for prA"
+  # Step4. Print the page ranks
+  ```
 
 ## 17. Early stopping
 * Find a dataset of your choice at Kaggle (it can your project dataset) and split into training and validation set
