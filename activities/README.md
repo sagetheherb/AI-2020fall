@@ -183,10 +183,11 @@
   * Show that two different models with slightly larger parameters do not perform as good
 * Why are the parameters such as #of neurons, #of layers, #of epochs, batch size, activation functions, etc. call hyper-parameters and not just parameters?
 
-## 15. Implement BM25 algorithm (Chapter 22)
-* The goal in this activity is to search for 'relevant' document/s in a document corpus (database) by implementing the BM25 scoring function. [This 15 minute youtube video](https://www.youtube.com/watch?v=a3sg6MH8m4k&t=7s) may be helpful to review the basic idea of the BM25 scoring function.
+## 15. Implement BM25 function (Chapter 22)
+* The objective in this activity is to search for 'relevant' document/s in a document corpus (database) by implementing the BM25 scoring function. [This 15 minute youtube video](https://www.youtube.com/watch?v=a3sg6MH8m4k&t=7s) may be helpful to review the basic idea of the BM25 scoring function.
   <img src="bm25.png" align="middle" width="800"/>
-* Problem: A search query “Word1 Word2” is being scored against 40 documents. The number of times the words “Word1” and “Word2” appear in each of the documents is given in the [table](./bm25.csv). Write a Python program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. You will need to compute IDF, DF, TF, N, L, etc. by reading the table. Assume k = 1.2 and b = 0.75.  
+* Task: A search query “Word1 Word2” is being scored against 40 documents. The number of times the words “Word1” and “Word2” appear in each of the documents is given in the [table](./bm25.csv). Write a Python program to calculate the BM25 score for the query against all the documents and rank the documents by their BM25 score. You will need to compute IDF, DF, TF, N, L, etc. by reading the table. Assume k = 1.2 and b = 0.75.  
+* Structure for the solution:
   ```python
   # Step 1: for loops to calculate IDF for Word1 and Word2
   ...
@@ -206,7 +207,7 @@
   <img src="pagerankalgo.png" align="middle" width="600"/>
 * Task: For the network shown below, calculate the PageRank of the pages A, B, and C, and D by writing a Python program to iteratively obtain the final page ranks. Assume that the damping parameter d is 0.7.   
   <img src="pagerankproblem.png" align="middle" width="200"/>  
-* Structure for the solution (code):
+* Structure for the solution:
   ```python
   # Step1. Initialize the constants N and d
   # Step2. Assume that all page ranks are 1.0 at the beginning
