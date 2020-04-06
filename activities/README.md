@@ -228,7 +228,7 @@
   b. Implement automatic saving of the best model (best on the validation set)  
 * Define callbacks as follows (and fix the obvious bugs):
   ```python
-  from keras.callbacks import EarlyStopping, ModelCheckpoint
+  from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
   # File name must be in quotes
   callback_a = ModelCheckpoint(filepath = your_model.hdf5, monitor='val_loss', save_best_only = True, save_weights_only = True, verbose = 1)
   # The patience value can be 10, 20, 100, etc. depending on when your model starts to overfit
