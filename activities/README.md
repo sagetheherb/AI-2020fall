@@ -202,6 +202,8 @@
   ```
 
 ## 16. Implement PageRank algorithm (Chapter 22)
+* In this activity, we will learn how to implement a basic version of the PageRank algorithm - a core algorithm originally used by Google for ranking pages. Here is the expression for the original version of the PageRank algorithm.
+  <img src="pagerankalgo.png" align="middle" width="400"/>
 * For the network shown below, calculate the PageRank of the pages A, B, and C, and D by writing a Python program to iteratively obtain the final page ranks. Assume that the damping parameter d = 0.7. 
   <img src="pagerankproblem.png" align="middle" width="400"/>
   ```python
