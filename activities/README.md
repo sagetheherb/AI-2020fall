@@ -202,10 +202,11 @@
   ```
 
 ## 16. Implement PageRank algorithm (Chapter 22)
-* In this activity, we will implement a basic version of the PageRank algorithm - a core algorithm originally developed by Google for ranking pages. [This 12 minute youtube](https://youtu.be/CsvyPNdQAHg) video explains the basic idea. Here is the expression for the original version of the PageRank algorithm.  
+* The objective in this activity is to implement a basic version of the PageRank algorithm - a core algorithm originally developed by Google for ranking pages. [This 12 minute youtube](https://youtu.be/CsvyPNdQAHg) video explains the basic idea. Here is the expression for the original version of the PageRank algorithm.  
   <img src="pagerankalgo.png" align="middle" width="600"/>
-* For the network shown below, calculate the PageRank of the pages A, B, and C, and D by writing a Python program to iteratively obtain the final page ranks. Assume that the damping parameter d is 0.7.   
+* Task: For the network shown below, calculate the PageRank of the pages A, B, and C, and D by writing a Python program to iteratively obtain the final page ranks. Assume that the damping parameter d is 0.7.   
   <img src="pagerankproblem.png" align="middle" width="200"/>  
+* Structure for the solution (code):
   ```python
   # Step1. Initialize the constants N and d
   # Step2. Assume that all page ranks are 1.0 at the beginning
