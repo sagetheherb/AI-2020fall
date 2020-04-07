@@ -245,6 +245,9 @@
   ```
 * Plot the learning curves and demonstrate that model checkpointing helps to obtain higher accuracy on the validation set
   <img src="model-checkpoint.png" align="middle" width="600"/>
+* At the end of your notebook, answer the following questions:
+  a. Almost always, training with early stopping finishes faster (because it stops early). Approximately, how long does it take for your training to finish with and without early stopping?
+  b. When model checkpointing, your checkpointed model will almost always be more accurate on the validation set. What is the accuracy/MAE on the Validation set with and without model checkpointing?
 
 ## 18. Implement convolution operation (Chapter 24)
 * Read what convolution is (just the first four paragraphs) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
