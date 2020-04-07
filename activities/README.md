@@ -11,6 +11,7 @@
 ## 1. Python
 * Watch how to use [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
 * Practice Python3 - [notebook](../notebooks/python.ipynb) and watch [lecture](https://www.youtube.com/watch?v=V42qfAPybp8)
+* If you are new to Python, I strongly suggest practicing Python at [codewars.org](https://www.codewars.com/)
 
 ## 2. Numpy, Matplotlib
 * Practice Numpy - [notebook](../notebooks/numpy.ipynb) and [lecture](https://www.youtube.com/watch?v=Omz8P8n-5gY)
