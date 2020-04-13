@@ -258,37 +258,26 @@
 * You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
 
 ```python
-from google.colab import files
-import matplotlib.pyplot as plt
-import seaborn as sns
+    def convolution2D(image2D, kernel3x3):
+        convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
+        # This must be fixed, 
+        # ToDo: Write your code here...
 
-files.upload() # For Google Colab
+        return convolved2D
 
-def convolution2D(image2D, kernel3x3):
-  
-  
-  # Write your code here
-  
-  
-  return convolved2D
+    image2D = np.loadtxt('my-cat.csv', delimiter=',')
+    sns.heatmap(image2D, cmap='gray')
+    plt.title('Original image')
+    plt.show()
 
-image2D = np.loadtxt('one-channel.csv', delimiter=',')
-sns.heatmap(image2D, cmap='Greens')
-plt.show()
+    edge_detect_filter_3x3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
 
-edge_detect_filter_3x3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
-
-# Convolve once
-convolved_image = convolution2D(image2D, edge_detect_filter_3x3)
-
-sns.heatmap(convolved_image, cmap='Greens')
-plt.show()
-
-# Convolve again
-convolved_image = convolution2D(convolved_image, edge_detect_filter_3x3)
-
-sns.heatmap(convolved_image, cmap='Greens')
-plt.show()
+    for i in range(10):
+        convolved_image = convolution2D(image2D, edge_detect_filter_3x3)
+        sns.heatmap(convolved_image, cmap='gray')
+        plt.title('Convolution iteration ' + str(i))
+        plt.show()
+        image2D = convolved_image
 ```
 ![](convolution1.png)  
 ![](convolution2.png)  
