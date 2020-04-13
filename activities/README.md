@@ -256,8 +256,7 @@
    * Read what convolution is (just the first four paragraphs) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
    * Watch this [17 minute youtube](https://www.youtube.com/watch?v=mjh5NIn1yHk) lecture
 * Upload `my-cat.csv` to your Colab
-* Complete the `convolution2D()` function in the code below.
-   * Hint: You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
+* Complete the `convolution2D()` function in the code below. Hint: You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
 
     ```python
         def convolution2D(image2D, kernel3x3):
