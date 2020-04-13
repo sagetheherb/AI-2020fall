@@ -259,6 +259,9 @@
 * Complete the `convolution2D()` function in the code below. Hint: You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
 
     ```python
+        import seaborn as sns
+        import matplotlib.pyplot as plt
+        
         def convolution2D(image2D, kernel3x3):
             convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
             # ToDo: Write your code here...
