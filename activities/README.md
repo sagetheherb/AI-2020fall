@@ -56,11 +56,11 @@
 1. Study and discuss the BFS tree below.   
    <img src="bfstree.png" align="middle" width="450"/>
 1. Here is a map of some international airports in India. Nick wants to go to Amritsar from Chennai (see the map). IN PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C).  
-   <img src="iia.png" align="middle" width="450"/>
+   <img src="iia.png" align="middle" width="350"/>
 
 ## 9. Implement the breadth-first search (BFS) algorithm (Chapter 3)
 * Implement the BFS algorithm (in Python) to find the shortest path from Sibiu to Bucharest in this map.  
-   <img src="map-romania-trimmed.png" align="middle" width="450"/>   
+   <img src="map-romania-trimmed.png" align="middle" width="250"/>   
 * Queues in Python:
   ```Python
   # Initializing a queue 
@@ -261,6 +261,7 @@
     ```python
         import seaborn as sns
         import matplotlib.pyplot as plt
+        import numpy as np
         
         def convolution2D(image2D, kernel3x3):
             convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
