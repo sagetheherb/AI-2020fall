@@ -280,7 +280,7 @@
             sns.heatmap(convolved_image, cmap='gray')
             plt.title('Convolution iteration ' + str(i) + ' - Size = ' + str(convolved_image.shape))
             plt.show()
-        image2D = convolved_image
+            image2D = convolved_image
     ```
 * Expected output:
 ![](convolution-output.png)  
