@@ -261,8 +261,6 @@
     ```python
         def convolution2D(image2D, kernel3x3):
             convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
-            # This must be fixed, 
-            convolved2D = image2D
             # ToDo: Write your code here...
 
             return convolved2D
