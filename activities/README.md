@@ -251,38 +251,39 @@
   b. When model checkpointing, your checkpointed model will almost always be more accurate on the validation set. What is the accuracy/MAE on the Validation set with and without model checkpointing?
 
 ## 18. Implement convolution operation (Chapter 24)
-* In this activity you will implement the convolution operation Read what convolution is (just the first four paragraphs) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
-* The task here is to detect edges in an input image.
-* The file `one-channel.csv` is one channel of a cat image.
-* With `one-channel.csv` as input, complete the `convolution2D()` subroutine in the code below to get output shown.
-* You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
+* In this activity you will implement the convolution operation. Your implementation will serve as an image edge detector.
+* Resources:
+   * Read what convolution is (just the first four paragraphs) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
+   * Watch this [17 minute youtube]() lecture
+* Upload `my-cat.csv` to your Colab
+* Complete the `convolution2D()` function in the code below.
+   * Hint: You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
 
-```python
-    def convolution2D(image2D, kernel3x3):
-        convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
-        # This must be fixed, 
-        convolved2D = image2D
-        # ToDo: Write your code here...
-        
-        return convolved2D
+    ```python
+        def convolution2D(image2D, kernel3x3):
+            convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
+            # This must be fixed, 
+            convolved2D = image2D
+            # ToDo: Write your code here...
 
-    image2D = np.loadtxt('my-cat.csv', delimiter=',')
-    sns.heatmap(image2D, cmap='gray')
-    plt.title('Original image - Size = ' + str(image2D.shape))
-    plt.show()
+            return convolved2D
 
-    edge_detect_filter_3x3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
-
-    for i in range(2):
-        convolved_image = convolution2D(image2D, edge_detect_filter_3x3)
-        sns.heatmap(convolved_image, cmap='gray')
-        plt.title('Convolution iteration ' + str(i) + ' - Size = ' + str(convolved_image.shape))
+        image2D = np.loadtxt('my-cat.csv', delimiter=',')
+        sns.heatmap(image2D, cmap='gray')
+        plt.title('Original image - Size = ' + str(image2D.shape))
         plt.show()
-    image2D = convolved_image
-```
-![](convolution1.png)  
-![](convolution2.png)  
-![](convolution3.png)
+
+        edge_detect_filter_3x3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
+
+        for i in range(2):
+            convolved_image = convolution2D(image2D, edge_detect_filter_3x3)
+            sns.heatmap(convolved_image, cmap='gray')
+            plt.title('Convolution iteration ' + str(i) + ' - Size = ' + str(convolved_image.shape))
+            plt.show()
+        image2D = convolved_image
+    ```
+* Expected output:
+![](convolution-output.png)  
 
 ## 19. Iterative feature removal & selection
 * In this activity we will manually implement a simple Recursive Feature Elimination (RFE) technique to remove redundant or insignificant input features
