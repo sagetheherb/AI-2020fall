@@ -259,29 +259,29 @@
 * Complete the `convolution2D()` function in the code below. Hint: You will need to multiply each input pixel (3x3 neighbor grid) of the input 2D array `image2D` with the input filter `kernel3x3` to obtain the output 2D array `convolved2D`.
 
     ```python
-        import seaborn as sns
-        import matplotlib.pyplot as plt
-        import numpy as np
+    import seaborn as sns
+    import matplotlib.pyplot as plt
+    import numpy as np
         
-        def convolution2D(image2D, kernel3x3):
-            convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
-            # ToDo: Write your code here...
+    def convolution2D(image2D, kernel3x3):
+        convolved2D = np.zeros((len(image2D)-2, len(image2D)-2))
+        # ToDo: Write your code here...
 
-            return convolved2D
+        return convolved2D
 
-        image2D = np.loadtxt('my-cat.csv', delimiter=',')
-        sns.heatmap(image2D, cmap='gray')
-        plt.title('Original image - Size = ' + str(image2D.shape))
+    image2D = np.loadtxt('my-cat.csv', delimiter=',')
+    sns.heatmap(image2D, cmap='gray')
+    plt.title('Original image - Size = ' + str(image2D.shape))
+    plt.show()
+
+    edge_detect_filter_3x3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
+
+    for i in range(2):
+        convolved_image = convolution2D(image2D, edge_detect_filter_3x3)
+        sns.heatmap(convolved_image, cmap='gray')
+        plt.title('Convolution iteration ' + str(i) + ' - Size = ' + str(convolved_image.shape))
         plt.show()
-
-        edge_detect_filter_3x3 = np.array([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
-
-        for i in range(2):
-            convolved_image = convolution2D(image2D, edge_detect_filter_3x3)
-            sns.heatmap(convolved_image, cmap='gray')
-            plt.title('Convolution iteration ' + str(i) + ' - Size = ' + str(convolved_image.shape))
-            plt.show()
-            image2D = convolved_image
+        image2D = convolved_image
     ```
 * Expected output:
 ![](convolution-output.png)  
