@@ -291,14 +291,14 @@
 * Here we will train a model using the training set and evaluate on the validation set; you are free to choose your own dataset (even your project dataset is fine)
 * In this activity you will implement a simple Recursive Feature Elimination (RFE) technique to remove redundant or insignificant input features
 * Expected output 1: Plot the significance (importance) of each feature after training your model using one feature at a time:   
-   a. X-axis represents the feature that was used as the input
+   a. X-axis represents the feature that was used as the input  
    b. Y-axis is accuracy or MAE of the validation set
    <img src="feature_importance.png" align="middle" width="450" border="2"/>
 * Observing these MAE/accuracy values, we can rank the features by their importance (how informative each one is)
 * Next, iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set
 * Expected output 2: Plot to report your findings:   
-   a. X-axis represents feature removal, for example, second entry is after removing feature1, and third entry is after removing feature1 and feature2
-   b. Y-axis is accuracy or MAE of the validation set
+   a. X-axis represents feature removal, for example, second entry is after removing feature1, and third entry is after removing feature1 and feature2  
+   b. Y-axis is accuracy or MAE of the validation set  
    <img src="feature_removal.png" align="middle" width="550" border="2"/>  
 
 ## 20. Binary classification using XGBoost
