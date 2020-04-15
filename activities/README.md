@@ -292,7 +292,7 @@
 * In this activity you will implement a simple Recursive Feature Elimination (RFE) technique to remove redundant or insignificant input features
 * Expected output 1: Plot the significance (importance) of each feature after training your model using one feature at a time:   
    a. X-axis represents the feature that was used as the input  
-   b. Y-axis is accuracy or MAE of the validation set
+   b. Y-axis is accuracy or MAE of the validation set  
    <img src="feature_importance.png" align="middle" width="450" border="2"/>
 * Observing these MAE/accuracy values, we can rank the features by their importance (how informative each one is)
 * Next, iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set
