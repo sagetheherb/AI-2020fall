@@ -290,16 +290,16 @@
 * As of now, it is assumed that given a dataset (of your choice) you can build a model that can do reasonably well on the validation set, i.e. you have a good idea of the network architecture needed, the number of epochs needed, model Checkpointing, the approximate MAE or accuracy that one might expect, etc.
 * Here we will train a model using the training set and evaluate on the validation set; you are free to choose your own dataset (even your project dataset is fine)
 * In this activity you will implement a simple Recursive Feature Elimination (RFE) technique to remove redundant or insignificant input features
-* Expected output 1: Plot the significance (importance) of each feature after training your model using one feature at a time:
-  a. X-axis represents the feature that was used as the input
-  b. Y-axis is accuracy or MAE of the validation set
-  <img src="feature_importance.png" align="middle" width="450" border="2"/>
+* Expected output 1: Plot the significance (importance) of each feature after training your model using one feature at a time:   
+   a. X-axis represents the feature that was used as the input
+   b. Y-axis is accuracy or MAE of the validation set
+   <img src="feature_importance.png" align="middle" width="450" border="2"/>
 * Observing these MAE/accuracy values, we can rank the features by their importance (how informative each one is)
 * Next, iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set
-* Expected output 2: Plot to report your findings:
-  a. X-axis represent feature removal  
-  b. Y-axis is accuracy or MAE of the validation set
-  <img src="feature_removal.png" align="middle" width="550" border="2"/>  
+* Expected output 2: Plot to report your findings:   
+   a. X-axis represent feature removal  
+   b. Y-axis is accuracy or MAE of the validation set
+   <img src="feature_removal.png" align="middle" width="550" border="2"/>  
 
 ## 20. Binary classification using XGBoost
 
