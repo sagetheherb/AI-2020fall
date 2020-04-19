@@ -1,4 +1,4 @@
-#Lectures
+# Lectures
 
 1. Chapter 22 - Natural Language Processing
    1. [N-gram character models](https://www.youtube.com/watch?v=BvZDV7MX6UI)
