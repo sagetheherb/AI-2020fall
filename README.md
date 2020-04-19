@@ -48,7 +48,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 ## Course materials  
 * All course materials are inside the relevant folders in Github location
 * Chapter slides are [here](./chapter-slides/)
-* Recorded lectures of the chapters are [here](./Lectures.md)
+* Recorded lectures of the chapters are [here](./LECTURES.md)
  
 ## Course schedule
 * Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=0&single=true).
