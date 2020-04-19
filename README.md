@@ -24,10 +24,6 @@
 * Learn the philosophical foundations of AI and the future of AI
 * Implement various AI algorithms such as DFS, BFS, etc.
 
-## Course materials  
-* All course materials are inside the relevant folders in Github location.
-* Recorded lectures of the chapters are [here](https://www.youtube.com/playlist?list=PLU2jxioSf5Rd65dkbaRs4vK0-G-CUBo7M) and the slides are [here](./chapter-slides/). 
-
 ## Textbook  
 Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://www.pearson.com/us/higher-education/product/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/9780136042594.html). 
 
@@ -42,13 +38,24 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   - ~~Chapter 7 - Logical Agents~~
   - Chapter 22 - Natural Language Processing
   - Chapter 24 - Perception 
-  - Chapter 25 - Robotics 
+  - Chapter 25 - Robotics
   - Chapter 26 - Philosophical Foundations  
 - **Machine learning using Keras**   
   - Basics of Python, Numpy and Keras
   - Design, train, and evaluate basic feed-forward neural networks
   - Study feature importance and feature reduction
 
+## Course materials  
+* All course materials are inside the relevant folders in Github location.
+* Recorded lectures of the chapters are [here](https://www.youtube.com/playlist?list=PLU2jxioSf5Rd65dkbaRs4vK0-G-CUBo7M) and the slides are [here](./chapter-slides/)
+   1. Chapter 24 - Perception 
+       1. [Edge detection using convolution and smoothing](https://www.youtube.com/watch?v=lNidFPBAjNM)
+   1. Chapter 25 - Robotics
+       1. [Atlas by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
+       1. video1
+       1. [video2]
+       1. [Spot by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
+ 
 ## Course schedule
 * Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=0&single=true).
 
