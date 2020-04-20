@@ -302,22 +302,22 @@
    <img src="feature_removal.png" align="middle" width="550" border="2"/>  
 
 ## 20. Binary classification and regression using XGBoost
-* The goal here is to study how the XGBoost library can be used for building boosted decision trees for classification and regression
+* The goal here is to study how the XGBoost library can be used for building boosted decision trees for classification and regression   
    <img src="xgboost.png" align="middle" width="700" border="1"/>  
-* We have two activities here:
+* We have two sub-activities here:
    1. Binary classification using XGBoost
        1. Study how the xgboost library can be used for binary classification - [notebook](../notebooks/XGBoost_for_classification.ipynb)
        1. For a dataset of your choice, build an XGBClassifier() model to obtain higest possible accuracy on the validation set (by adapting the hyperparameters of the model such as n_estimators and max_depth)
        1. Visualize at least one decision tree and write a few sentences interpreting the decision tree
        1. Compare the accuracy/precision of this model with a neural network model
-       1. What to submit? A notebook that has answers for all the four tasks above
+       1. Expected output: A notebook that has answers for all the four tasks above (on a different dataset)
 
    1. Regression using XGBoost
        1. Study how the xgboost library can be used for regression - [notebook](../notebooks/XGBoost_for_regression.ipynb)
        1. For a dataset of your choice, build an XGBRegressor() model to obtain lowest possible MAE on the validation set (by adapting the hyperparameters of the model such as n_estimators and max_depth)
        1. Visualize at least one decision tree and write a few sentences interpreting the decision tree
        1. Compare the MAE of this model with a neural network model
-       1. What to submit? A notebook that has answers for all the four tasks above
+       1. Expected output: A notebook that has answers for all the four tasks above (on a different dataset)
 
 ## 21. Feature importance using XGBoost
 
