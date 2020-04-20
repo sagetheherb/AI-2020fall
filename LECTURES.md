@@ -16,6 +16,6 @@ Chapter 24 - Perception
 
 Chapter 25 - Robotics
    1. [Types of sensors]()
-   1. [How does GPS work?]()
+   1. [How does GPS work?](https://youtu.be/9QaDQWA-9fg)
    1. [Atlas by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
    1. [Spot by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
