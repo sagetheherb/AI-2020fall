@@ -17,5 +17,8 @@ Chapter 24 - Perception
 Chapter 25 - Robotics
    1. [Types of sensors](https://youtu.be/6mFUiwMHOZ8)
    1. [How does GPS work?](https://youtu.be/9QaDQWA-9fg)
+   1. [Range finders]()
+   1. [What is degree of freedom in a robot?]()
+   1. [Path planning in moving robots]()
    1. [Atlas by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
    1. [Spot by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
