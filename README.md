@@ -102,7 +102,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   * 4 * 2 points = 4 Homeworks
   * 10 * 2 points = Activites 13 through 24 [two optional activities for bonus]
   * 30 points = Project (remaining phases)
-* ~~1.5 bonus point to everyone who complete the course evaluation survey~~
+  * 1.5 bonus point to everyone who complete the course evaluation survey
 
 #### Project (40 points)
 * 10  points = Data analysis & preparation
