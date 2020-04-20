@@ -15,7 +15,7 @@ Chapter 24 - Perception
    1. [Image segmentation](https://www.youtube.com/watch?v=rFjTP3CaP1U)
 
 Chapter 25 - Robotics
-   1. [video1]()
-   1. [video2]()
+   1. [Types of sensors]()
+   1. [How does GPS work?]()
    1. [Atlas by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
    1. [Spot by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
