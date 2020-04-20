@@ -306,17 +306,17 @@
    <img src="xgboost.png" align="middle" width="800" border="1"/>  
 * Task 1: Binary classification using XGBoost
    1. Study how the xgboost library can be used for binary classification - [notebook](../notebooks/XGBoost_for_classification.ipynb)
-   1. For a dataset of your choice, build an XGBClassifier() model to obtain higest possible accuracy on the validation set (by adapting the hyperparameters of the model such as n_estimators and max_depth)
+   1. For a dataset of your choice, build an `XGBClassifier()` model to obtain higest possible accuracy on the validation set (by adapting the hyperparameters of the model such as `n_estimators` and `max_depth`)
    1. Visualize at least one decision tree and write a few sentences interpreting the decision tree
    1. Compare the accuracy/precision of this model with a neural network model
-   1. Expected output: A notebook that has answers for all the four tasks above (on a different dataset)
+   1. Expected output: A notebook that has answers for all the four tasks above **(on a different dataset)**
 
 * Task 2: Regression using XGBoost
    1. Study how the xgboost library can be used for regression - [notebook](../notebooks/XGBoost_for_regression.ipynb)
-   1. For a dataset of your choice, build an XGBRegressor() model to obtain lowest possible MAE on the validation set (by adapting the hyperparameters of the model such as n_estimators and max_depth)
+   1. For a dataset of your choice, build an `XGBRegressor()` model to obtain lowest possible MAE on the validation set (by adapting the hyperparameters of the model such as `n_estimators` and `max_depth`)
    1. Visualize at least one decision tree and write a few sentences interpreting the decision tree
    1. Compare the MAE of this model with a neural network model
-   1. Expected output: A notebook that has answers for all the four tasks above (on a different dataset)
+   1. Expected output: A notebook that has answers for all the four tasks above **(on a different dataset)**
 
 ## 21. Feature importance using XGBoost
 
