@@ -328,7 +328,7 @@
    ```
    <img src="xgboost-feature-importance.png" align="middle" width="400" border="1"/>  
 * Expected outputs:
-   1. Plot feature importance for a dataset of your choice and briefly discuss if the findings are similar or different from your intuition (i.e. does the sifnificance make sense?)
+   1. Plot feature importance for a dataset of your choice and briefly discuss if the findings are similar or different from your intuition (i.e. why does the feature importance makes sense?)
    1. Iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set and plot to report your findings (X-axis represents feature removal, for example, second entry is after removing feature1, and third entry is after removing feature1 and feature2, etc.)
    1. Discuss how your findings relate to your feature importance and reduction study using neural networks
 
