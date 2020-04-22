@@ -321,9 +321,9 @@
 ## 21. Feature importance and removal using XGBoost
 * In this activity, you will study feature importance using the XGBoost library
 * After building your XGBoost model (classifier or regressor) studying feature importance is just one line of code
-   ```
+   ```python
    from xgboost import plot_importance
-   plt.rcParams['figure.figsize'] = [10, 6]
+   plt.rcParams['figure.figsize'] = [8, 4]
    plot_importance(xg_cla)
    ```
    <img src="xgboost-feature-importance.png" align="middle" width="400" border="1"/>  
