@@ -318,7 +318,20 @@
    1. Compare the MAE of this model with a neural network model
    1. Expected output: A notebook that has answers for all the four tasks above **(on a different dataset)**
 
-## 21. Feature importance using XGBoost
+## 21. Feature importance and removal using XGBoost
+* In this activity, you will study feature importance using the XGBoost library
+* After building your XGBoost model (classifier or regressor) studying feature importance is just one line of code
+   ```
+   from xgboost import plot_importance
+   plt.rcParams['figure.figsize'] = [10, 6]
+   plot_importance(xg_cla)
+   ```
+   <img src="xgboost-feature-importance.png" align="middle" width="400" border="1"/>  
+* Expected output 1: Plot feature importance for a dataset of your choice and briefly discuss if the findings are similar or different from your intuition (i.e. does the sifnificance make sense?)
+* Iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set
+* Expected output 2: Plot to report your findings:   
+   a. X-axis represents feature removal, for example, second entry is after removing feature1, and third entry is after removing feature1 and feature2, etc.
+* Expected output 3: Discuss how your findings relate to your feature importance and reduction study using neural networks.
 
 ## 22. Learning with missing values & noisy data
 
