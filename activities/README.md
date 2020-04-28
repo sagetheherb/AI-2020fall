@@ -343,7 +343,7 @@
   * Expected output: Your discussion of how noisy data impacts the accuracy/MAE on the validation set
 
 ```python
-Sample code to make data noisy
+# Sample code to make data noisy
 import numpy as np
 dataset = np.loadtxt('winequality-red.csv', delimiter=",", skiprows=1)
 for i in range(100):
