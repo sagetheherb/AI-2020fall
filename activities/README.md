@@ -356,4 +356,28 @@
   * Expected output: A plot showing how the # of rows (x-axis) impacts the accuracy/MAE on validation data (y-axis) - with at least 8/10 points on the plot (for example: 1%, 2%, 5%, 10%, 20%, 40%, 60%, and 80%)
 
 ## 24. Cross-validation
+* In this activity, we will study cross-validation
+* Here is a sample Python code:
+   ```python
+   # Say our data has 100 rows and 12 columns - last column is the output column 
+   print(dataset.shape)
+   X = dataset[ : , :-1]
+   Y = dataset[ : , -1]
+   ```
+   
+   ```
+   (100, 12)
+   ```
 
+   ```python
+   from sklearn.model_selection import KFold
+   # Define 5 folds
+   kf = KFold(n_splits = 5)
+   # Returns the number of splitting iterations in the cross-validator
+   kf.get_n_splits(X)
+   print(kf)
+   ```
+   
+   ```
+   KFold(n_splits=5, random_state=None, shuffle=False)
+   ```
