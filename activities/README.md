@@ -357,7 +357,7 @@
 
 ## 24. Cross-validation
 * In this activity, we will study cross-validation   
-   <img src="cross-val.png" align="middle" width="400" border="1"/>  
+   <img src="cross-val.png" align="middle" width="500" border="1"/>  
 * Here is a sample Python code:
    ```python
    # Say our data has 100 rows and 12 columns - last column is the output column 
