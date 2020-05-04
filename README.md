@@ -73,10 +73,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 * See [here](activities/README.md).
 
 ## Homeworks
-* There will be two kinds of homeworks: 1) writing chapter summaries, and 2) project milestones.
-* For chapter summary homeworks you will submit a one page summary (at least 500 words) of the chapter.
-* All text must be "in your own words" and anything copied must be quoted and cited appropriately.
-* For project homeworks, see the project section.
+* See [here](HOMEWORK.md)
 
 ## ~~Tests~~
 * There will be short tests (maximum 30 minutes) almost every week on Wednesdays (see the course schedule).
