@@ -356,7 +356,8 @@
   * Expected output: A plot showing how the # of rows (x-axis) impacts the accuracy/MAE on validation data (y-axis) - with at least 8/10 points on the plot (for example: 1%, 2%, 5%, 10%, 20%, 40%, 60%, and 80%)
 
 ## 24. Cross-validation
-* In this activity, we will study cross-validation
+* In this activity, we will study cross-validation   
+   <img src="cross-val.png" align="middle" width="400" border="1"/>  
 * Here is a sample Python code:
    ```python
    # Say our data has 100 rows and 12 columns - last column is the output column 
