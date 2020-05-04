@@ -384,11 +384,11 @@
    ```
    
    ```python
-   fold = 1
+   split = 0
    for train_indices, valid_indices in kf.split(X):
        print('')
-       print('Fold:', fold)
-       fold += 1
+       split += 1
+       print('Split:', split)
        print('TRAIN:')
        print(train_indices.shape)
        print(train_indices) 
@@ -403,7 +403,7 @@
    ```
 
    ```
-   Fold: 1
+   Split: 1
    TRAIN:    
    (80,)    
    [20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43   
@@ -414,9 +414,9 @@
    (20,)   
    [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19]
    ```
-* Expected output: Create a table summarizing your accuracy/MAE in each fold; here is a sample table:   
+* Expected output: Create a table summarizing your accuracy/MAE in each split; here is a sample table:   
 
-   | Fold | Accuracy/MAE |
+   | Split | Accuracy/MAE |
    |---|---| 
    | 1  | ?  |
    | 2  |  ? |
