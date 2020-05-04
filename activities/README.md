@@ -365,7 +365,9 @@
    Y = dataset[ : , -1]
    ```
    
-   `(100, 12)`
+   ```
+   (100, 12)
+   ```
 
    ```python
    from sklearn.model_selection import KFold
@@ -376,7 +378,9 @@
    print(kf)
    ```
    
-   `KFold(n_splits=5, random_state=None, shuffle=False)`
+   ```
+   KFold(n_splits=5, random_state=None, shuffle=False)
+   ```
    
    ```python
    fold = 1
