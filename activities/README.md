@@ -365,9 +365,7 @@
    Y = dataset[ : , -1]
    ```
    
-   ```
-   (100, 12)
-   ```
+   `(100, 12)`
 
    ```python
    from sklearn.model_selection import KFold
@@ -378,6 +376,23 @@
    print(kf)
    ```
    
-   ```
-   KFold(n_splits=5, random_state=None, shuffle=False)
+   `KFold(n_splits=5, random_state=None, shuffle=False)`
+   
+   ```python
+   fold = 1
+   for train_indices, valid_indices in kf.split(X):
+       print('')
+       print('Fold:', fold)
+       fold += 1
+       print('TRAIN:')
+       print(train_indices.shape)
+       print(train_indices) 
+       print('VALID:')
+       print(valid_indices.shape)
+       print(valid_indices)
+       XTRAIN, XVALID = X[train_indices], X[valid_indices]
+       YTRAIN, YVALID = Y[train_indices], Y[valid_indices] 
+       # Your code for training/evaluation goes here..
+       # ToDo..
+
    ```
