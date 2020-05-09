@@ -252,6 +252,7 @@
 
 ## 18. Implement convolution operation (Chapter 24)
 * In this activity you will implement the convolution operation. Your implementation will serve as an image edge detector.
+* You are required to implement you own convolution function and do not use existing libraries; if you use existing libraries such as `scipy.signal.convolve2d` you will not receive any points.
 * Resources:
    * Read what convolution is (just the first four paragraphs) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
    * Watch this [17 minute youtube](https://www.youtube.com/watch?v=mjh5NIn1yHk) lecture
