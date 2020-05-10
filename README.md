@@ -51,7 +51,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 * Recorded lectures of the chapters are [here](./LECTURES.md)
  
 ## Course schedule
-* Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF6jdD5-whvlX-1mbKLpnryHVr8dIcKUbJcfg-Kx6WH7PkiXNRgLwyaQFO8svZWfxtaccjYpef0mpm/pubhtml?gid=0&single=true).
+<img src="schedule.png" width="1000"/>
 
 ## General policies
 * Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](supporting_files/turn-it-in.png) 
