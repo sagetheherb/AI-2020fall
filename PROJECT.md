@@ -74,7 +74,7 @@ a) A PDF report describing the comments you received and how you addressed them
     * It is encouraged but not required to you host your project (and report) at Github.   
 1. A link to your final Notebook
 
-##~~5. Poster presentation (final exam)~~
+~~##5. Poster presentation (final exam)~~
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
 * Poster and final report will be evaluated based on all the criteria above.
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
