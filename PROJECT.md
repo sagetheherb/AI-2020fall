@@ -65,7 +65,16 @@ b) A PDF report describing your findings
 **What to submit?**  
 a) A PDF report describing the comments you received and how you addressed them  
 
-## 5. Poster presentation (final exam)
+## 5. Report
+**What to submit?**   
+1. A copy of your final report    
+    * Your report must not be very long; 10/12 pages at most.
+    * All tables and figures must be numbered and captioned/labelled.
+    * Don't fill an entire page with a picture or have pictures hanging outside of the page borders.
+    * It is encouraged but not required to you host your project (and report) at Github.   
+1. A link to your final Notebook
+
+##~~5. Poster presentation (final exam)~~
 * Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
 * Poster and final report will be evaluated based on all the criteria above.
 * Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
