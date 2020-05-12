@@ -121,3 +121,7 @@ Instructions for writing chapter summaries:
 ## Grading scheme  
 * Unless you chose to be graded as S/U (given that the university allows it), following grading scheme will be used
   <img src="supporting_files/grades.png" align="middle" width="450"/>
+  
+## Student projects
+* Prediction of housing prices - Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
+
