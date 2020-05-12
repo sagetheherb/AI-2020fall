@@ -71,7 +71,8 @@ a) A PDF report describing the comments you received and how you addressed them
     * Your report must not be very long; 10/12 pages at most.
     * All tables and figures must be numbered and captioned/labelled.
     * Don't fill an entire page with a picture or have pictures hanging outside of the page borders.
-    * It is encouraged but not required to you host your project (and report) at Github.   
+    * It is encouraged but not required to you host your project (and report) at Github.  
+    * Turn off the dark mode in Notebook before you copy images/plots (the lables and ticks are hard to see in dark mode).
 1. A link to your final Notebook
 
 ~~##5. Poster presentation (final exam)~~
