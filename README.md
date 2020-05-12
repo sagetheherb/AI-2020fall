@@ -124,4 +124,6 @@ Instructions for writing chapter summaries:
   
 ## Student projects
 * Prediction of housing prices - Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
+* Factors in tennis - John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
+* 
 
