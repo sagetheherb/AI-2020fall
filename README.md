@@ -122,8 +122,9 @@ Instructions for writing chapter summaries:
 * Unless you chose to be graded as S/U (given that the university allows it), following grading scheme will be used
   <img src="supporting_files/grades.png" align="middle" width="450"/>
   
-## Student projects
+## (Some) Student projects
 * Prediction of housing prices - Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
 * Factors in tennis - John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
-* 
+* Predicting pulsar stars - Duc Ngo - [report](https://github.com/zegster/artificial-intelligence/blob/master/final_assembly/Final_Assembly.pdf)
+
 
