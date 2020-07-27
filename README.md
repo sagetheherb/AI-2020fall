@@ -119,7 +119,8 @@ Instructions for writing chapter summaries:
 * 10 points = Final report ~~Poster presentation (score from external judges, peers, and instructor)~~
 
 ## Grading scheme  
-* Unless you chose to be graded as S/U (given that the university allows it), following grading scheme will be used
+* Unless you chose to be graded as S/U (given that the university allows it), following grading scheme will be used  
+
   <img src="supporting_files/grades.png" align="middle" width="450"/>
   
 ## (Some) Student projects
