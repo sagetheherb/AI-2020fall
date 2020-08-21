@@ -1,18 +1,25 @@
 # AI course project
 
 ## A. Objectives
-1. Develop a feedforward neural network architectures for a pre-cleaned tabular dataset (NO time-series data, NO image data,  NO text data, only standard tabular data) with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
-1. Compare the performance with a logistic regression model (for classification) or linear regression model (for regression).
-1. Study, investigate and discuss "what", "how", and "why" your model makes predictions.
+1. Using Tensorflow, develop a feedforward neural network model for a classification or a regression problem using a pre-cleaned tabular dataset.
+   1. NO time-series data, NO image data,  NO text data, only standard tabular data
+   1. Data must have at least a 1000 rows and at least 3 input features (columns)
+1. Compare the performance of your model with a basic single layer model. For a regression problem, your single layer model is a linear regression model, and for a binary classification problem, your single layer model is a logistic regression model.
+1. Investigate "what", "how", and "why" your model makes predictions, and discuss your findings in your report.
 
 ## B. Expectations
 1. You will work on your projects individually (i.e. group submissions are not allowed).
-1. All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
-1. Each of you will review at least two reports of the peers in your group.
+1. Reports for all phases (including the final report) must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>. Non-overleaf submissions may not be graded at all. I do not provide any Overleaf templates, and you are free to use any templates you want.
 
 ## C. Phases
+In each phase you are exepected to submit:
+1. A link to your Colab notebook. Please test on your own (in a different browser) to make sure that anyone with the link can view your Python notebook. If I cannot access your notebook during grading you may loose points.
+1. A PDF report describing your findings (downloaded from your Overleaf project).
+1. A link to view your Overleaf project.
 
-### I. Data analysis & preparation
+Below is the list of all phases and the outline of what you will be working on in each phase. 
+
+### Phase I. Data analysis & preparation
 1. Description of the dataset, its source, and motivation for the project
 1. Visualize/Plot the distribution of each input features and discuss the range of the values (min, max, mean, median, etc.)
    - For example, plot histograms showing distribution of each input features
@@ -22,10 +29,10 @@
 1. Data normalization
 
 **What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
+a) 
 b) A PDF report describing your findings  
 
-### II. Model selection & evaluation
+### Phase II. Model selection & evaluation
 1. Split the data into training, and validation sets
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
@@ -52,7 +59,7 @@ b) A PDF report describing your findings
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
-### III. Feature importance and reduction
+### Phase III. Feature importance and reduction
 1. Study feature importance by iteratively removing input features
 1. Identify non-informative input features and remove them
 1. Compare your feature-reduced model with the original model with all input features
@@ -67,7 +74,7 @@ b) A PDF report describing your findings
 **What to submit?**  
 a) A PDF report describing the comments you received and how you addressed them  
 
-### IV. Report
+### Phase IV. Report
 **What to submit?**   
 1. A copy of your final report    
     * Your report must not be very long; 10/12 pages at most.
