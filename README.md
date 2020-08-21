@@ -77,52 +77,35 @@ There will be two types of homeworks:
 2. Project phases (see [ToDo: project]())
 
 ### Chapter summaries
-
+The homework here is to write a 1000 words summary of each chapter after watching the [ToDo: recorded lectures](). Please see the course schedule above for submission deadlines.
 1. Your summary should be at least 1000 words of `plain text`.
 1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
 1. Your summary should not be all bullets, use bullets only when appropriate.
 1. Your chapter summary must be divided into the [ToDo: topics of the chapter](). For example, the summary on the chapter `Preception` should have the corresponding four sections.
 1. All homeworks will be automatically checked for plagarism using the Canvas plugin Turnitin. If you copy/paste contents from the Internet, you will receive a `zero` for your submission. Serious actions will be taken for any repeated plagarism.
 
-## ~~Tests~~
-* There will be short tests (maximum 30 minutes) almost every week on Wednesdays (see the course schedule).
-* If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
-* Tests will be CLOSED book, CLOSED notes, and CLOSED electronics.
-* Use of any type of electronics is strictly forbidden during tests.
-* It is your responsibility to contact the instructor if you miss a test. If you don't, a grade of zero points will be assgined for the test you miss.
+## O. Oral tests
+The mid-term and finals for this course will be in the form of oral tests, via Zoom one-on-one meetings. Each meeting may be up to 30 minutes longAlthough some oral questions may check your understanding of the concepts, questions on the oral test will mostly focus on the details. Questions in the oral test will be from your own submissions - homeworks, activities, and project submissions. I will randomly pick one of your submissions, and ask you some details. Some students who have done exceptionally well may be exempt from the oral test. I will send an email to you if you are exempt, you cannot email and ask to be exempt. Closer to the mid-term and finals week, you will be able to sign-up to select a time that works for you. Here are two example questions:
+1. In your homework number 3, in paragraph 5, you discuss X and Y. Please explain Z.
+1. In your activity 10 submission's Notebook, please explain why you wrote the codes in line number 6.
 
-## ~~Attendance~~
-* Attendance will be recorded frequently
-* More than 5 uninformed absenses may lead to failing the course
+## P. Attendance
+* Attendance will be recorded sometimes.
+* Uninformed missing of three consecutive classes in a row may lead to failing the course.
 
-## Grade composition  
-* ~~10 * 3 points = 10 Tests~~
-* ~~20 * 1 points = 20 Activities~~
-* Before spring break:
-  * 4 * 1 points = 4 Homeworks
-  * 1 * 3 points = 1 Homework (learning how to learn online)
-  * 3 * 3 points = 3 Tests
-  * 10 * 1 points = Activities 1 through 12 [two optional activities for bonus] (before spring break)
-  * 10 points = Project (phase I)
-* After spring break:
-  * 4 * 2 points = 4 Homeworks
-  * 10 * 2 points = Activites 13 through 24 [two optional activities for bonus]
-  * 30 points = Project (remaining phases)
-  * 1.5 bonus point to everyone who complete the course evaluation survey
+## Q. Grade composition  
+* 8 chapter summaries * 2 = 16 points
+* 3 project phases * 6 = 18 points
+* 1 final project report * 12 = 12 points
+* 20 activities * 1 = 20 points
+* 2 oral tests * 17 = 34 points 
+* 1 bonus point to everyone who complete the course evaluation survey (please email me once you submit the survey)
 
-#### Project (40 points)
-* 10  points = Data analysis & preparation
-* 10  points = Model selection & evaluation
-* 5  points = Feature importance and reduction
-* 5  points = Addressing peer-reviews
-* 10 points = Final report ~~Poster presentation (score from external judges, peers, and instructor)~~
-
-## Grading scheme  
-* Unless you chose to be graded as S/U (given that the university allows it), following grading scheme will be used  
-
+## R. Grading scheme  
+* Following grading scheme will be used in this course 
   <img src="supporting_files/grades.png" align="middle" width="450"/>
-  
-## (Some) Student projects
+
+## Sample student projects (from previous semesters)
 * Prediction of housing prices - Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
 * Factors in tennis - John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
 * Predicting pulsar stars - Duc Ngo - [report](https://github.com/zegster/artificial-intelligence/blob/master/final_assembly/Final_Assembly.pdf)
