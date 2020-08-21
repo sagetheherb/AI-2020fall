@@ -10,9 +10,9 @@
 1. All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
 1. Each of you will review at least two reports of the peers in your group.
 
-# Project Phases
+## C. Phases
 
-## 1. Data analysis & preparation
+### I. Data analysis & preparation
 1. Description of the dataset, its source, and motivation for the project
 1. Visualize/Plot the distribution of each input features and discuss the range of the values (min, max, mean, median, etc.)
    - For example, plot histograms showing distribution of each input features
@@ -25,7 +25,7 @@
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
-## 2. Model selection & evaluation
+### II. Model selection & evaluation
 1. Split the data into training, and validation sets
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
@@ -52,7 +52,7 @@ b) A PDF report describing your findings
 a) A link to your Colab notebook (make sure that anyone with the link can view)  
 b) A PDF report describing your findings  
 
-## 3. Feature importance and reduction
+### III. Feature importance and reduction
 1. Study feature importance by iteratively removing input features
 1. Identify non-informative input features and remove them
 1. Compare your feature-reduced model with the original model with all input features
@@ -67,7 +67,7 @@ b) A PDF report describing your findings
 **What to submit?**  
 a) A PDF report describing the comments you received and how you addressed them  
 
-## 5. Report
+### IV. Report
 **What to submit?**   
 1. A copy of your final report    
     * Your report must not be very long; 10/12 pages at most.
@@ -93,7 +93,7 @@ b) A link to your final Notebook
 c) Your poster  
 d) A laptop for demonstration (if needed)  
 
-# Sample student projects (from previous semesters)
+## D. Sample student projects (from previous semesters)
 * EPL game result prediction by Bikash Shrestha - [report](https://github.com/badriadhikari/AI-2020spring/blob/master/sample-reports/sample-report-1.pdf)
 * Prediction of housing prices by Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
 * Factors in tennis by John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
