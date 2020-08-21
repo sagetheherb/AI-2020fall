@@ -105,12 +105,12 @@ The mid-term and finals for this course will be in the form of oral tests, via Z
 * Following grading scheme will be used in this course 
   <img src="supporting_files/grades.png" align="middle" width="450"/>
 
-## Sample student projects (from previous semesters)
+## S. Sample student projects (from previous semesters)
 * Prediction of housing prices - Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
 * Factors in tennis - John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
 * Predicting pulsar stars - Duc Ngo - [report](https://github.com/zegster/artificial-intelligence/blob/master/final_assembly/Final_Assembly.pdf)
 
-## Resources
+## T. Resources
 * [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
 * [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
 
