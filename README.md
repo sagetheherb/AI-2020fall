@@ -1,4 +1,4 @@
-<img src="supporting_files/umsl.png" align="middle" width="400"/>
+<img src="supporting_files/umsl.png" align="middle" width="350"/>
 
 ## Syllabus of Artificial Intelligence (CMPSCI 4300/5300) - 2020 Spring
 
