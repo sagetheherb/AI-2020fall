@@ -102,7 +102,7 @@ The mid-term and finals for this course will be in the form of oral tests, via Z
 * 1 bonus point to everyone who complete the course evaluation survey (please email me once you submit the survey)
 
 ## R. Grading scheme  
-* Following grading scheme will be used in this course 
+* Following grading scheme will be used in this course   
   <img src="supporting_files/grades.png" align="middle" width="450"/>
 
 ## S. Sample student projects (from previous semesters)
