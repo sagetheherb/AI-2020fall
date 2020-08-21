@@ -1,8 +1,6 @@
 <img src="supporting_files/umsl.png" align="middle" width="350"/>
 
-## Syllabus of Artificial Intelligence (CMPSCI 4300/5300) - 2020 Spring
-
-[UMSL Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) |  [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
+## Syllabus of Artificial Intelligence (CMPSCI 4300/5300) - 2020 Fall
 
 ## Class and office hours
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
@@ -128,4 +126,7 @@ Instructions for writing chapter summaries:
 * Factors in tennis - John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
 * Predicting pulsar stars - Duc Ngo - [report](https://github.com/zegster/artificial-intelligence/blob/master/final_assembly/Final_Assembly.pdf)
 
+## Resources
+* [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
+* [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
 
