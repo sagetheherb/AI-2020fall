@@ -2,38 +2,40 @@
 
 ## Syllabus of Artificial Intelligence (CMPSCI 4300/5300) - 2020 Fall
 
-## Class and office hours
-* Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/) | [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
-* Class meets: `MW 4PM to 5:15PM` ~~at `ESH 103`~~
-* Office location and hours: By email ~~`312 Express Scripts Hall`, `Mondays 1PM to 4PM`~~
+## A. Class and office hours
+* Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/)
+* Email: [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
+* Class meets: `TR 12:30PM - 1:45PM` (via Zoom)
+* Office hours: I will be available for up to 30 minutes after each class to answer your questions. If this time does not work for you, please email me and we can find a time that works for you and me.
 
-## About the course
+## B. About the course (Official course description)
 * This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
 
-## Prerequisites  
+## C. Prerequisites  
 * CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
-## Learning outcomes  
+## D. Learning outcomes  
+I teach this course differently. Although I cover the book's chapter topics, the focus of the course is on the [ToDo: activities](). I believe that you will learn more from the lectures when you watch them at home. So, I have recorded the chapter lectures for you to watch at home. During class, we will focus on activities. I will provide you the technical support you need to complete the activities. We all learn more by `doing` and this is exactly what we will do in this course. Below are the learning outcomes:
 * Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
-* Learn an overview of artificial intelligence principles and approaches
+* Learn artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
-* Select and evaluate various searching algorithms
-* Understand some of the problems and ideas in the field of natural language processing, perception, and robotics
+* Evaluate various searching algorithms
+* Understand problems and ideas in the field of natural language processing, perception, and robotics
 * Learn the philosophical foundations of AI and the future of AI
-* Implement various AI algorithms such as DFS, BFS, etc.
+* Implement various AI algorithms such as depth-first search, and breadth-first search.
 
-## Textbook  
-Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://www.pearson.com/us/higher-education/product/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/9780136042594.html). 
+## E. Textbook  
+Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://www.pearson.com/us/higher-education/product/Russell-Artificial-Intelligence-A-Modern-Approach-3rd-Edition/9780136042594.html).
 
-## Course topics
+## F. Course topics
 - **Book chapters**  
+  We will start with a difficult but important chapter.
   - Chapter 18 - Learning From Examples 
   - Chapter 1 - Introduction 
   - Chapter 2 - Intelligent Agents
   - Chapter 3 - Solving Problems by Searching 
   - Chapter 5 - Adversarial Search
-  - ~~Chapter 6 - Constraint Satisfaction Problems~~
-  - ~~Chapter 7 - Logical Agents~~
+  - Chapter 7 - Logical Agents
   - Chapter 22 - Natural Language Processing
   - Chapter 24 - Perception 
   - Chapter 25 - Robotics
