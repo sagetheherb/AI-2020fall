@@ -76,7 +76,7 @@ There will be two types of homeworks:
 1. Writing chapter summaries, and 
 2. Project phases (see [ToDo: project]())
 
-### Chapter summaries
+### Chapter summary homeworks
 The homework here is to write a 1000 words summary of each chapter after watching the [ToDo: recorded lectures](). Please see the course schedule above for submission deadlines.
 1. Your summary should be at least 1000 words of `plain text`.
 1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
