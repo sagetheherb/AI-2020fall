@@ -72,9 +72,9 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 * See [here](activities/README.md).
 
 ## N. Homeworks
-There will be two kinds of homeworks:  
+There will be two types of homeworks:  
 1. Writing chapter summaries, and 
-2. Project milestones (please see the project section)
+2. Project phases (see [ToDo: project]())
 
 Instructions for writing chapter summaries:
 1. Submit at least a one page summary (at least 500 words) of the chapter.
