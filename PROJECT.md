@@ -91,5 +91,9 @@ b) A link to your final Notebook
 c) Your poster  
 d) A laptop for demonstration (if needed)  
 
-# Example posters and reports
-* See [here](./sample-posters/) for sample posters and [here](sample-reports/) for sample reports.
+# Sample student projects (from previous semesters)
+* EPL game result prediction by Bikash Shrestha - [report](https://github.com/badriadhikari/AI-2020spring/blob/master/sample-reports/sample-report-1.pdf)
+* Prediction of housing prices by Syeda Afrah Shamail - [report](https://github.com/afrah1994/Prediction-of-Housing-Prices/blob/master/Final%20report.pdf)
+* Factors in tennis by John Soderstrom - [report](https://github.com/SoderstromJohnR/CS4300Final/blob/master/Final%20Report.pdf)
+* Predicting pulsar stars by Duc Ngo - [report](https://github.com/zegster/artificial-intelligence/blob/master/final_assembly/Final_Assembly.pdf)
+
