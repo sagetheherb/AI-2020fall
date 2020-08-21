@@ -76,12 +76,12 @@ There will be two types of homeworks:
 1. Writing chapter summaries, and 
 2. Project phases (see [ToDo: project]())
 
-Instructions for writing chapter summaries:
-1. Submit at least a one page summary (at least 500 words) of the chapter.
+### Chapter summaries
+
+1. Your summary should be at least 1000 words of `plain text`.
 1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
-1. Use bullets only when appropriate - your summary cannot be all bullets.
-1. Don't copy/paste images or equations from the slides or from the Internet - if you do, please cite the source right below the figure or equation.
-1. You are encouraged but not required submit your homeworks using <a href="https://www.overleaf.com/">Overleaf</a>.
+1. Your summary should not be all bullets, use bullets only when appropriate.
+1. Your chapter summary must be divided into the [ToDo: topics of the chapter](). For example, the summary on the chapter `Preception` should have the corresponding four sections.
 1. All homeworks will be automatically checked for plagarism using the Canvas plugin Turnitin. If you copy/paste contents from the Internet, you will receive a `zero` for your submission. Serious actions will be taken for any repeated plagarism.
 
 ## ~~Tests~~
