@@ -29,7 +29,6 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## F. Course topics
 - **Book chapters**  
-  We will start with a difficult but important chapter.
   - Chapter 18 - Learning From Examples 
   - Chapter 1 - Introduction 
   - Chapter 2 - Intelligent Agents
@@ -40,39 +39,39 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
   - Chapter 24 - Perception 
   - Chapter 25 - Robotics
   - Chapter 26 - Philosophical Foundations  
-- **Machine learning using Keras**   
+- **Machine learning using Tensorflow**   
   - Basics of Python, Numpy and Keras
   - Design, train, and evaluate basic feed-forward neural networks
   - Study feature importance and feature reduction
 
-## Course materials  
+## G. Course materials  
 * All course materials are inside the relevant folders in Github location
 * Chapter slides are [here](./chapter-slides/)
 * Recorded lectures of the chapters are [here](./LECTURES.md)
  
-## Course schedule
+## H. Course schedule
 <img src="schedule.png" width="1000"/>
 
-## General policies
-* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](supporting_files/turn-it-in.png) 
-* Lecture recordings, audio or video, are not permitted
-* You are welcome to bring your laptop in class
+## I. General policies
+* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](supporting_files/turn-it-in.png).
+* Lecture recordings, audio or video, are not permitted.
 
-## Programming language
+## J. Programming language
 * Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
 * You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
 
-## ~~Late policy~~  
-* You have a total of 5 late days.
-* Once you use your late days, late submissions will get no points.
+## K. Late policy  
+* You can request a maximum two-day extension on any homeworks or project submissions - for up to two submissions. 
+* If you email me a few hours before a deadline and I don't reply you immediately, and if you have not used your two-day extensions, you can assume that the extension is granted automatically.
+* Once you use your extension days, late submissions will get no points.
 
-## Course project
+## L. Course project
 * See [here](PROJECT.md).
 
-## Classroom activities
+## M. Classroom activities
 * See [here](activities/README.md).
 
-## Homeworks
+## N. Homeworks
 There will be two kinds of homeworks:  
 1. Writing chapter summaries, and 
 2. Project milestones (please see the project section)
