@@ -1,9 +1,11 @@
-# Project Objectives
+# AI course project
+
+## A. Objectives
 1. Develop a feedforward neural network architectures for a pre-cleaned tabular dataset (NO time-series data, NO image data,  NO text data, only standard tabular data) with at least a 1000 rows and at least 3 input features (columns) using Tensorflow.
 1. Compare the performance with a logistic regression model (for classification) or linear regression model (for regression).
 1. Study, investigate and discuss "what", "how", and "why" your model makes predictions.
 
-# Project Expectations
+## B. Expectations
 1. You will work on your projects individually (i.e. group submissions are not allowed).
 1. All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
 1. Each of you will review at least two reports of the peers in your group.
