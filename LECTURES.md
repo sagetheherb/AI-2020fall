@@ -13,11 +13,23 @@
    1. [Foundations of AI]()
    1. [History of AI]()
 
-
 **Chapter 2 - Intelligent Agents**  
+   1. [Agent function vs agent program]()
+   1. [Rationality]()
+
 **Chapter 3 - Solving Problems by Searching**  
+   1. [Sample search problems]()
+   1. [Concepts for searching algorithms]()
+   1. [Uninformed search algorithms]()
+   1. [Informed search algorithms]()
+
 **Chapter 5 - Adversarial Search**  
+   1. [Introduction to adversarial search]()
+   1. [Minimax algorithm]()
+   1. [Alpha-beta pruning algorithm]()
+
 **Chapter 7 - Logical Agents**  
+
 
 **Chapter 22 - Natural Language Processing**  
    1. [N-gram character models](https://www.youtube.com/watch?v=BvZDV7MX6UI)
