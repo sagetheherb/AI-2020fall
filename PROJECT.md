@@ -28,10 +28,6 @@ Below is the list of all phases and the outline of what you will be working on i
     - In case of regression, check if the values are uniformly distributed or not
 1. Data normalization
 
-**What to submit?**  
-a) 
-b) A PDF report describing your findings  
-
 ### Phase II. Model selection & evaluation
 1. Split the data into training, and validation sets
 1. Compare the results of the neural network with a linear regression or logistic regression model
