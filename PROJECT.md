@@ -66,6 +66,7 @@ Below is the list of all phases and the outline of what you will be working on i
     * Don't fill an entire page with a picture or have pictures hanging outside of the page borders.
     * It is encouraged but not required to you host your project (and report) at Github.  
     * Turn off the dark mode in Notebook before you copy images/plots (the lables and ticks are hard to see in dark mode).
+    * Your report should include abstract and conclusion (each 250 words minimum).
 1. A link to your final Notebook
 
 ## D. Sample student projects (from previous semesters)
