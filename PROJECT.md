@@ -12,8 +12,9 @@
 1. Reports for all phases (including the final report) must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>. Non-overleaf submissions may not be graded at all. I do not provide any Overleaf templates, and you are free to use any templates you want.
 
 ## C. Phases
-In each phase you are exepected to submit:
-1. A link to your Colab notebook. Please test on your own (in a different browser) to make sure that anyone with the link can view your Python notebook. If I cannot access your notebook during grading you may loose points.
+**In each phase you are exepected to submit:**  
+1. A link to your Colab notebook
+   - Please test on your own (in a different browser) to make sure that anyone with the link can view your Python notebook. If I cannot access your notebook during grading you may loose points.
 1. A PDF report describing your findings (downloaded from your Overleaf project).
 1. A link to view your Overleaf project.
 
