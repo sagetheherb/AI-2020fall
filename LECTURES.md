@@ -28,9 +28,6 @@
    1. [Minimax algorithm]()
    1. [Alpha-beta pruning algorithm]()
 
-**Chapter 7 - Logical Agents**  
-
-
 **Chapter 22 - Natural Language Processing**  
    1. [N-gram character models](https://www.youtube.com/watch?v=BvZDV7MX6UI)
    1. [N-grams for language identification](https://www.youtube.com/watch?v=pusLb-kc0FI)
@@ -53,3 +50,5 @@
    1. [Path planning in moving robots]()
    1. ['Atlas' by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
    1. ['Spot' by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
+
+**Chapter 7 - Logical Agents**  
