@@ -7,6 +7,8 @@
 * The only way to receive points on activities is to present your completed activity to the instructor during the class.
 
 
+first 10 activities are easy and notebooks are provided.
+
 Activities:
 Activities are great. Students learn a lot through implementation.
 a) Improve the descriptions of activities, provide a lot of details
