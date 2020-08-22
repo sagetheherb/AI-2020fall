@@ -7,11 +7,11 @@
    1. [Artificial neural networks]()
 
 **Chapter 1 - Introduction**  
-   1. [What is AI?]
-   1. [Acting humanly and thinking humanly]
-   1. [Thinking rationally and acting rationally]
-   1. [Foundations of AI]
-   1. [History of AI]
+   1. [What is AI?]()
+   1. [Acting humanly and thinking humanly]()
+   1. [Thinking rationally and acting rationally]()
+   1. [Foundations of AI]()
+   1. [History of AI]()
 
 
 **Chapter 2 - Intelligent Agents**  
