@@ -86,7 +86,7 @@ The homework here is to write a 1000 words summary of each chapter after watchin
 
 ## O. Oral tests
 The mid-term and finals for this course will be in the form of oral tests, via Zoom one-on-one meetings. Each meeting may be up to 30 minutes longAlthough some oral questions may check your understanding of the concepts, questions on the oral test will mostly focus on the details. Questions in the oral test will be from your own submissions - homeworks, activities, and project submissions. I will randomly pick one of your submissions, and ask you some details. Some students who have done exceptionally well may be exempt from the oral test. I will send an email to you if you are exempt, you cannot email and ask to be exempt. Closer to the mid-term and finals week, you will be able to sign-up to select a time that works for you. Here are two example questions:
-1. In your homework number 3, in paragraph 5, you discuss X and Y. Please explain Z.
+1. In your homework number 3, in paragraph 5, you discuss X and Y. Please mention the purpose of X.
 1. In your activity 10 submission's Notebook, please explain why you wrote the codes in line number 6.
 
 ## P. Attendance
