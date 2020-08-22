@@ -20,5 +20,5 @@ Chapter 25 - Robotics
    1. [Range finders](https://youtu.be/wvs5qXfyMIA)
    1. [What is degree of freedom in a robot?]()
    1. [Path planning in moving robots]()
-   1. [Atlas by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
-   1. [Spot by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
+   1. ['Atlas' by Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
+   1. ['Spot' by Boston Dynamics](https://www.youtube.com/watch?v=wlkCQXHEgjA)
