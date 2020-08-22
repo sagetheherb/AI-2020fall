@@ -1,4 +1,4 @@
-# AI course project
+# Semester-long course project
 
 ## A. Objectives
 1. Using Tensorflow, develop a feedforward neural network model for a classification or a regression problem using a pre-cleaned tabular dataset.
