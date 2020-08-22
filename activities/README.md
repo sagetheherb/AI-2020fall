@@ -6,6 +6,15 @@
 * You will need to complete at least 20 activities in order to receive full points. If you complete more than 20 activities, you will receive a bonus point for each activity you complete.
 * The only way to receive points on activities is to present your completed activity to the instructor during the class.
 
+
+Activities:
+Activities are great. Students learn a lot through implementation.
+a) Improve the descriptions of activities, provide a lot of details
+b) Provide them a list of classification datasets and regression datasets - most likely the one at https://archive.ics.uci.edu/ml/datasets.php
+b) In each activity, don't mix regression and classification
+c) If you are doing machine learning for the first time, I strongly recommend you to choose a classification problem for project (not regression problem); many confuse between classification and regression - particularly the starters
+d) Those working on regression problems will need to translate all 'accuracy' to 'mae', all 'sigmoid' to 'linear', all 'binary_crossentropy' to 'mae' or 'logcosh'.
+
 --------------  
 
 ## 1. Python
