@@ -20,16 +20,17 @@ In each phase you are exepected to submit:
 Below is the list of all phases and the outline of what you will be working on in each phase. 
 
 ### Phase I. Data analysis & preparation
-1. Description of the dataset, its source, and motivation for the project
-1. Visualize/Plot the distribution of each input features and discuss the range of the values (min, max, mean, median, etc.)
+1. Discuss why you chose to work on this project
+1. Describe the dataset and its source
+1. Visualize/plot the distributions of each input features and discuss the range of the values (min, max, mean, median, etc.)
    - For example, plot histograms showing distribution of each input features
-1. Study the distribution of the output labels
+1. Discuss the distribution of the output labels
     - In case of classification, check if the data is imbalanced
     - In case of regression, check if the values are uniformly distributed or not
-1. Data normalization
+1. Discuss how you normalized your data
 
 ### Phase II. Model selection & evaluation
-1. Split the data into training, and validation sets
+1. Split your data into training, and validation sets
 1. Compare the results of the neural network with a linear regression or logistic regression model
     - Start with a basic model and then grow your model into a multi-layered model
     - Discuss how neural network models will be selected
@@ -51,24 +52,10 @@ Below is the list of all phases and the outline of what you will be working on i
    - After your model is trained, read all the weights, and build your own function/method that serves as the model
    - Verify that predictions you obtain are same as the one you obtained using your trained model
 
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
 ### Phase III. Feature importance and reduction
 1. Study feature importance by iteratively removing input features
 1. Identify non-informative input features and remove them
 1. Compare your feature-reduced model with the original model with all input features
-
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
-## 4. Address peer-review comments
-* You will receive comments/reviews from at least two peers in the classroom
-
-**What to submit?**  
-a) A PDF report describing the comments you received and how you addressed them  
 
 ### Phase IV. Report
 **What to submit?**   
@@ -79,22 +66,6 @@ a) A PDF report describing the comments you received and how you addressed them
     * It is encouraged but not required to you host your project (and report) at Github.  
     * Turn off the dark mode in Notebook before you copy images/plots (the lables and ticks are hard to see in dark mode).
 1. A link to your final Notebook
-
-~~##5. Poster presentation (final exam)~~
-* Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
-* Poster and final report will be evaluated based on all the criteria above.
-* Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
-* See sample-reports folder and sample-posters folder for samples
-
-**What to submit?**  
-a) A copy of your final report  
-b) A link to your final Notebook
-
-**What to bring?**  
-a) A printed copy of your final report  
-b) A link to your final Notebook
-c) Your poster  
-d) A laptop for demonstration (if needed)  
 
 ## D. Sample student projects (from previous semesters)
 * EPL game result prediction by Bikash Shrestha - [report](https://github.com/badriadhikari/AI-2020spring/blob/master/sample-reports/sample-report-1.pdf)
