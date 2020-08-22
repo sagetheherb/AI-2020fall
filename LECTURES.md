@@ -1,6 +1,11 @@
 # Lectures
 
 **Chapter 18 - Learning From Examples**  
+   1. [Forms of learning]()
+   1. [Univariate linear regression]()
+   1. [Linear classifiers and logistic regression]()
+   1. [Artificial neural networks]()
+
 **Chapter 1 - Introduction**  
 **Chapter 2 - Intelligent Agents**  
 **Chapter 3 - Solving Problems by Searching**  
