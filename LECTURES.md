@@ -18,15 +18,15 @@
    1. [Rationality]()
 
 **Chapter 3 - Solving Problems by Searching**  
-   1. [Sample search problems]()
-   1. [Concepts for searching algorithms]()
-   1. [Uninformed search algorithms]()
-   1. [Informed search algorithms]()
+   1. [Sample search problems](https://youtu.be/5adr4M_6d8Y)
+   1. [Searching algorithm concepts](https://youtu.be/TRAgHQkuo3M)
+   1. [Uninformed search algorithms](https://youtu.be/eyXynZTshP0)
+   1. [Informed search algorithms](https://youtu.be/BgHZIjAuYNc)
 
 **Chapter 5 - Adversarial Search**  
-   1. [Introduction to adversarial search]()
-   1. [Minimax algorithm]()
-   1. [Alpha-beta pruning algorithm]()
+   1. [Introduction to adversarial search](https://youtu.be/6k8WilOGtXY)
+   1. [Minimax algorithm](https://www.youtube.com/watch?v=uFhcHA57iLU)
+   1. [Alpha-beta pruning algorithm](https://www.youtube.com/watch?v=n6mbgKICrVU)
 
 **Chapter 22 - Natural Language Processing**  
    1. [N-gram character models](https://www.youtube.com/watch?v=BvZDV7MX6UI)
