@@ -8,9 +8,6 @@
 # Recommended datasets
 * Classification and regression datasets at https://archive.ics.uci.edu/ml/datasets.php
  many confuse between classification and regression - particularly the starters
-b) In each activity, don't mix regression and classification
-
-d) Those working on regression problems will need to translate all 'accuracy' to 'mae', all 'sigmoid' to 'linear', all 'binary_crossentropy' to 'mae' or 'logcosh'.
 
 --------------  
 
