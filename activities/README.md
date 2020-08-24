@@ -255,7 +255,7 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
   b. When model checkpointing, your checkpointed model will almost always be more accurate on the validation set. What is the MAE on the Validation set with and without model checkpointing?
 
 ## 18. Implement convolution operation (Chapter 24)
-* In this activity you will implement the convolution operation. Your implementation will serve as an image edge detector.
+* In this activity you will implement the convolution operation. Your implementation will detect edges in an image.
 * You are required to implement you own convolution function and do not use existing libraries; if you use existing libraries such as `scipy.signal.convolve2d` you will not receive any points.
 * Resources:
    * Read what convolution is (just the first four paragraphs) under the section "2D Convolutions: The Operation" at [this](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) link
