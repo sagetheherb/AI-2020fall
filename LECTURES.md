@@ -10,7 +10,7 @@
    1. [What is AI?]()
    1. [Acting humanly and thinking humanly]()
    1. [Thinking rationally and acting rationally](https://www.youtube.com/watch?v=bioz_1pHSvs)
-   1. [Foundations of AI]()
+   1. [Foundations of AI](https://youtu.be/uAliWinAyAs)
    1. [History of AI](https://youtu.be/bzkT3NgLIr8)
 
 **Chapter 2 - Intelligent Agents**  
