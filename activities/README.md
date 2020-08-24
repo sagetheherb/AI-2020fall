@@ -8,6 +8,9 @@
 # Recommended datasets
 * Classification and regression datasets at https://archive.ics.uci.edu/ml/datasets.php
 
+# What to submit?
+* A link to your Colab notebook (must be publicly accesible with the link) for each activity.
+
 --------------  
 
 ## 1. Python
