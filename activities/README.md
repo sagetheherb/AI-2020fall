@@ -96,7 +96,7 @@
   1. Which is the best loss function for your output variable? mae, mse, mean_squared_logarithmic_error, or logcosh?
 
 ## 11. Overfitting vs generalization
-1. Find a dataset of your choice at Kaggle. Classification or regression, any.
+1. Pick a classification dataset of your choice.
 1. Shuffle the rows
    ```python
    # Shuffle
@@ -116,7 +116,7 @@
    ```
     <img src="xysplit.png" align="middle" width="800"/>
 1. If you are normalizing your data, only use the XTRAIN and YTRAIN to obtain the normalization parameters (mean/std). Do not use XVALID or YVALID.
-1. Build a NN model to overfit the training set (to get ~100% accuracy or ~0.0 MAE) and then evalute on the validation set and observe the accuracy/MAE
+1. Build a NN model to overfit the training set (to get ~100% accuracy) and then evalute on the validation set and observe the accuracy
    1. Learn the model from training set
       ```python
       model.fit(XTRAIN, YTRAIN, ...)
@@ -147,7 +147,7 @@
  
 ## 13. Learning curves
 1. Read [this](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/) blog about learning curves.
-1. Find a dataset of your choice (regression or classification) at Kaggle. Shuffle it, split it, and train a model.
+1. Find a regression dataset of your choice. Shuffle it, split it, and train a model.
 1. Obtain learning curves for your dataset
    ```python
    # Do the training (specify the validation set as well)
@@ -173,8 +173,7 @@
    <img src="learningcurve.png" align="middle" width="450"/>
 
 ## 14. Fine-tuning hyper-parameters of your model
-* Find a dataset of your choice at Kaggle
-  * It can your project dataset
+* Find a classification dataset of your choice
 * Split into training and validation set
 * Your goal is to find the optimal hyper-parameters that maximize the accuracy (or minimize MAE) on the validation set
   You can try the following:
@@ -224,8 +223,8 @@
   ```
 
 ## 17. Early stopping
-* Find a dataset of your choice at Kaggle (it can your project dataset) and split into training and validation set
-* Assumption: You already know (tentatively) what hyperparameters are good for your dataset
+Assumption: You already know (tentatively) what hyperparameters are good for your dataset
+* Find a regression dataset of your choice and split into training and validation set
 * There are two objectives in this activity:  
   a. Implement automatic stopping of training if the accuracy does not improve for certain epochs  
   b. Implement automatic saving of the best model (best on the validation set)  
@@ -250,7 +249,7 @@
   <img src="model-checkpoint.png" align="middle" width="600"/>
 * At the end of your notebook, answer the following questions:  
   a. Almost always, training with early stopping finishes faster (because it stops early). Approximately, how long does it take for your training to finish with and without early stopping?  
-  b. When model checkpointing, your checkpointed model will almost always be more accurate on the validation set. What is the accuracy/MAE on the Validation set with and without model checkpointing?
+  b. When model checkpointing, your checkpointed model will almost always be more accurate on the validation set. What is the MAE on the Validation set with and without model checkpointing?
 
 ## 18. Implement convolution operation (Chapter 24)
 * In this activity you will implement the convolution operation. Your implementation will serve as an image edge detector.
@@ -335,10 +334,7 @@
    1. Iteratively remove one feature at a time (starting with the least significant feature) and repeat the training noting the accuracy/MAE on the validation set and plot to report your findings (X-axis represents feature removal, for example, second entry is after removing feature1, and third entry is after removing feature1 and feature2, etc.)
    1. Discuss how your findings relate to your feature importance and reduction study using neural networks
 
-## 22. Peer-review of reports
-* Review the reports of the first three phases of the project of a peer in the class
-
-## 23. Learning with missing values & noisy data
+## 22. Learning with missing values & noisy data
 * In this activity, we will investigate the impact of "amount of data" and missing/noisy data
 * For a dataset of your choice, randomly set random rows/columns (around 10% of your total rows) to non-standard values such as -9999 or 9999 and repeat your training/evaluation.
   * Expected output: Your discussion of how noisy data impacts the accuracy/MAE on the validation set
@@ -358,7 +354,7 @@
 * For a dataset of your choice, iteratively decrease the total number of data (rows) and and evaluate the accuracy/MAE on the validation set - please do not change the validation set (keep the same number of rows in each run); only decrease the number of rows in the training set.
   * Expected output: A plot showing how the # of rows (x-axis) impacts the accuracy/MAE on validation data (y-axis) - with at least 8/10 points on the plot (for example: 1%, 2%, 5%, 10%, 20%, 40%, 60%, and 80%)
 
-## 24. Cross-validation
+## 23. Cross-validation
 * In this activity, we will study cross-validation   
    <img src="cross-val.png" align="middle" width="500" border="1"/>  
 * Here is a sample Python code:
