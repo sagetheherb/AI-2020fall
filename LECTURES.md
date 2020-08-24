@@ -1,4 +1,4 @@
-# Recorded lectures (To Do)
+# Recorded lectures
 
 **Chapter 18 - Learning From Examples**  
    1. [Forms of learning](https://www.youtube.com/watch?v=X7Ahz84K4cg)
