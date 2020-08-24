@@ -7,7 +7,7 @@
    1. [Artificial neural networks](https://youtu.be/VzRjLQpY_dE)
 
 **Chapter 1 - Introduction**  
-   1. [What is AI?]()
+   1. [What is AI?](https://youtu.be/sPOCaolMNr4)
    1. [Acting humanly and thinking humanly](https://youtu.be/ml9hS8UxF2o)
    1. [Thinking rationally and acting rationally](https://www.youtube.com/watch?v=bioz_1pHSvs)
    1. [Foundations of AI](https://youtu.be/uAliWinAyAs)
