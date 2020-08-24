@@ -5,7 +5,7 @@
 ## A. Class and office hours
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/)
 * Email: [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
-* Class meets: `TR 12:30PM - 1:45PM` (via Zoom)
+* Class meets: `TR 12:30PM - 1:45PM` (synchronously via Zoom)
 * Office hours: I will be available for up to 30 minutes after each class to answer your questions. If this time does not work for you, please email me and we can find a time that works for you and me.
 
 ## B. About the course (Official course description)
@@ -60,7 +60,9 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 * Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
 * You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
 
-## K. Late policy  
+## K. Due dates and late policy  
+* Homeworks and project phases have their respective due dates (see Schedule).
+* All activities will be graded at the end of the semester (i.e. no immediate due dates). You can resubmit activities as many times as you want. Your most recent submission will be graded.
 * You can request a maximum two-day extension on any homeworks or project submissions - for up to two submissions. 
 * If you email me a few hours before a deadline and I don't reply you immediately, and if you have not used your two-day extensions, you can assume that the extension is granted automatically.
 * Once you use your extension days, late submissions will get no points.
