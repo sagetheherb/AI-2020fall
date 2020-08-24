@@ -1,7 +1,7 @@
 **Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
 # Classroom activities
-* There will be 20+ classroom activities for you to participate.
+* There will be 20+ classroom activities for you to practice and complete.
 * You will need to complete at least 20 activities in order to receive full points. If you complete more than 20 activities, you will receive a 0.5 bonus point for each activity you complete.
 * The first half set of activities are relatively easy (with Notebooks provided).
 
