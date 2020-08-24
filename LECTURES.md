@@ -11,7 +11,7 @@
    1. [Acting humanly and thinking humanly]()
    1. [Thinking rationally and acting rationally](https://www.youtube.com/watch?v=bioz_1pHSvs)
    1. [Foundations of AI]()
-   1. [History of AI]()
+   1. [History of AI](https://youtu.be/bzkT3NgLIr8)
 
 **Chapter 2 - Intelligent Agents**  
    1. [Agent function vs agent program]()
