@@ -9,7 +9,7 @@
 **Chapter 1 - Introduction**  
    1. [What is AI?]()
    1. [Acting humanly and thinking humanly]()
-   1. [Thinking rationally and acting rationally]()
+   1. [Thinking rationally and acting rationally](https://www.youtube.com/watch?v=bioz_1pHSvs)
    1. [Foundations of AI]()
    1. [History of AI]()
 
