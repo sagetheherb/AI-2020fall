@@ -78,11 +78,11 @@ There will be two types of homeworks:
 2. Project phases (see [project](./PROJECT.md))
 
 ### Chapter summary homeworks
-The homework here is to write a 1000 words summary of each chapter after watching the [recorded lectures](./). Please see the course schedule above for submission deadlines.
+The homework here is to write a 1000 words summary of each chapter after watching the [recorded lectures](./LECTURES.md). Please see the course schedule above for submission deadlines.
 1. Your summary should be at least 1000 words (at least 1500 words for graduate students) of `plain text`.
 1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
 1. Your summary should not be all bullets, use bullets only when appropriate.
-1. Your chapter summary must be divided into the [ToDo: topics of the chapter](). For example, the summary on the chapter `Preception` should have the corresponding four sections.
+1. Your chapter summary must be divided into the [topics of the chapter](./LECTURES.md). For example, the summary on the chapter `Preception` should have the corresponding four sections.
 1. All homeworks will be automatically checked for plagarism using the Canvas plugin Turnitin. If you copy/paste contents from the Internet, you will receive a `zero` for your submission. Serious actions will be taken for any repeated plagarism.
 
 ## O. Oral tests
