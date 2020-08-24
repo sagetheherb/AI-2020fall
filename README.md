@@ -95,11 +95,11 @@ The mid-term and finals for this course will be in the form of oral tests, via Z
 * Uninformed missing of three consecutive classes in a row may lead to failing the course.
 
 ## Q. Grade composition  
-* 8 chapter summaries * 2 = 16 points
+* 10 chapter summaries * 2 = 20 points
 * 3 project phases * 6 = 18 points
 * 1 final project report * 12 = 12 points
 * 20 activities * 1 = 20 points
-* 2 oral tests * 17 = 34 points 
+* 2 oral tests * 15 = 30 points 
 * 1 bonus point to everyone who complete the course evaluation survey (please email me once you submit the survey)
 
 ## R. Grading scheme  
