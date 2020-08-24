@@ -15,7 +15,7 @@
 * CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
 ## D. Learning outcomes  
-I teach this course differently. Although I cover the book's chapter topics, the focus of the course is on the [ToDo: activities](). The activities are the heart of the course. I believe that you will learn more from the lectures when you watch them at home. So, I have recorded the chapter lectures for you to watch at home. During class, we will focus on activities. I will provide you the technical support you need to complete the activities. We all learn more by `doing` and this is exactly what we will do in this course. Below are the learning outcomes:
+I teach this course differently. Although I cover the book's chapter topics, the focus of the course is on the [activities](./activities/README.md). The activities are the heart of the course. I believe that you will learn more from the lectures when you watch them at home. So, I have recorded the chapter lectures for you to watch at home. During class, we will focus on activities. I will provide you the technical support you need to complete the activities. We all learn more by `doing` and this is exactly what we will do in this course. Below are the learning outcomes:
 * Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 * Learn artificial intelligence principles and approaches
 * Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
@@ -75,10 +75,10 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 ## N. Homeworks
 There will be two types of homeworks:  
 1. Writing chapter summaries, and 
-2. Project phases (see [ToDo: project]())
+2. Project phases (see [project](./PROJECT.md))
 
 ### Chapter summary homeworks
-The homework here is to write a 1000 words summary of each chapter after watching the [ToDo: recorded lectures](). Please see the course schedule above for submission deadlines.
+The homework here is to write a 1000 words summary of each chapter after watching the [recorded lectures](./). Please see the course schedule above for submission deadlines.
 1. Your summary should be at least 1000 words (at least 1500 words for graduate students) of `plain text`.
 1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
 1. Your summary should not be all bullets, use bullets only when appropriate.
