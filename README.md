@@ -80,7 +80,7 @@ There will be two types of homeworks:
 
 ### Chapter summary homeworks
 The homework here is to write a 1000 words summary of each chapter after watching the [ToDo: recorded lectures](). Please see the course schedule above for submission deadlines.
-1. Your summary should be at least 1000 words of `plain text`.
+1. Your summary should be at least 1000 words (at least 1500 words for graduate students) of `plain text`.
 1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
 1. Your summary should not be all bullets, use bullets only when appropriate.
 1. Your chapter summary must be divided into the [ToDo: topics of the chapter](). For example, the summary on the chapter `Preception` should have the corresponding four sections.
