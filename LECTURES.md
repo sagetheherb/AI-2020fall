@@ -1,10 +1,10 @@
 # Recorded lectures (To Do)
 
 **Chapter 18 - Learning From Examples**  
-   1. [Forms of learning]()
-   1. [Univariate linear regression]()
-   1. [Linear classifiers and logistic regression]()
-   1. [Artificial neural networks]()
+   1. [Forms of learning](https://www.youtube.com/watch?v=X7Ahz84K4cg)
+   1. [Univariate linear regression](https://youtu.be/UcISiqqJvDg)
+   1. [Linear classifiers and logistic regression](https://youtu.be/DZzOwlNBNkM)
+   1. [Artificial neural networks](https://youtu.be/VzRjLQpY_dE)
 
 **Chapter 1 - Introduction**  
    1. [What is AI?]()
