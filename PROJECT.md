@@ -1,7 +1,7 @@
 # Semester-long course project
 
 ## A. Objectives
-1. Using Tensorflow, develop a feedforward neural network model for a classification or a regression problem using a pre-cleaned tabular dataset.
+1. Using Tensorflow, develop a feedforward neural network model for a classification or a regression problem using a pre-cleaned tabular dataset. If you are doing machine learning for the first time, I suggest you to choose a classification problem for project (not regression problem).
    1. NO time-series data, NO image data,  NO text data, only standard tabular data
    1. Data must have at least a 1000 rows and at least 3 input features (columns)
 1. Compare the performance of your model with a basic single layer model. For a regression problem, your single layer model is a linear regression model, and for a binary classification problem, your single layer model is a logistic regression model.
