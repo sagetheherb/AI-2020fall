@@ -14,8 +14,8 @@
    1. [History of AI](https://youtu.be/bzkT3NgLIr8)
 
 **Chapter 2 - Intelligent Agents**  
-   1. [Agent function vs agent program]()
-   1. [Rationality]()
+   1. [Agent function vs agent program (first 20 minutes)](https://youtu.be/_b8o2DvMdis)
+   1. [Rationality (last 15 minutes)](https://youtu.be/_b8o2DvMdis)
 
 **Chapter 3 - Solving Problems by Searching**  
    1. [Sample search problems](https://youtu.be/5adr4M_6d8Y)
