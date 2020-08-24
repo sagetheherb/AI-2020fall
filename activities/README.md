@@ -7,7 +7,6 @@
 
 # Recommended datasets
 * Classification and regression datasets at https://archive.ics.uci.edu/ml/datasets.php
- many confuse between classification and regression - particularly the starters
 
 --------------  
 
