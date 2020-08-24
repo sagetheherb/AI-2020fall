@@ -61,7 +61,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
 
 ## K. Due dates and late policy  
 * Homeworks and project phases have their respective due dates (see Schedule).
-* All activities will be graded at the end of the semester (i.e. no immediate due dates). You can resubmit activities as many times as you want. Your most recent submission will be graded.
+* All activities will be graded before the last week of the semester (i.e. 12/01). You can resubmit activities as many times as you want. Your most recent submission will be graded.
 * You can request a maximum two-day extension on any homeworks or project submissions - for up to two submissions. 
 * If you email me a few hours before a deadline and I don't reply you immediately, and if you have not used your two-day extensions, you can assume that the extension is granted automatically.
 * Once you use your extension days, late submissions will get no points.
