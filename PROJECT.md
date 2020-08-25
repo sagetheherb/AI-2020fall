@@ -1,5 +1,7 @@
 # Semester-long course project
 
+The [activities](./activities/README.md) that we will cover, will help you learn all the background to complete this semester-long course project.
+
 ## A. Objectives
 1. Using Tensorflow, develop a feedforward neural network model for a classification or a regression problem using a pre-cleaned tabular dataset. If you are doing machine learning for the first time, I suggest you to choose a classification problem for project (not regression problem).
    1. NO time-series data, NO image data,  NO text data, only standard tabular data
