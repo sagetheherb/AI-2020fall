@@ -6,7 +6,7 @@
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/)
 * Email: [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
 * Class meets: `Thursdays 12:30PM - 1:45PM` (synchronously via Zoom)
-* Office hours: I will be available for up to 30 minutes after each class to answer your questions. If this time does not work for you, please email me and we can find a time that works for you and me.
+* Office hours: Tuesdays 1:45 PM to 3:45 PM (or by appointment)
 
 ## B. About the course (Official course description)
 * This course provides an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications. \[3 credit units\].
