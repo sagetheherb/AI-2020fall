@@ -5,7 +5,7 @@
 ## A. Class and office hours
 * Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib/)
 * Email: [adhikarib@umsl.edu](mailto:adhikarib@umsl.edu)
-* Class meets: `TR 12:30PM - 1:45PM` (synchronously via Zoom)
+* Class meets: `Thursdays 12:30PM - 1:45PM` (synchronously via Zoom)
 * Office hours: I will be available for up to 30 minutes after each class to answer your questions. If this time does not work for you, please email me and we can find a time that works for you and me.
 
 ## B. About the course (Official course description)
